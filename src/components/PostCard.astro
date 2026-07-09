@@ -1,0 +1,17 @@
+---
+import { formatDate } from '../utils';
+import { categoryName } from '../config';
+interface Props { post: any; }
+const { post } = Astro.props;
+const img = post.data.heroImage;
+const alt = post.data.heroAlt ?? post.data.title;
+---
+<a class="post-card" href={`/blog/${post.slug}`}>
+  {img && <img class="post-card-img" src={img} alt={alt} width="400" height="225" loading="lazy" />}
+  <div class="post-card-body">
+    <div class="meta">{categoryName(post.data.category)}</div>
+    <h3>{post.data.title}</h3>
+    <p>{post.data.description}</p>
+    <div class="date">{formatDate(post.data.pubDate)}</div>
+  </div>
+</a>

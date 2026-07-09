@@ -1,0 +1,118 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { site, categoryName } from '../../config';
+import { formatDate, isoDate, readingTime } from '../../utils';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  return posts.map((post) => ({ params: { slug: post.slug }, props: { post } }));
+}
+const { post } = Astro.props;
+const { Content } = await post.render();
+const { data } = post;
+const mins = readingTime(post.body);
+const url = new URL(`/blog/${post.slug}/`, site.url).href;
+const cover = data.heroImage;
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const related = allPosts
+  .filter((p) => p.data.category === data.category && p.slug !== post.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+
+const shareText = encodeURIComponent(data.title);
+const shareUrl = encodeURIComponent(url);
+const share = {
+  facebook: `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`,
+  x: `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`,
+  telegram: `https://t.me/share/url?url=${shareUrl}&text=${shareText}`,
+};
+
+const jsonld: object[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: data.title,
+    description: data.description,
+    inLanguage: 'vi-VN',
+    datePublished: isoDate(data.pubDate),
+    dateModified: isoDate(data.updatedDate ?? data.pubDate),
+    author: { '@type': 'Organization', name: site.name, url: site.url },
+    publisher: { '@type': 'Organization', name: site.name, url: site.url },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    articleSection: categoryName(data.category),
+    ...(cover ? { image: new URL(cover, site.url).href } : {}),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Trang chủ', item: site.url },
+      { '@type': 'ListItem', position: 2, name: 'Bài viết', item: new URL('/blog/', site.url).href },
+      { '@type': 'ListItem', position: 3, name: data.title, item: url },
+    ],
+  },
+];
+if (data.faq.length > 0) {
+  jsonld.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: data.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+}
+---
+<BaseLayout title={data.title} description={data.description} image={cover} type="article" jsonld={jsonld}>
+  <article class="article" data-pagefind-body>
+    <div class="meta">
+      <a href={`/blog/category/${data.category}`} class="cat">{categoryName(data.category)}</a>
+      <span>{formatDate(data.pubDate)}</span>
+      <span>· {mins} phút đọc</span>
+    </div>
+    <h1>{data.title}</h1>
+    {cover && <img class="hero-img" src={cover} alt={data.heroAlt ?? data.title} width="1200" height="675" loading="eager" />}
+    <div class="prose">
+      <Content />
+    </div>
+    {data.source && (
+      <p class="source-note">📖 Nguồn / bản quyền: {data.source}</p>
+    )}
+
+    <div class="share">
+      <span class="share-label">Chia sẻ:</span>
+      <a class="share-btn" href={share.facebook} target="_blank" rel="noopener">Facebook</a>
+      <a class="share-btn" href={share.x} target="_blank" rel="noopener">X</a>
+      <a class="share-btn" href={share.telegram} target="_blank" rel="noopener">Telegram</a>
+    </div>
+
+    {data.faq.length > 0 && (
+      <section class="faq">
+        <h2>Câu hỏi thường gặp</h2>
+        {data.faq.map((f) => (
+          <details class="faq-item"><summary>{f.q}</summary><p>{f.a}</p></details>
+        ))}
+      </section>
+    )}
+
+    <div class="tags">
+      {data.tags.map((t) => <span class="tag">#{t}</span>)}
+    </div>
+  </article>
+
+  {related.length > 0 && (
+    <section class="related">
+      <h2>Bài cùng chủ đề</h2>
+      <div class="post-cards">
+        {related.map((p) => (
+          <a class="post-card" href={`/blog/${p.slug}`}>
+            {p.data.heroImage && <img class="post-card-img" src={p.data.heroImage} alt={p.data.title} width="400" height="225" loading="lazy" />}
+            <div class="post-card-body">
+              <div class="meta">{categoryName(p.data.category)}</div>
+              <h3>{p.data.title}</h3>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</BaseLayout>

@@ -1,0 +1,28 @@
+---
+import { site } from '../config';
+const path = Astro.url.pathname;
+const links = [
+  { href: '/', label: 'Trang chủ' },
+  { href: '/kinh-sach', label: 'Kinh sách' },
+  { href: '/blog', label: 'Bài viết' },
+  { href: '/thuat-ngu', label: 'Thuật ngữ' },
+  { href: '/gioi-thieu', label: 'Về Khất Sĩ' },
+];
+function isActive(href: string) {
+  const cur = path.replace(/\/$/, '');
+  const clean = href.replace(/\/$/, '');
+  if (clean === '') return cur === '';
+  return cur === clean || cur.startsWith(clean + '/');
+}
+---
+<header class="site-header">
+  <div class="container nav">
+    <a href="/" class="brand">Khất<span class="dot"> Sĩ</span></a>
+    <nav class="nav-links">
+      {links.map((l) => (
+        <a href={l.href} class={isActive(l.href) ? 'active' : ''}>{l.label}</a>
+      ))}
+      <a href="/tim-kiem" class="nav-search" aria-label="Tìm kiếm">🔍 Tìm</a>
+    </nav>
+  </div>
+</header>
