@@ -18,7 +18,7 @@ faq:
   - q: "Mạng lưới Indra là gì?"
     a: "Mạng lưới Indra là một hình ảnh nổi tiếng từ Kinh Hoa Nghiêm: tưởng tượng một mạng lưới vô hạn, ở mỗi điểm nút có một viên ngọc. Mỗi viên ngọc phản chiếu tất cả các viên ngọc khác, và mỗi viên ngọc khác cũng phản chiếu nó. Biểu tượng cho sự liên kết vô hạn của mọi hiện tượng."
   - q: "HT. Thích Tuệ Sỹ là ai?"
-    a: "HT. Thích Tuệ Sỹ (1919–2014) là một bậc cao tăng nổi tiếng của Phật giáo Việt Nam, được xem là một trong những nhà Phật học thâm sâu nhất. Ngài chuyên giảng các bộ kinh Đại Thừa cao, đặc biệt là Kinh Hoa Nghiêm và Kinh Pháp Hoa."
+    a: "HT. Thích Tuệ Sỹ (1943–2023), pháp danh Nguyễn Chứng, pháp hiệu Tuệ Sỹ, tục danh Phạm Văn Thương, là một bậc cao tăng, học giả, nhà thơ, dịch giả nổi tiếng của Phật giáo Việt Nam. Ngài Giáo Sư Đại Học Vạn Hạnh, thông thạo 6 ngôn ngữ, chuyên giảng kinh Đại Thừa cao, sáng tác thơ, dịch Phật học, và là nhân vật bất đồng chính kiến vì nhân quyền. Ngài sống 80 tuổi, 69 năm tu học liên tục (xuất gia 1954)."
 draft: false
 ---
 
@@ -107,17 +107,18 @@ Xem toàn bộ 4 kỳ dưới đây:
 
 ## Về Giảng Sư — HT. Thích Tuệ Sỹ
 
-**HT. Thích Tuệ Sỹ** (1919–2014, pháp danh Nguyễn Chung, hiệu Tuệ Sỹ) là một trong những **bậc cao tăng nổi tiếng nhất** của Phật giáo Việt Nam:
+**HT. Thích Tuệ Sỹ** (1943–2023, pháp danh Nguyễn Chứng, pháp hiệu Tuệ Sỹ, tục danh Phạm Văn Thương) là một trong những **bậc cao tăng và học giả nổi tiếng nhất** của Phật giáo Việt Nam:
 
-- **Nhà Phật học thâm sâu** — đã làm việc với các tài liệu Phật học suốt cuộc đời
-- **Chuyên giảng kinh Đại Thừa cao** — Kinh Hoa Nghiêm, Kinh Pháp Hoa, Kinh Bát Nhã, Kinh Lăng Nghiêm
-- **Tư tưởng độc lập** — không theo trường phái nào, tự giải thích kinh văn từ góc nhìn của mình
-- **Được nhiều Phật tử hiểu biết sùng kính** — những bài giảng không chỉ lý thuyết mà còn ứng dụng sâu
-- **Sống khiêm tốn, tu hành thực sự** — không chỉ giảng mà còn tu
+- **Nhà Phật học sâu sắc** — Giáo Sư Đại Học Vạn Hạnh từ 1970, công trình Bách Khoa Phật Học Đại Tự Điển
+- **Chuyên giảng kinh Đại Thừa cao** — Kinh Hoa Nghiêm, Kinh Pháp Hoa, Kinh Lăng Nghiêm
+- **Nhà thơ, nhà văn, dịch giả** — sáng tác thơ, truyện ngắn; dịch Phật học từ Phạn, Trung, Nhật sang Việt
+- **Thông thạo 6 ngôn ngữ** — Phạn, Pali, Trung, Anh, Pháp, Nhật
+- **Tư tưởng độc lập** — không theo trường phái, tự giải thích từ góc nhìn riêng, liên kết Phật pháp với triết học Tây phương
+- **Nhân vật bất đồng chính kiến** — bảo vệ nhân quyền, tự do ngôn luận (Hellmann Award 1998, Giải Nhân quyền VN 2005)
 
-Giảng giải của HT. Tuệ Sỹ khác với những vị khác ở chỗ: ngài không chỉ **giải thích** kinh văn mà còn **phân tích sâu sắc** các triết lý đằng sau, liên kết với **khoa học hiện đại** và **tâm lý học** để giúp người nghe dễ hiểu hơn.
+Giảng giải của HT. Tuệ Sỹ khác với những vị khác ở chỗ: ngài không chỉ **giải thích** kinh văn mà còn **phân tích sâu sắc** các triết lý đằng sau, **liên kết với khoa học Tây phương** (ngài là người đầu tiên giới thiệu Foucault tại Việt Nam), giúp người nghe **nhìn sâu vào bản chất của kinh tứ từ nhiều chiều**.
 
-→ **Xem thêm:** [Tiểu sử HT. Thích Tuệ Sỹ — 95 năm tu học và giáo pháp](/blog/tieu-su-thich-tue-sy)
+→ **Xem thêm:** [Tiểu sử HT. Thích Tuệ Sỹ — 80 năm tu học, nhà học giả, nhà thơ Phật giáo](/blog/tieu-su-thich-tue-sy)
 
 ## Những Điều Cốt Lõi
 
