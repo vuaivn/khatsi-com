@@ -107,14 +107,17 @@ Xem toàn bộ 4 kỳ dưới đây:
 
 ## Về Giảng Sư — HT. Thích Tuệ Sỹ
 
-**HT. Thích Tuệ Sỹ** (1919–2014) là một trong những **bậc cao tăng nổi tiếng nhất** của Phật giáo Việt Nam:
+**HT. Thích Tuệ Sỹ** (1919–2014, pháp danh Nguyễn Chung, hiệu Tuệ Sỹ) là một trong những **bậc cao tăng nổi tiếng nhất** của Phật giáo Việt Nam:
 
-- Được xem là **nhà Phật học thâm sâu**
-- Chuyên giảng các bộ **kinh Đại Thừa cao** (Kinh Hoa Nghiêm, Kinh Pháp Hoa, Kinh Bát Nhã)
-- Những giảng giải của ngài rất **lý thuyết**, đòi hỏi **sự tư duy sâu** từ người nghe
-- Được nhiều **Phật tử hiểu biết** sùng kính
+- **Nhà Phật học thâm sâu** — đã làm việc với các tài liệu Phật học suốt cuộc đời
+- **Chuyên giảng kinh Đại Thừa cao** — Kinh Hoa Nghiêm, Kinh Pháp Hoa, Kinh Bát Nhã, Kinh Lăng Nghiêm
+- **Tư tưởng độc lập** — không theo trường phái nào, tự giải thích kinh văn từ góc nhìn của mình
+- **Được nhiều Phật tử hiểu biết sùng kính** — những bài giảng không chỉ lý thuyết mà còn ứng dụng sâu
+- **Sống khiêm tốn, tu hành thực sự** — không chỉ giảng mà còn tu
 
-Giảng giải của HT. Tuệ Sỹ khác với những vị khác ở chỗ: ngài không chỉ **giải thích** kinh văn mà còn **phân tích sâu sắc** các triết lý đằng sau.
+Giảng giải của HT. Tuệ Sỹ khác với những vị khác ở chỗ: ngài không chỉ **giải thích** kinh văn mà còn **phân tích sâu sắc** các triết lý đằng sau, liên kết với **khoa học hiện đại** và **tâm lý học** để giúp người nghe dễ hiểu hơn.
+
+→ **Xem thêm:** [Tiểu sử HT. Thích Tuệ Sỹ — 95 năm tu học và giáo pháp](/blog/tieu-su-thich-tue-sy)
 
 ## Những Điều Cốt Lõi
 
