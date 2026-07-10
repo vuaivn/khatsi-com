@@ -2,7 +2,8 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { site, categoryName } from '../../config';
-import { formatDate, isoDate, readingTime } from '../../utils';
+import { formatDate, isoDate, readingTime, slugify, collectTags } from '../../utils';
+import Playlist from '../../components/Playlist.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -14,6 +15,7 @@ const { data } = post;
 const mins = readingTime(post.body);
 const url = new URL(`/blog/${post.slug}/`, site.url).href;
 const cover = data.heroImage;
+const libTags = collectTags(data);
 
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const related = allPosts
@@ -71,6 +73,7 @@ if (data.faq.length > 0) {
     </div>
     <h1>{data.title}</h1>
     {cover && <img class="hero-img" src={cover} alt={data.heroAlt ?? data.title} width="1200" height="675" loading="eager" />}
+    {data.youtubePlaylist && <Playlist id={data.youtubePlaylist} title={data.title} />}
     <div class="prose">
       <Content />
     </div>
@@ -94,10 +97,21 @@ if (data.faq.length > 0) {
       </section>
     )}
 
-    <div class="tags">
-      {data.tags.map((t) => <span class="tag">#{t}</span>)}
-    </div>
+    {libTags.length > 0 && (
+      <div class="lib-tags">
+        {libTags.map((t) => (
+          <a class="lib-tag" href={`/tag/${slugify(t.label)}`}><span class="lib-tag-kind">{t.kind}</span>{t.label}</a>
+        ))}
+      </div>
+    )}
   </article>
+
+  <style>
+    .lib-tags { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 1.6rem; }
+    .lib-tag { display: inline-flex; align-items: center; gap: 6px; background: var(--bg-soft); border: 1px solid var(--border); border-radius: 999px; padding: 5px 14px; font-size: 0.9rem; color: var(--fg); }
+    .lib-tag:hover { border-color: var(--accent); color: var(--accent-deep); }
+    .lib-tag-kind { font-size: 0.72rem; color: var(--accent-deep); background: var(--card); padding: 1px 8px; border-radius: 999px; font-weight: 600; }
+  </style>
 
   {related.length > 0 && (
     <section class="related">
