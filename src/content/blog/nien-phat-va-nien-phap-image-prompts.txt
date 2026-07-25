@@ -1,0 +1,23 @@
+IMAGE PROMPTS FOR: nien-phat-va-nien-phap
+
+HERO IMAGE
+filename: hero-nien-phat-va-nien-phap.webp
+prompt: "A serene Vietnamese Buddhist meditation hall at dawn. Centered: a statue of Amitabha Buddha in golden robes, radiating soft amber light, sitting peacefully above an altar with incense smoke curling upward. To the left: a silhouette of a monk in deep meditation facing the Buddha, hands in prayer. To the right: a close-up of hands holding 108-bead mala beads with gentle light illuminating them. Background: misty temple walls with subtle traditional Buddhist patterns, soft natural light from high windows creating peaceful shadows. Traditional spiritual art style, warm saffron and gold accents (#c8912e), no text, no watermark, no logos, 16:9 aspect ratio."
+
+SECTION 1: CONTRAST IMAGE
+filename: nien-phat-va-nien-phap-01-two-paths.webp
+prompt: "A split visual metaphor for two Buddhist paths: LEFT SIDE (Nệm Phật): Buddha Amitabha statue glowing in warm golden light, with prayer beads forming a spiral of light toward Amitabha's heart, symbolizing faith and calling the Buddha's name. RIGHT SIDE (Niệm Pháp): A Buddhist meditator sitting under a Bodhi tree, mind-eye open inward showing layers of insight - visions of impermanence (flowing water, falling leaves), emptiness (dissolving forms), and no-self (transparent figure). Both paths converge at the top where light merges into pure white radiance. Traditional spiritual art style, saffron gold (#c8912e) accents, no text, no watermark, no logos, 16:9 aspect ratio."
+
+SECTION 2: DHARMA WHEEL IMAGE
+filename: nien-phat-va-nien-phap-02-dharma-wheel.webp
+prompt: "A traditional Buddhist Dharma wheel (Bhavacakra) rendered in warm earth tones and saffron gold. The wheel's center shows two symbols: a glowing lotus with Buddha's name written in Sanskrit on one petal (representing Nệm Phật faith), and a meditator in full lotus silhouette on another petal (representing Niệm Pháp wisdom). Around the wheel's rim: eight spokes labeled with key concepts - faith, wisdom, dedication, insight, etc. The background shows a peaceful temple courtyard at dusk, misty and serene. Ancient traditional Buddhist art style, no text labels visible, no watermark, no logos, 16:9 aspect ratio."
+
+---
+
+PRODUCTION NOTES:
+- All three images should feel cohesive - same lighting temperature (warm, spiritual), same artistic tradition (Vietnamese/Southeast Asian Buddhist temple art)
+- HERO: Establishes the "two paths" visually - Buddha on altar + meditator = both methods visible
+- SECTION 1: Direct visual metaphor separating the two methods, showing their essence
+- SECTION 2: Dharma wheel unifies both, showing they're part of the same Buddhist wheel
+- Color palette: saffron gold (#c8912e), warm amber, earth tones, white light, soft shadows
+- No modern elements, no distracting symbols - purely spiritual/traditional

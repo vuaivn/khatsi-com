@@ -1,0 +1,60 @@
+IMAGE PROMPTS FOR: "4-nhuc-thanh-dieu-de" (Bốn Nóc Thánh Đế)
+Post Category: phat-hoc (Buddhist doctrine)
+Slug: 4-nhuc-thanh-dieu-de
+Generated: 2026-07-16
+
+===============================================
+PROMPT 1 — HERO IMAGE (Section: Mở đầu)
+===============================================
+Filename: hero-4-nhuc-thanh-dieu-de.webp
+
+PROMPT:
+A serene Buddhist temple interior at dawn. The main altar is illuminated by golden candlelight, with four Buddha statues or representations positioned on elevated stands, each distinct yet unified by saffron-gold accent lighting (#c8912e). Above, shadows of bodhi tree leaves cast through tall arched windows. The composition is balanced and symmetrical. In the foreground, a simple offering table with incense smoke rising, partially obscuring the altar in a mystical haze. The overall mood is contemplative, spiritual, and inviting. No text, no lettering, no watermarks. Traditional spiritual art style. 16:9 aspect ratio, wide and serene. Accent color: #c8912e (saffron gold).
+
+===============================================
+PROMPT 2 — SECTION IMAGE (Section: Khổ Đế – Nhìn Thực Tế)
+===============================================
+Filename: 4-nhuc-thanh-dieu-de-01-kho-de.webp
+
+PROMPT:
+A symbolic representation of Dukkha (suffering as unsatisfactoriness). Depict a person sitting in a lotus posture at the edge of a misty cliff overlooking a vast, layered landscape of shifting mountains and cloud layers. The figure is surrounded by fleeting visual metaphors of impermanence: wilting flowers, falling autumn leaves, a stream flowing downward, and shadows shifting across the ground with each moment. The color palette is cool (greys, blues, pale yellows), with strategic saffron-gold (#c8912e) accent light illuminating the figure's serene face—suggesting wisdom amidst the transience. The art style is traditional spiritual painting (reminiscent of Thangka or classical Buddhist scroll). No text, no lettering, no signboards. 16:9 landscape format. Mood: contemplative, truthful, neither dark nor escapist.
+
+===============================================
+PROMPT 3 — SECTION IMAGE (Section: Tập Đế – Gốc Rễ của Khổ)
+===============================================
+Filename: 4-nhuc-thanh-dieu-de-02-tap-de.webp
+
+PROMPT:
+A visual metaphor of craving (taṇhā) as a root system. The composition shows a stylized tree with deep, tangled roots reaching downward into rich soil, some roots glowing with fire-like energy in saffron-gold (#c8912e). The three types of craving are represented subtly: one root branch curves toward sensual objects (silk, fruits), another toward a "self" or mirror (representing bhava-taṇhā/existence-craving), and a third coiling away in denial (representing vibhava-taṇhā/non-existence-craving). Above the soil, the tree's trunk is strong but beginning to wilt at the branches, showing how craving feeds the tree's life but also its decay. The background is a traditional Buddhist landscape with temple silhouettes. Traditional spiritual art. Accent: #c8912e. No text, no watermarks. 16:9. The style should feel both ancient and mystical.
+
+===============================================
+USAGE INSTRUCTIONS FOR HUMAN
+===============================================
+
+**ACTION:** Copy each prompt above (one at a time) into Gemini "Nano Banana" image generator. Create the image and send it back into chat with this format:
+
+[PROMPT 1] → [create in Gemini] → [send image file back]
+(wait for feedback)
+[PROMPT 2] → [create in Gemini] → [send image file back]
+(wait for feedback)
+[PROMPT 3] → [create in Gemini] → [send image file back]
+
+Once all images are received, the agent will:
+1. Convert to WebP (16:9, ≤120KB)
+2. Embed in markdown with alt text
+3. Deploy via Wrangler
+4. Mark post as published
+
+**Expected Result:** 3 images at these exact filenames:
+- hero-4-nhuc-thanh-dieu-de.webp (hero, 16:9)
+- 4-nhuc-thanh-dieu-de-01-kho-de.webp (khổ đế section, 16:9)
+- 4-nhuc-thanh-dieu-de-02-tap-de.webp (tập đế section, 16:9)
+
+All saved to: /public/images/posts/
+
+**CONTENT FIDELITY NOTE:** Each prompt is drawn from the article's own metaphors:
+- HERO: Bốn Nóc Thánh Đế unified altar scene (4 realizations)
+- PROMPT 1: "view from edge of cliff, misty layers of transience" = metaphor from section on anicca
+- PROMPT 2: "tree with tangled roots, three branches of craving" = direct metaphor from "ái tham là gốc rễ"
+
+None of these are generic Buddhist art — each prompt reifies language directly from the post.

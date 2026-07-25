@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f5f5f5;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#e8f0f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c8912e;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grad)"/>
+  <circle cx="600" cy="315" r="120" fill="none" stroke="#c8912e" stroke-width="2" opacity="0.6"/>
+  <circle cx="600" cy="315" r="80" fill="none" stroke="#8b7355" stroke-width="1" opacity="0.4"/>
+  <path d="M 600 250 Q 580 290 600 330 Q 620 290 600 250" fill="#c8912e" opacity="0.4"/>
+  <text x="600" y="580" font-family="Georgia, serif" font-size="24" text-anchor="middle" fill="#c8912e" opacity="0.7">Anattā</text>
+</svg>

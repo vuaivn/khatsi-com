@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .filter((p) => p.data.category === 'kinh-dien')
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<BaseLayout title="Kinh sách" description="Kho kinh điển và bản dịch Phật giáo, phân loại theo chủ đề — nguồn công khai, thiện nguyện.">
+  <section class="section container">
+    <div class="section-head">
+      <div class="eyebrow">📜 Thư viện</div>
+      <h2>Kinh sách</h2>
+      <p class="sub">Kinh điển và bản dịch chọn lọc từ nguồn công khai, thiện nguyện</p>
+    </div>
+    {posts.length > 0 ? (
+      <div class="post-cards">{posts.map((post) => <PostCard post={post} />)}</div>
+    ) : (
+      <p class="sub" style="text-align:center">Kho kinh sách đang được bổ sung…</p>
+    )}
+  </section>
+</BaseLayout>

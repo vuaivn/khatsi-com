@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { slugify, collectTags } from '../../utils';
+
+const posts = await getCollection('blog', ({ data }) => !data.draft);
+const groups: Record<string, Map<string, { label: string; count: number }>> = {
+  'Tác phẩm': new Map(), 'Tác giả': new Map(), 'Chủ đề': new Map(),
+};
+for (const post of posts) {
+  for (const { label, kind } of collectTags(post.data)) {
+    const g = groups[kind];
+    const slug = slugify(label);
+    if (!g.has(slug)) g.set(slug, { label, count: 0 });
+    g.get(slug)!.count++;
+  }
+}
+---
+<BaseLayout title="Thẻ tra cứu" description="Tra cứu theo tác phẩm, tác giả và chủ đề — thư viện Phật pháp Khất Sĩ.">
+  <section class="section container">
+    <div class="section-head">
+      <div class="eyebrow">🏷️ Tra cứu</div>
+      <h2>Thẻ</h2>
+      <p class="sub">Tìm nội dung theo tác phẩm, tác giả và chủ đề</p>
+    </div>
+    {Object.entries(groups).map(([kind, g]) => (
+      g.size > 0 && (
+        <div style="margin-bottom:2rem">
+          <h3 style="color:var(--accent-deep)">{kind}</h3>
+          <div class="tags">
+            {Array.from(g.entries()).sort((a, b) => b[1].count - a[1].count).map(([slug, info]) => (
+              <a class="tag" href={`/tag/${slug}`} style="font-size:0.95rem; padding:5px 14px">{info.label} <span style="opacity:0.6">({info.count})</span></a>
+            ))}
+          </div>
+        </div>
+      )
+    ))}
+  </section>
+</BaseLayout>

@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Tìm kiếm" description="Tìm kiếm toàn văn trong thư viện Phật pháp Khất Sĩ.">
+  <section class="section container" style="max-width:760px">
+    <div class="section-head">
+      <div class="eyebrow">🔍 Tra cứu</div>
+      <h2>Tìm trong thư viện</h2>
+      <p class="sub">Tìm kiếm toàn văn kinh sách, bài viết và luận giải</p>
+    </div>
+    <div id="search"></div>
+  </section>
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <script src="/pagefind/pagefind-ui.js" is:inline></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      if (window.PagefindUI) {
+        new window.PagefindUI({ element: '#search', showSubResults: true, translations: { placeholder: 'Nhập từ khóa…', clear_search: 'Xóa', load_more: 'Xem thêm', search_label: 'Tìm kiếm', zero_results: 'Không tìm thấy kết quả cho [SEARCH_TERM]' } });
+      }
+    });
+  </script>
+</BaseLayout>

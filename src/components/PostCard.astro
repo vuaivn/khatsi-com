@@ -1,0 +1,21 @@
+---
+import { formatDate } from '../utils';
+import { categoryName } from '../config';
+interface Props { post: any; }
+const { post } = Astro.props;
+const img = post.data.heroImage;
+const alt = post.data.heroAlt ?? post.data.title;
+// Card thumbnail (400x225, ~15KB) instead of full-res hero (~130KB) for fast listing load
+const thumb = img && img.startsWith('/images/posts/')
+  ? img.replace('/images/posts/', '/images/posts/thumbs/').replace(/\.(png|jpe?g)$/i, '.webp')
+  : img;
+---
+<a class="post-card" href={`/blog/${post.slug}`}>
+  {img && <img class="post-card-img" src={thumb} alt={alt} width="400" height="225" loading="lazy" decoding="async" />}
+  <div class="post-card-body">
+    <div class="meta">{categoryName(post.data.category)}</div>
+    <h3>{post.data.title}</h3>
+    <p>{post.data.description}</p>
+    <div class="date">{formatDate(post.data.pubDate)}</div>
+  </div>
+</a>

@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import { slugify, collectTags } from '../../utils';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  const map = new Map();
+  for (const post of posts) {
+    for (const { label, kind } of collectTags(post.data)) {
+      const slug = slugify(label);
+      if (!map.has(slug)) map.set(slug, { label, kind, posts: [] });
+      map.get(slug).posts.push(post);
+    }
+  }
+  return Array.from(map.entries()).map(([slug, info]) => ({
+    params: { tag: slug },
+    props: { label: info.label, kind: info.kind, posts: info.posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()) },
+  }));
+}
+const { label, kind, posts } = Astro.props;
+---
+<BaseLayout title={`${label}`} description={`Các bài viết, kinh sách và pháp âm liên quan đến ${kind.toLowerCase()}: ${label} — thư viện Khất Sĩ.`}>
+  <section class="section container">
+    <div class="section-head">
+      <div class="eyebrow">{kind}</div>
+      <h2>{label}</h2>
+      <p class="sub">{posts.length} nội dung liên quan</p>
+    </div>
+    <div class="post-cards">
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+    <div class="btn-row" style="margin-top:28px">
+      <a href="/tag" class="btn ghost">Tất cả thẻ</a>
+    </div>
+  </section>
+</BaseLayout>

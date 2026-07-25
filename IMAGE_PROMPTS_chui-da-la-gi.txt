@@ -1,0 +1,21 @@
+IMAGE PROMPTS - Chúi-Đà Là Gì?
+================================
+
+HERO IMAGE
+File: hero-chui-da-la-gi.webp
+Prompt:
+Traditional Buddhist spiritual art style. A meditation scene showing a luminous central point representing Chúi-Đà (Consciousness). Five rays of light converge toward this center from distinct directions—representing the five sense gates (eye, ear, nose, tongue, body) plus mind, all meeting at the radiant hub of consciousness. The light is golden (#c8912e accent), with ethereal, flowing wisps of energy. The background is a gradient from deep indigo to soft gold, suggesting transcendence. High detail, serene atmosphere, spiritually profound.
+
+---
+
+SECTION 1: KARMIC IMPRINTS
+File: chui-da-la-gi-01-karmic-imprints.webp
+Prompt:
+Traditional Buddhist spiritual art. A meditating figure sits in lotus pose, eyes closed in deep meditation. Behind and around the figure, semi-transparent ghostly shadows and silhouettes emerge—representing karmic imprints and vasanas (tendencies) from past lives. These shadows shift like smoke, showing various past-life scenes: a scholar, a warrior, a devoted follower, all fading into each other. The figure's aura glows with gold (#c8912e), symbolizing Chúi-Đà becoming aware of these imprints. Atmospheric, contemplative, traditional Eastern art style.
+
+---
+
+SECTION 2: STREAM OF CONSCIOUSNESS
+File: chui-da-la-gi-02-stream-consciousness.webp
+Prompt:
+Traditional Buddhist spiritual art. At the center, a luminous orb (Chúi-Đà—consciousness) radiates outward. From this center, four ornate doors or gateways open outward—representing the unified stream of consciousness connecting the five senses and mind. Each gateway glows with different colors (blue for eye, red for ear, green for nose, yellow for touch, violet for mind), yet all flows are unified back to the golden center (#c8912e). The doors are ornate, temple-like, with Sanskrit/Pali script subtly visible. Rivers of light flow through all gateways. Profoundly symbolic, serene, mystical.

@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { site, collectionsNav, categories } from '../config';
+import { getCollection } from 'astro:content';
+
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const latest = allPosts.slice(0, 6);
+---
+<BaseLayout>
+  <section class="hero">
+    <p class="quote">"Chư ác mạc tác, chúng thiện phụng hành, tự tịnh kỳ ý — ấy lời chư Phật dạy."</p>
+    <p class="quote-src">— Kinh Pháp Cú</p>
+    <p class="intro">{site.description}</p>
+    <div class="btn-row" style="margin-top:24px">
+      <a href="/kinh-sach" class="btn">Vào thư viện</a>
+      <a href="/gioi-thieu" class="btn ghost">Về Khất Sĩ</a>
+    </div>
+  </section>
+
+  <section class="section container">
+    <div class="section-head">
+      <div class="eyebrow">Thư viện</div>
+      <h2>Các kho nội dung</h2>
+    </div>
+    <div class="tiles">
+      {collectionsNav.map((c) => (
+        <a href={c.link} class="tile">
+          <div class="ico">{c.icon}</div>
+          <h3>{c.title}</h3>
+          <p>{c.desc}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="section container">
+    <div class="section-head">
+      <div class="eyebrow">Mới cập nhật</div>
+      <h2>Bài viết & luận giải</h2>
+      <p class="sub">Phật học ứng dụng, tu tập và kinh điển</p>
+    </div>
+    {latest.length > 0 ? (
+      <div class="post-cards">
+        {latest.map((post) => <PostCard post={post} />)}
+      </div>
+    ) : (
+      <p class="sub" style="text-align:center">Nội dung đang được cập nhật…</p>
+    )}
+    <div class="btn-row" style="margin-top:28px">
+      <a href="/blog" class="btn ghost">Xem tất cả bài viết</a>
+    </div>
+  </section>
+</BaseLayout>

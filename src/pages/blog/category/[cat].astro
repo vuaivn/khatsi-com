@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { categories, categoryName } from '../../../config';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  return categories.map((c) => ({ params: { cat: c.slug }, props: { cat: c } }));
+}
+const { cat } = Astro.props;
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .filter((p) => p.data.category === cat.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<BaseLayout title={cat.name} description={cat.desc}>
+  <section class="section container">
+    <div class="section-head">
+      <div class="eyebrow">Chủ đề</div>
+      <h2>{cat.name}</h2>
+      <p class="sub">{cat.desc}</p>
+    </div>
+    <div class="filter">
+      <a href="/blog">Tất cả</a>
+      {categories.map((c) => <a href={`/blog/category/${c.slug}`} class={c.slug === cat.slug ? 'active' : ''}>{c.name}</a>)}
+    </div>
+    {posts.length > 0 ? (
+      <div class="post-cards">{posts.map((post) => <PostCard post={post} />)}</div>
+    ) : (
+      <p class="sub" style="text-align:center">Chưa có bài trong chủ đề này…</p>
+    )}
+  </section>
+</BaseLayout>

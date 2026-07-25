@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../config';
+---
+<BaseLayout title="Pháp âm" description="Bài giảng audio và video Phật pháp chọn lọc tại thư viện Khất Sĩ.">
+  <section class="section container">
+    <div class="section-head">
+      <div class="eyebrow">🎧 Nghe pháp</div>
+      <h2>Pháp âm</h2>
+      <p class="sub">Bài giảng audio & video chọn lọc</p>
+    </div>
+    <div class="tiles">
+      <a href={site.social.youtube} target="_blank" rel="noopener" class="tile">
+        <div class="ico">▶️</div>
+        <h3>Kênh YouTube</h3>
+        <p>Các bài giảng và chia sẻ Phật pháp qua video.</p>
+      </a>
+    </div>
+    <p class="sub" style="text-align:center; margin-top:24px">Kho pháp âm đang được tuyển chọn và bổ sung…</p>
+  </section>
+</BaseLayout>

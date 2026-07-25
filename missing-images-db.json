@@ -1,0 +1,26 @@
+[
+    {
+        "post":  "kinh-phap-hoa",
+        "imageType":  "section",
+        "filename":  "kinh-phap-hoa-02-bao-thap.webp",
+        "prompt":  "A colossal golden pagoda stupa (Bao thap) floating in a celestial realm surrounded by radiant saffron-gold mist and clouds, traditional spiritual Buddhist art style, warm colors, serene and monumental atmosphere, 16:9, no text, no watermark, no logos",
+        "status":  "completed",
+        "addedAt":  "2026-07-15T12:00:00Z"
+    },
+    {
+        "post":  "tam-khon-tim-kiem-an-chi",
+        "imageType":  "hero",
+        "filename":  "hero-tam-khon-tim-kiem-an-chi.webp",
+        "prompt":  "A peaceful meditator seated in lotus position glowing with warm saffron-gold light, set against a dark abstract background of three concentric rings of space representing the three spaces of mind, traditional spiritual Buddhist art style, serene and holy atmosphere, 16:9, no text, no watermark, no logos",
+        "status":  "completed",
+        "addedAt":  "2026-07-16T12:53:27Z"
+    },
+    {
+        "post":  "tam-khon-tim-kiem-an-chi",
+        "imageType":  "section",
+        "filename":  "tam-khon-tim-kiem-an-chi-01.webp",
+        "prompt":  "A symbolic depiction of a turbulent stream flowing through jagged rocks, empty into a mirror-like still pool of water reflecting a soft crescent moon, traditional spiritual Buddhist art style, warm saffron-gold accent #c8912e, serene, peaceful and meditative mood, 16:9, no text, no watermark, no logos",
+        "status":  "completed",
+        "addedAt":  "2026-07-16T12:53:27Z"
+    }
+]

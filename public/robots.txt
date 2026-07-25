@@ -1,0 +1,30 @@
+# khatsi.com — cho phép mọi bot, bao gồm AI crawlers (chiến lược GEO/AIO)
+User-agent: *
+Allow: /
+
+# Cho phép tường minh các AI bot đọc nội dung để trích dẫn/answer
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://khatsi.com/sitemap.xml
