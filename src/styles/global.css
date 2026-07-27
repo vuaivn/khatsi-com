@@ -64,6 +64,12 @@ img { max-width: 100%; height: auto; }
 .hero .quote { font-family: var(--serif); font-size: 1.7rem; font-style: italic; color: var(--fg); line-height: 1.5; }
 .hero .quote-src { color: var(--accent-deep); font-weight: 600; margin-top: 12px; }
 .hero .intro { color: var(--fg-soft); margin-top: 22px; }
+.hero-h1 { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; color: var(--accent-deep); letter-spacing: 0.01em; margin: 0 0 18px; }
+.about-block { max-width: 780px; margin: 0 auto; }
+.about-block h2 { margin-bottom: 0.6rem; }
+.about-block p { color: var(--fg-soft); line-height: 1.75; margin: 0.8rem 0; }
+.about-block a { color: var(--accent-deep); font-weight: 500; }
+.about-block a:hover { color: var(--accent); }
 
 /* Sections */
 .section { padding: 40px 0; }

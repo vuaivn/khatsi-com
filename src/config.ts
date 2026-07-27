@@ -4,7 +4,7 @@ export const site = {
   url: 'https://khatsi.com',
   tagline: 'Thư viện Phật pháp · Thiểu dục tri túc',
   description:
-    'Khất Sĩ — thư viện Phật pháp trực tuyến. Lưu giữ và lan tỏa kinh sách, pháp âm, bài luận giải theo tinh thần người học và hành giáo lý nhà Phật: giản dị, tỉnh thức, thiểu dục tri túc.',
+    'Khất Sĩ — thư viện Phật pháp trực tuyến: kinh sách, pháp âm và bài luận giải theo tinh thần giản dị, tỉnh thức, thiểu dục tri túc.',
   email: 'admin@khatsi.com',
   author: { name: 'Khất Sĩ' },
   // Mạng lưới site cùng chủ (cross-link rel=me)
