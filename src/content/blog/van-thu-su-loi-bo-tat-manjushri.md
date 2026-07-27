@@ -12,7 +12,7 @@ tags:
   - prajñā
 heroImage: /images/posts/hero-van-thu-su-loi-bo-tat-manjushri.webp
 heroAlt: "Văn Thù Sư Lợi Bồ-tát cưỡi sư tử cầm thanh kiếm trí tuệ, xung quanh ánh sáng vàng rực rỡ, minh họa bài viết về Mañjuśrī trong Phật giáo Đại Thừa"
-draft: true
+draft: false
 faq:
   - q: "Văn Thù Sư Lợi Bồ-tát là ai?"
     a: "Văn Thù Sư Lợi (Mañjuśrī) là Bồ-tát biểu trưng cho trí tuệ tối thượng (prajñā) trong Phật giáo Đại Thừa, giúp chúng sinh cắt đứt vô minh và chứng ngộ chân lý."
