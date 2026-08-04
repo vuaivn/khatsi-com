@@ -36,9 +36,9 @@ Nền tảng của mọi tu tập. Giới Tịnh là sự thanh lọc thân và 
 
 **Dấu hiệu đạt được**: Không vi phạm giới luật đã thọ trì, tâm thanh thản, không sợ hãi về quá khứ.
 
-**Kinh nghiệm thực tế**: Khi giới luật vững, tâm tự nhiên nhẹ nhõm — không cần phải che giấu, không sợ ai biết mình làm gì. Đây là "sự thanh thản của người không nợ nần" — một loại hạnh phúc đơn giản nhưng sâu sắc.
+**Kinh nghiệm thực tế**: Khi giới luật vững, tâm tự nhiên nhẹ nhõm. Không cần che giấu gì, không sợ ai biết mình làm gì. Đây là "sự thanh thản của người không nợ nần" — một loại hạnh phúc đơn giản, nhưng sâu đến bất ngờ. Thử xem: tuần nào bạn không nói dối, không ăn cắp vặt, không nói xấu ai — tuần đó tâm yên hơn hẳn.
 
-Không có Giới Tịnh, mọi tu tập sau đều giống như xây nhà trên cát — sớm muộn cũng sụp.
+Không có Giới Tịnh thì xây nhà trên cát. Sớm muộn cũng sụp.
 
 ### 2. Tâm Tịnh (Citta-visuddhi) — Thanh Tịnh Tâm Ý
 
@@ -50,7 +50,7 @@ Sau khi giới luật vững, bước tiếp theo là thanh lọc tâm qua thi�
 
 **Thực hành**: Thiền niệm hơi thở ([Quán Thở - Ānāpānasati](/blog/quan-tho-anapanasati-phap-thien-niem-hoi-tho/)), thiền từ bi ([Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam/)), hoặc thiền kasiṇa (thiền màu sắc).
 
-Tâm Tịnh không phải là đích cuối. Nó chỉ là công cụ. Định lực mạnh giúp tâm đủ sắc bén để nhìn thấu thực tại trong các giai đoạn tiếp theo — đó mới là mục tiêu.
+Tâm Tịnh không phải đích cuối — nó chỉ là công cụ. Định lực mạnh giúp tâm đủ sắc bén để nhìn thấu thực tại. Đó mới là mục tiêu thật.
 
 ### 3. Kiến Tịnh (Diṭṭhi-visuddhi) — Thanh Tịnh Chánh Kiến
 
@@ -60,9 +60,9 @@ Với tâm đã định, hành giả bắt đầu phân tích thực tại. Ki�
 
 **Dấu hiệu đạt được**: Thấy rõ năm uẩn đang vận hành — sắc (thân), thọ (cảm giác), tưởng (tri giác), hành (tâm sở), thức (nhận thức) — mà không còn đồng nhất với chúng.
 
-**Kinh nghiệm**: Khi ngồi thiền, thay vì nghĩ "ta đang thở", bạn thấy "có hơi thở đang xảy ra, có nhận thức về hơi thở, có cảm giác khoan khoái hay khó chịu" — tất cả đều là hiện tượng riêng biệt, không có "ta" ở đâu cả.
+**Kinh nghiệm**: Khi ngồi thiền, thay vì nghĩ "ta đang thở", bạn thấy "có hơi thở đang xảy ra... có nhận thức về hơi thở... có cảm giác khoan khoái hay khó chịu..." — tất cả đều là hiện tượng riêng biệt. "Ta" ở đâu? Không có.
 
-Đây là bước đầu tiên của trí tuệ minh sát (vipassanā).
+Đây là bước đầu của trí tuệ minh sát (vipassanā).
 
 ### 4. Đoạn Nghi Tịnh (Kaṅkhāvitaraṇa-visuddhi) — Thanh Tịnh Vượt Qua Hoài Nghi
 
@@ -72,7 +72,7 @@ Sau khi thấy rõ danh-sắc, hành giả tiến sâu hơn — nhận ra **nhâ
 
 **Dấu hiệu đạt được**: Không còn thắc mắc "Ta có tồn tại trong quá khứ không? Ta sẽ là ai trong tương lai?" — vì thấy rõ chỉ có dòng nhân-quả, không có "ta" cố định nào.
 
-**Kinh nghiệm**: Bạn thấy tham ái sinh ra từ cảm thọ, cảm thọ sinh ra từ tiếp xúc, tiếp xúc sinh ra từ sáu căn... chuỗi này chạy tự động, không có "bản ngã" nào chủ động.
+**Kinh nghiệm**: Bạn thấy tham ái sinh ra từ cảm thọ... cảm thọ sinh ra từ tiếp xúc... tiếp xúc sinh ra từ sáu căn. Chuỗi này chạy tự động. Không có "bản ngã" nào chủ động cả.
 
 Giai đoạn này phá tan ảo tưởng về "tự ngã trường tồn".
 
@@ -84,7 +84,9 @@ Khi tu minh sát sâu, hành giả có thể gặp các trạng thái đặc bi�
 
 **Dấu hiệu đạt được**: Không bị cuốn vào các trạng thái đặc biệt, tiếp tục quan sát vô thường-khổ-vô ngã.
 
-**Cạm bẫy**: Đây là giai đoạn nhiều người bị kẹt nhất. Thấy ánh sáng, cảm thấy vô cùng thanh thản — rồi tưởng mình đã chứng quả. Sai lầm này phổ biến đến mức kinh gọi nó là "phi đạo giả trang làm đạo". Thầy giỏi sẽ chỉ ra ngay — còn tự tu thì dễ lạc lối.
+**Cạm bẫy**: Đây là giai đoạn nhiều người bị kẹt nhất. Thấy ánh sáng, cảm thấy vô cùng thanh thản — rồi tưởng mình đã chứng quả. Sai lầm này phổ biến đến mức kinh gọi nó là "phi đạo giả trang làm đạo".
+
+Thầy giỏi sẽ chỉ ra ngay. Còn tự tu? Dễ lạc lối lắm.
 
 ### 6. Đạo Tri Kiến Tịnh (Paṭipadā-ñāṇadassana-visuddhi) — Thanh Tịnh Tri Kiến Về Đạo Lộ
 
@@ -105,9 +107,9 @@ Sau khi vượt qua cạm bẫy, hành giả tiến vào chín giai đoạn minh
 
 **Dấu hiệu đạt được**: Đạt đến "hành xả" — tâm hoàn toàn cân bằng, không còn chấp giữ hay chống đối bất kỳ hiện tượng nào, chỉ quan sát với thái độ trung lập.
 
-**Kinh nghiệm**: Giai đoạn này có thể kéo dài từ tuần đến tháng. Hành giả thấy rõ sinh-diệt không ngừng của mọi pháp, sinh ra tâm nhàm chán sâu sắc về sự tồn tại, và khát khao giải thoát.
+**Kinh nghiệm**: Giai đoạn này có thể kéo dài từ tuần đến tháng. Hành giả thấy rõ sinh-diệt không ngừng của mọi pháp. Tâm nhàm chán sâu sắc về sự tồn tại. Khát khao giải thoát.
 
-Cuối giai đoạn này là "tri kiến tuân thuận" — tâm đã sẵn sàng nhảy vào Niết-bàn.
+Cuối giai đoạn này là "tri kiến tuân thuận" — tâm sẵn sàng nhảy vào Niết-bàn.
 
 ### 7. Tri Kiến Tịnh (Ñāṇadassana-visuddhi) — Thanh Tịnh Tri Kiến Tối Thượng
 
@@ -121,29 +123,29 @@ Cuối giai đoạn này là "tri kiến tuân thuận" — tâm đã sẵn sàn
 
 **Dấu hiệu đạt được**: Thấy Niết-bàn trực tiếp — không phải khái niệm, không phải tưởng tượng, mà là trải nghiệm thực tại tuyệt đối: vô sinh, vô diệt, vô vi.
 
-**Kinh nghiệm**: Ngài Sāriputta mô tả: "Khi tâm chứng đạt Niết-bàn, mọi khái niệm tan biến. Không có 'ta', không có 'đây', không có 'đó'. Chỉ có sự chấm dứt hoàn toàn."
+**Kinh nghiệm**: Ngài Sāriputta mô tả: "Khi tâm chứng đạt Niết-bàn, mọi khái niệm tan biến. Không có 'ta'. Không có 'đây', không có 'đó'. Chỉ có sự chấm dứt hoàn toàn."
 
-Sau khi chứng quả, hành giả "quay đầu" nhìn lại và thấy rõ bốn Thánh đế — điều trước đây chỉ là lý thuyết, giờ trở thành **tri kiến trực tiếp** (paccakkha).
+Sau khi chứng quả, hành giả "quay đầu" nhìn lại. Thấy rõ bốn Thánh đế — điều trước đây chỉ là lý thuyết, giờ trở thành **tri kiến trực tiếp** (paccakkha).
 
 ## Tại Sao Phải Tuần Tự?
 
-Thất Tịnh không thể nhảy cóc. Mỗi giai đoạn là điều kiện tiên quyết cho giai đoạn tiếp theo:
+Thất Tịnh không thể nhảy cóc. Mỗi giai đoạn là điều kiện cho giai đoạn tiếp theo:
 
-- **Không có giới** → tâm hối hận, không thể định.
-- **Không có định** → tâm rối loạn, không thể minh sát.
-- **Không có minh sát** → không thể chứng quả.
+- Không có giới → tâm hối hận, không thể định.
+- Không có định → tâm rối loạn, không thể minh sát.
+- Không có minh sát → không thể chứng quả.
 
 Ngài Buddhaghosa viết:
 
 > "Như người leo thang — bỏ qua một bậc là ngã. Bỏ qua một giai đoạn tịnh là thất bại."
 
-Tuy nhiên, **thời gian** ở mỗi giai đoạn khác nhau tùy căn cơ. Người có ba-la-mật sâu (pāramī) có thể đi nhanh — vài tháng, vài năm. Người căn cơ trung bình cần nhiều kiếp.
+**Thời gian** ở mỗi giai đoạn khác nhau tùy căn cơ. Người có ba-la-mật sâu (pāramī) có thể đi nhanh — vài tháng, vài năm. Người căn cơ trung bình? Cần nhiều kiếp.
 
 ## Thất Tịnh Trong Thực Tế Hiện Đại
 
-Hôm nay, phần lớn hành giả chỉ đạt Giới Tịnh và Tâm Tịnh. Ít người vào sâu đến Kiến Tịnh, và rất ít đạt các giai đoạn sau.
+Hôm nay, phần lớn hành giả chỉ đạt Giới Tịnh và Tâm Tịnh. Ít người vào sâu đến Kiến Tịnh. Rất ít đạt các giai đoạn sau.
 
-**Nguyên nhân**: Thiếu hướng dẫn có kinh nghiệm, thiếu thời gian tu tập chuyên sâu (intensive retreat), hoặc không kiên trì đủ lâu.
+**Nguyên nhân**: Thiếu hướng dẫn có kinh nghiệm. Thiếu thời gian tu tập chuyên sâu (intensive retreat). Hoặc không kiên trì đủ lâu.
 
 **Giải pháp**:
 - **Thiền viện**: Tham gia khóa thiền vipassanā dài hạn (10 ngày trở lên) dưới sự hướng dẫn thầy có kinh nghiệm.
@@ -200,11 +202,11 @@ Tam Học như ba cột trụ lớn, Thất Tịnh như bảy bậc thang chi ti
 
 Thất Tịnh là bản đồ chi tiết nhất của hành trình giải thoát. Không hứa hẹn đường tắt. Không bán ảo tưởng "giác ngộ tức thời". Nó chỉ nói thẳng: **từng bước, từng giai đoạn, không nhảy cóc**.
 
-Thanh Tịnh Đạo nhấn mạnh rằng bảy giai đoạn này không thể bỏ qua hay đảo lộn — mỗi giai đoạn là điều kiện cần thiết cho giai đoạn tiếp theo. Không có lối tắt nào dẫn thẳng đến giác ngộ mà bỏ qua các bước thanh tịnh.
+Thanh Tịnh Đạo nhấn mạnh rằng bảy giai đoạn này không thể bỏ qua hay đảo lộn — mỗi giai đoạn là điều kiện cần thiết cho giai đoạn tiếp theo. Không có lối tắt nào dẫn thẳng đến giác ngộ.
 
-Đối với hành giả hiện đại, Thất Tịnh là lời nhắc nhở thẳng thắn: đừng vội vàng, đừng nhảy cóc, đừng tưởng định là đích. Kiên trì từng bước — từ giới luật đến định tâm, từ định tâm đến minh sát, từ minh sát đến giác ngộ.
+Đối với hành giả hiện đại, Thất Tịnh là lời nhắc thẳng thắn: đừng vội, đừng nhảy cóc, đừng tưởng định là đích. Kiên trì từng bước. Giới luật → định tâm → minh sát → giác ngộ.
 
-Con đường dài. Nhưng đến khi đạt bậc cuối — Tri Kiến Tịnh — bạn sẽ nhìn lại và thấy: không bước nào là thừa.
+Con đường dài. Nhưng đến khi đạt Tri Kiến Tịnh, bạn sẽ nhìn lại và thấy: không bước nào thừa.
 
 **Đọc thêm:**
 
