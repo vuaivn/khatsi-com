@@ -26,12 +26,14 @@ Cửu Trụ Tâm (tiếng Phạn: *navākārā cittasthiti*) xuất hiện rõ r
 
 Khác với mô tả tổng quát về thiền jhāna, Cửu Trụ Tâm đi sâu vào **quá trình**. 
 
-Không chỉ nói "tâm định" mà vạch từng giai đoạn nhỏ: lúc nào tâm còn chạy lung tung, lúc nào bắt đầu giữ được, lúc nào nỗ lực giảm, đến lúc nào tâm tự an trú. Bản đồ thực hành, không phải lý thuyết xa vời. Mỗi hành giả ngồi thiền đều đi qua các giai đoạn này – nhận ra hay không là chuyện khác.
+Nó vạch từng giai đoạn nhỏ: lúc nào tâm còn chạy lung tung, lúc nào bắt đầu giữ được, lúc nào nỗ lực giảm, đến lúc nào tâm tự an trú. Đây là bản đồ thực hành, không phải lý thuyết xa vời. Mỗi hành giả ngồi thiền đều đi qua các giai đoạn này – nhận ra hay không là chuyện khác.
 
 ## Chín Giai Đoạn An Trú Tâm
 
 ### 1. Nội Trụ (Setting the Mind)
-**Đặt tâm vào đối tượng thiền.** Giai đoạn đầu tiên, hành giả học cách đưa tâm đến đối tượng (hơi thở, hình ảnh Phật, câu niệm…) và cố gắng giữ ở đó. Tâm vẫn rất tán loạn, chạy đi chỗ khác liên tục, nhưng đây là bước khởi đầu quan trọng: **nhận ra được tâm đang đi đâu**. Nhiều người mới tu nghĩ "tôi không thiền được" chỉ vì ở giai đoạn này – thực ra đây là giai đoạn tất yếu, không ai nhảy cóc qua được.
+**Đặt tâm vào đối tượng thiền.** Giai đoạn đầu tiên, hành giả học cách đưa tâm đến đối tượng (hơi thở, hình ảnh Phật, câu niệm…) và cố gắng giữ ở đó. Tâm vẫn rất tán loạn, chạy đi chỗ khác liên tục. 
+
+Nhưng đây là bước khởi đầu quan trọng: **nhận ra được tâm đang đi đâu**. Nhiều người mới tu nghĩ "tôi không thiền được" chỉ vì ở giai đoạn này. Thực ra đây là giai đoạn tất yếu – không ai nhảy cóc qua được.
 
 ### 2. Tục Trụ (Continuous Setting)
 **Duy trì liên tục.** Tâm bắt đầu có những khoảnh khắc ngắn giữ được đối tượng, không còn chạy đi ngay lập tức. Hành giả học cách kéo dài những khoảnh khắc ấy, nhưng vẫn phải nỗ lực nhiều. Tán loạn vẫn là chủ đạo, nhưng đã có dấu hiệu tâm nghe lời hơn.
@@ -43,7 +45,9 @@ Không chỉ nói "tâm định" mà vạch từng giai đoạn nhỏ: lúc nào
 **Tâm ít tán loạn hơn, không còn quên hoàn toàn đối tượng.** Tại giai đoạn này, tâm không còn chạy xa mãi mới nhận ra. Những phiền não thô – giận dữ, tham lam, hối tiếc lớn – bắt đầu giảm. Hành giả thấy rõ lợi ích của thiền, không còn nghi ngờ "có làm được không?"
 
 ### 5. Điều Phục (Taming)
-**Nhận ra lợi ích của định, tâm bớt chống đối.** Hành giả bắt đầu thấy rõ sự yên ổn, sáng suốt khi tâm định, nên tự động có động lực tiếp tục. Tán loạn vẫn có nhưng không còn mạnh như trước. Giai đoạn này quan trọng vì **tâm tự nguyện hợp tác** thay vì ép buộc.
+**Nhận ra lợi ích của định, tâm bớt chống đối.** Hành giả bắt đầu thấy rõ sự yên ổn, sáng suốt khi tâm định. Động lực tự đến. Tán loạn vẫn có nhưng không còn mạnh như trước. 
+
+Đây là giai đoạn quan trọng: **tâm tự nguyện hợp tác** thay vì bị ép buộc.
 
 ### 6. Tịch Tĩnh (Pacifying)
 **Không còn chống đối thiền.** Những phiền não tinh tế – buồn chán, lo âu nhỏ – giảm đáng kể. Hành giả không còn cảm giác thiền là gánh nặng hay phải cố gắng vượt qua nội tâm kháng cự. Tâm bắt đầu **muốn** an trú.
@@ -78,9 +82,9 @@ Cửu Trụ Tâm **không phải là** jhāna (thiền), mà là quá trình **c
 ## Ứng Dụng Thực Hành
 
 ### Đừng Vội Vàng
-Mỗi giai đoạn cần thời gian – có thể vài tuần, vài tháng, thậm chí vài năm tùy cường độ tu tập. 
+Mỗi giai đoạn cần thời gian. Vài tuần, vài tháng, thậm chí vài năm tùy cường độ tu tập. 
 
-Cố đẩy nhanh? Chỉ tạo căng thẳng, làm tâm thêm loạn.
+Cố đẩy nhanh chỉ tạo căng thẳng. Tâm càng loạn thêm.
 
 ### Nhận Diện Giai Đoạn Của Mình
 Đọc chín giai đoạn, tự hỏi: "Tôi đang ở đâu?" Nếu tâm vẫn chạy mãi mới nhận ra – bạn ở giai đoạn 1-2. Nếu nhận ra ngay nhưng vẫn tán loạn nhiều – giai đoạn 3-4. Nếu tâm đã ổn nhưng vẫn cần nỗ lực – giai đoạn 5-7. Nhận diện đúng giúp **chấp nhận hiện tại**, không tự trách mình.
@@ -96,9 +100,9 @@ Cửu Trụ Tâm là nền tảng cho mọi pháp thiền – từ [quán thở 
 ## Những Lầm Tưởng Thường Gặp
 
 ### "Tôi Thiền Không Được Vì Tâm Cứ Loạn"
-Sai.
+Sai bét.
 
-Tâm loạn ở giai đoạn 1-3 là **bình thường**. Đó không phải dấu hiệu thất bại mà là **giai đoạn cần thiết**. Không ai sinh ra đã ở giai đoạn 9.
+Tâm loạn ở giai đoạn 1-3 là **bình thường**. Đó không phải dấu hiệu thất bại. Đó là **giai đoạn cần thiết** mà ai cũng phải qua. Không ai sinh ra đã ở giai đoạn 9.
 
 ### "Tôi Đã Ổn Định, Nên Không Cần Tu Nữa"
 Nguy hiểm. Dừng tu ở giai đoạn 6-7 nghĩa là chưa đạt đẳng trì – tâm sẽ thoái lui nếu không duy trì. Cần tiếp tục đến giai đoạn 9, sau đó mới chuyển sang phát triển trí tuệ.
@@ -116,9 +120,9 @@ Khi đạt giai đoạn 9, hành giả có lựa chọn: tiếp tục phát tri�
 
 Cửu Trụ Tâm là bản đồ chi tiết nhất để hiểu hành trình từ tâm tán loạn đến tâm an trú. 
 
-Chín giai đoạn này không phải lý thuyết xa xôi – chúng là **trải nghiệm thực tế** của mọi người tu thiền, từ người mới bắt đầu đến bậc cao tăng. Hiểu rõ giai đoạn mình đang ở giúp **chấp nhận, điều chỉnh, và tiến bộ** mà không tự trách hay thất vọng.
+Chín giai đoạn này không phải lý thuyết xa xôi. Chúng là **trải nghiệm thực tế** của mọi người tu thiền, từ người mới bắt đầu đến bậc cao tăng. Hiểu rõ giai đoạn mình đang ở giúp chấp nhận, điều chỉnh, tiến bộ – không tự trách, không thất vọng.
 
-Tu thiền không phải đua nhanh. Đó là quá trình rèn luyện từng bước, mỗi giai đoạn một nấc thang. 
+Tu thiền không phải đua nhanh. Đó là quá trình rèn luyện từng bước. 
 
 Từ lúc đặt tâm lần đầu đến khi tâm tự an trú – hành trình dài, nhưng mỗi bước đều đáng giá. Khi tâm đã an trú, cánh cửa trí tuệ mở ra.
 
