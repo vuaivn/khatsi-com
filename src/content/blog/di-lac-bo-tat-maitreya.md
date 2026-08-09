@@ -22,7 +22,7 @@ faq:
 
 ## Nguồn Gốc Và Tên Gọi
 
-Di Lặc xuất hiện trong cả ba hệ thống kinh tạng Phật giáo: Pāli Canon (Nam tông), Āgama Sūtras (Bắc truyền), và kinh điển Đại Thừa. Không phải một phát minh muộn của Đại Thừa.
+Di Lặc xuất hiện trong cả ba hệ thống kinh tạng Phật giáo: Pāli Canon (Nam tông), Āgama Sūtras (Bắc truyền), và kinh điển Đại Thừa - chứng minh Ngài là giáo lý cổ xưa, không phải sáng tạo muộn của Đại Thừa.
 
 ### Ý Nghĩa Tên Gọi
 
@@ -90,13 +90,13 @@ Khi xuống thế, Di Lặc sẽ:
 
 Di Lặc là hiện thân của **maitrī** (từ ái) - tình thương yêu không điều kiện, không phân biệt. 
 
-Khác biệt quan trọng: **karuṇā** (từ bi) của [Quan Âm Bồ-Tát](/blog/quan-am-bo-tat-avalokitesvara/) là lòng trắc ẩn trước khổ đau. Còn **maitrī** là tình thương mến thuần túy, mong muốn hạnh phúc cho tất cả chúng sinh. Không cần lý do.
+Đừng nhầm lẫn với **karuṇā** (từ bi) của [Quan Âm Bồ-Tát](/blog/quan-am-bo-tat-avalokitesvara/) - đó là lòng trắc ẩn trước khổ đau. Còn **maitrī** của Di Lặc? Đơn giản hơn, trong sáng hơn: tình thương mến thuần túy, mong muốn hạnh phúc cho tất cả chúng sinh, không cần lý do, không đợi đáp trả.
 
 ### 2. Hy Vọng Về Tương Lai
 
-Dù giáo pháp có lúc suy vi, Phật đạo sẽ không bao giờ biến mất hoàn toàn. 
+Giáo pháp có lúc suy vi - điều đó không thể tránh. Nhưng Phật đạo sẽ không bao giờ biến mất hoàn toàn.
 
-Di Lặc là minh chứng cho điều đó. Sẽ luôn có một vị Phật mới tiếp nối ánh sáng giác ngộ.
+Di Lặc là minh chứng. Luôn có một vị Phật mới tiếp nối ánh sáng giác ngộ, dù phải đợi 5,67 tỷ năm. Hy vọng đó không phải an ủi rỗng tuếch - nó là cấu trúc vận hành của Phật pháp.
 
 ### 3. Biểu Tượng Văn Hóa
 
@@ -206,27 +206,27 @@ Học theo Di Lặc bằng cách tu tập **mettā** (từ tâm):
 
 ### 2. "Di Lặc chỉ là truyền thuyết, không có thật"
 
-**Sự thật**: Di Lặc được đề cập trong cả ba hệ thống kinh tạng (Pāli, Āgama, Mahāyāna), là một phần chính thống của giáo lý Phật giáo về Phật tương lai.
+**Sự thật**: Di Lặc xuất hiện trong cả ba hệ thống kinh tạng (Pāli, Āgama, Mahāyāna) - không phải thêm thắt muộn, mà là giáo lý cổ xưa về Phật tương lai. Nếu bạn tin Phật Thích Ca, bạn cũng có cơ sở tin Di Lặc.
 
 ### 3. "Vãng sanh Đâu Suất dễ hơn Tịnh Độ"
 
-**Sự thật**: Cả hai pháp môn đều cần thiện căn, phúc đức, nhân duyên. Đâu Suất là cõi trời trong Dục giới, vẫn có sanh tử luân hồi. Tịnh Độ là cõi Phật độ ngoài Tam Giới. Không nên so sánh cao thấp - chọn pháp môn phù hợp với căn cơ của mình.
+**Sự thật**: Cả hai pháp môn đều cần thiện căn, phúc đức, nhân duyên. Đâu Suất là cõi trời trong Dục giới - vẫn có sanh tử luân hồi. Tịnh Độ là cõi Phật độ ngoài Tam Giới - không còn sanh tử. Khác nhau về bản chất, không phải độ khó. Chọn pháp môn nào phù hợp căn cơ mình - đó mới là điều quan trọng.
 
 ## Ý Nghĩa Thực Tiễn Cho Người Tu Phật Hôm Nay
 
 Di Lặc nhắc nhở chúng ta:
 
-### 1. Nuôi Dưỡng Niềm Hy Vọng
+### 1. Giữ Niềm Hy Vọng
 
-Dù thế giới có tăm tối đến đâu, ánh sáng Phật pháp sẽ không bao giờ tắt. Luôn có một tương lai tươi sáng hơn.
+Dù thế giới có tối tăm đến đâu, ánh sáng Phật pháp không tắt. Luôn có một tương lai tươi sáng hơn - có khi phải đợi lâu, nhưng nó đến.
 
-### 2. Tu Tập Từ Tâm Ngay Bây Giờ
+### 2. Tu Từ Tâm Ngay Hôm Nay
 
-Không cần chờ đến kiếp sau hay khi Di Lặc xuống thế. Lòng từ ái có thể tu ngay trong hiện tại, biến đổi tâm mình và thế giới xung quanh.
+Không cần chờ kiếp sau hay khi Di Lặc xuống thế. Lòng từ ái tu được ngay bây giờ - và nó biến đổi tâm mình trước khi biến đổi thế giới xung quanh.
 
-### 3. Sống Với Nụ Cười
+### 3. Nụ Cười Cũng Là Tu
 
-Hình tượng Di Lặc Bụt Bầu với nụ cười rạng rỡ dạy ta: đừng sống quá nghiêm trọng với khổ đau. Hoan hỷ cũng là một pháp môn.
+Hình tượng Di Lặc Bụt Bầu với nụ cười rạng rỡ? Đừng sống quá nghiêm trọng với khổ đau. Hoan hỷ cũng là một pháp môn - không kém gì thiền định hay trì chú.
 
 ### 4. Chuẩn Bị Cho Tương Lai
 
@@ -234,13 +234,13 @@ Phát nguyện vãng sanh Đâu Suất không phải là trốn tránh trách nh
 
 ## Kết Luận
 
-Di Lặc là vị Phật tương lai. Nhưng lòng từ ái của Ngài không phải chuyện kiếp sau - nó có thể thấm vào cuộc sống chúng ta ngay hôm nay.
+Di Lặc là vị Phật tương lai. Nhưng lòng từ ái của Ngài? Không phải chuyện kiếp sau. Nó có thể thấm vào cuộc sống chúng ta ngay hôm nay.
 
-Ngài không phải huyền thoại xa vời. Ngài là lời nhắc nhở: giáo pháp Phật vĩnh hằng, và mỗi chúng ta đều có thể trở thành một phần của dòng chảy giác ngộ ấy.
+Ngài không xa vời như nhiều người tưởng. Ngài là lời nhắc: giáo pháp Phật vĩnh hằng, và mỗi chúng ta đều có thể trở thành một phần của dòng chảy giác ngộ ấy - dù sớm hay muộn.
 
-Tu tập từ tâm. Mỉm cười với cuộc đời. Tin vào tương lai. 
+Tu tập từ tâm. Mỉm cười với cuộc đời - như Bụt Bầu đó. Tin vào tương lai, nhưng đừng trì hoãn lòng từ của ngày hôm nay.
 
-Và nếu có duyên, phát nguyện gặp Di Lặc trong một kiếp nào đó, dưới cội cây Long Hoa, trong ba hội thuyết pháp vĩ đại.
+Và nếu có duyên? Phát nguyện gặp Di Lặc trong một kiếp nào đó, dưới cội cây Long Hoa, trong ba hội thuyết pháp. Thật ra, đó cũng là cách sống hướng đến điều gì đó lớn hơn mình - một loại từ ái với chính tương lai của chính mình.
 
 **Đọc thêm:**
 
