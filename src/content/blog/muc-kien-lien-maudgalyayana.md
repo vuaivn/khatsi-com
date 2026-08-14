@@ -30,7 +30,7 @@ faq:
 
 Mục-Kiền-Liên sinh ra tại làng Kolita, gần Rājagaha (Vương Xá) thuộc nước Magadha (nay là Bihar, Ấn Độ), trong một gia đình Bà-la-môn giàu có. Tên khai sinh của ông là **Kolita**, nhưng sau này được gọi theo tên dòng họ Moggallāna.
 
-Từ nhỏ, Kolita và người bạn thân Upatissa (sau này là Xá-lợi-phất) đã có giao ước: nếu ai tìm được con đường giải thoát sinh tử trước, sẽ chia sẻ cho người kia. Cả hai đều cảm thấy cuộc sống thế gian vô thường và tìm kiếm ý nghĩa sâu xa hơn.
+Từ nhỏ, Kolita và người bạn thân Upatissa (sau này là Xá-lợi-phất) đã có giao ước: nếu ai tìm được con đường giải thoát sinh tử trước, sẽ chia sẻ cho người kia. Họ giàu có, đẹp trai, được trọng vọng—nhưng cảm thấy tất cả ấy thiếu một thứ gì đó.
 
 Một ngày, Upatissa gặp tỳ-kheo Assaji (một trong năm anh em Kiều-Trần-Như), nghe lời dạy ngắn gọn về duyên khởi:
 
@@ -67,9 +67,7 @@ Mục-Kiền-Liên trở về hỏi Phật. Đức Phật dạy: nghiệp quả 
 
 Mục-Kiền-Liên làm theo. Nhờ công đức ấy, mẹ ông thoát khỏi ngạ quỷ đạo. Từ đó, lễ Vu Lan (ngày 15 tháng 7 âm lịch) trở thành ngày tưởng nhớ cha mẹ, báo hiếu sinh thành.
 
-**Bài học:** Thần thông không thể thay đổi nghiệp quả.
-
-Chỉ có công đức thiện nghiệp mới chuyển hóa được quả khổ. Dù mạnh nhất về thần lực, Mục-Kiền-Liên vẫn phải dựa vào sức mạnh tập thể của giới luật và từ bi—một lời nhắc nhở khiêm tốn rằng cá nhân dù vĩ đại đến đâu, cũng không thể tách rời cộng đồng.
+**Bài học:** Thần thông không thể thay đổi nghiệp quả. Chỉ có công đức thiện nghiệp mới chuyển hóa được quả khổ. Dù mạnh nhất về thần lực, Mục-Kiền-Liên vẫn phải dựa vào sức mạnh tập thể của giới luật và từ bi. Cá nhân dù vĩ đại đến đâu, cũng không thể tách rời cộng đồng.
 
 ## Vai Trò Trong Tăng Đoàn — Cánh Tay Phải Của Đức Phật
 
@@ -81,7 +79,7 @@ Mục-Kiền-Liên và Xá-lợi-phất được gọi là **Nhị Đại Đệ 
 
 Trong kinh **Tương Ưng Bộ** (Saṃyutta Nikāya), Phật từng nói: _"Moggallāna, nếu con muốn, con có thể dùng thần lực giữ đất rung chuyển trong một tuần mà không mệt."_
 
-Đây không phải lời khen khoe khoang. Đó là minh chứng cho sức mạnh thiền định sâu xa của ông.
+Không phải khoe khoang. Thiền định sâu đến mức đó.
 
 ## Cái Chết Bi Thảm — Bài Học Về Nghiệp Quả
 
@@ -95,9 +93,7 @@ Tuy có thể dùng thần túc thông để thoát thân, **Mục-Kiền-Liên 
 
 ### Nghiệp Quả Từ Kiếp Trước
 
-Phật giải thích: trong kiếp xa xưa, Mục-Kiền-Liên từng là một người con bất hiếu. Vì muốn lấy tài sản cha mẹ để nuôi vợ, hắn đưa hai ông bà già vào rừng rồi đánh đập, giả tiếng cướp để che đậy tội ác.
-
-Nghiệp ấy nặng nề.
+Phật giải thích: trong kiếp xa xưa, Mục-Kiền-Liên từng là một người con bất hiếu. Vì muốn lấy tài sản cha mẹ để nuôi vợ, hắn đưa hai ông bà già vào rừng rồi đánh đập, giả tiếng cướp để che đậy tội ác. Nghiệp ấy quá nặng.
 
 Dù kiếp này ông đã chứng A-la-hán, nghiệp quả vẫn hiện tiền. Sự khác biệt nằm ở **cách chịu đựng:** người phàm phu gánh nghiệp ác kéo theo đau khổ kiếp sau và phiền não triền miên; A-la-hán chịu quả báo thân thể, nhưng tâm hoàn toàn tự tại—không sợ hãi, không oán hận.
 
@@ -107,9 +103,7 @@ Khi Phật được hỏi tại sao không cứu Mục-Kiền-Liên, Ngài đáp
 
 Hai vị đại đệ tử này là tấm gương về **tình hữu nghị tâm linh** (kalyāṇa-mitta — bạn tốt trên đường đạo). Từ thuở thiếu thời đến lúc thành A-la-hán, họ luôn bên nhau, hỗ trợ lẫn nhau trên con đường giác ngộ.
 
-Xá-lợi-phất nhập diệt trước Mục-Kiền-Liên vài tháng. Khi hay tin, Mục-Kiền-Liên vô cùng đau buồn—không phải vì mất mát cá nhân, mà vì thương tiếc một bậc đạo hữu vĩ đại đã rời khỏi thế gian. Ông đem xá-lợi của Xá-lợi-phất dâng lên Phật, rồi tự mình cũng nhập diệt không lâu sau.
-
-Phật dạy rằng những vị A-la-hán như vậy không còn tái sinh, họ đã đạt **Niết-bàn vô dư** (anupādisesa-nibbāna)—thoát khỏi luân hồi vĩnh viễn, không còn thọ báo thân thể nào nữa.
+Xá-lợi-phất nhập diệt trước Mục-Kiền-Liên vài tháng. Khi hay tin, Mục-Kiền-Liên vô cùng đau buồn—không phải vì mất mát cá nhân, mà vì thương tiếc một bậc đạo hữu vĩ đại đã rời khỏi thế gian. Ông đem xá-lợi của Xá-lợi-phất dâng lên Phật, rồi tự mình cũng nhập diệt không lâu sau. Phật dạy rằng những vị A-la-hán như vậy không còn tái sinh, họ đã đạt **Niết-bàn vô dư** (anupādisesa-nibbāna)—thoát khỏi luân hồi vĩnh viễn, không còn thọ báo thân thể nào nữa.
 
 ## Thần Thông Không Phải Đích Đến — Bài Học Cốt Lõi
 
@@ -149,7 +143,7 @@ Câu chuyện cứu mẹ khỏi ngạ quỷ đạo nhắc nhở về **hiếu đ
 
 Mục-Kiền-Liên không trốn tránh cái chết vì biết rằng nghiệp đã tạo phải chịu quả. Nhưng ông chịu với tâm **hoàn toàn thanh tịnh, không oán hận, không sợ hãi**. Đó là biểu hiện cao nhất của A-la-hán: dù thân thể tan rã, tâm vẫn bất động.
 
-Trong cuộc sống hiện đại, nhiều khi chúng ta phải đối diện với hậu quả của hành động quá khứ—có thể là sai lầm nghề nghiệp, quan hệ hỏng, sức khỏe tổn hại. Bài học từ Mục-Kiền-Liên là: **chấp nhận, học hỏi, và giữ tâm thanh tịnh,** thay vì oán trách hoặc chạy trốn.
+Trong cuộc sống hiện đại, chúng ta cũng phải đối diện với hậu quả của hành động quá khứ: sai lầm nghề nghiệp, quan hệ hỏng, sức khỏe tổn hại. Mục-Kiền-Liên dạy rằng **chấp nhận, học hỏi, và giữ tâm thanh tịnh** hiệu quả hơn oán trách hay chạy trốn.
 
 ## Những Câu Hỏi Thường Gặp (FAQ)
 
