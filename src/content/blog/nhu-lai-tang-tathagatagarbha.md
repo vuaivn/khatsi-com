@@ -6,7 +6,7 @@ category: "phat-hoc"
 tags: ["Như Lai Tạng", "Tathāgatagarbha", "Phật tính", "Buddha-nature", "Đại Thừa", "Mahāyāna", "Giác ngộ"]
 heroImage: "/images/posts/hero-nhu-lai-tang-tathagatagarbha.webp"
 heroAlt: "Hạt sen nằm trong bùn lầy nhưng vẫn giữ được tiềm năng nở hoa thanh tịnh — biểu tượng Như Lai Tạng trong mỗi chúng sinh"
-draft: true
+draft: false
 faq:
   - q: "Như Lai Tạng có nghĩa là ai cũng sẽ thành Phật không?"
     a: "Như Lai Tạng là tiềm năng giác ngộ vốn có, nhưng để hiện thực hóa nó cần tu tập đúng đắn qua nhiều kiếp. Không phải tự nhiên mà thành Phật, mà phải nỗ lực chuyển hóa phiền não, tích lũy phước huệ."
@@ -80,7 +80,7 @@ Các kinh Như Lai Tạng nhấn mạnh ba yếu tố:
 - **Tư duy** (cintā) — suy ngẫm sâu sắc, không mù quáng theo.
 - **Tu tập** (bhāvanā) — thực hành đều đặn, biến hiểu biết thành chứng ngộ.
 
-Không thể chỉ tin rằng "ta vốn có Phật tính" rồi ngồi yên. Tu tập là bắt buộc. Hạt sen không tự nở nếu thiếu nước, ánh sáng, thời gian.
+Không thể chỉ tin rằng "ta vốn có Phật tính" rồi ngồi yên. Hạt sen không tự nở nếu thiếu nước, ánh sáng, thời gian — tu tập cũng vậy.
 
 ## Như Lai Tạng trong các tông phái Phật giáo
 
@@ -116,9 +116,9 @@ Sai. Mọi chúng sinh — kể cả động vật, ngạ quỷ, địa ngục �
 
 Biết mình có Như Lai Tạng, người tu không tự ti, không tuyệt vọng. Dù đã tạo bao nhiêu ác nghiệp, vẫn có cơ hội hồi đầu. Phiền não chỉ là mây che mặt trời — tu tập là cách xua tan mây.
 
-Đồng thời, không tự mãn. Có Phật tính mà không tu, cũng chỉ là người nghèo ngồi trên kho báu mà không biết. Ngày nào chưa chứng ngộ, ngày đó vẫn phải tinh tấn.
+Nhưng cũng đừng tự mãn. Có Phật tính mà không tu, cũng chỉ là người nghèo ngồi trên kho báu. Ngày nào chưa chứng ngộ, ngày đó vẫn phải tinh tấn.
 
-Như Lai Tạng là kim chỉ nam: con đường giác ngộ không xa xôi, huyền bí. Nó ngay trong tâm mỗi người. Chỉ cần quét sạch phiền não, Phật tính tự sáng.
+Con đường giác ngộ không xa. Nó ngay trong tâm. Quét sạch phiền não, Phật tính hiện.
 
 ---
 
