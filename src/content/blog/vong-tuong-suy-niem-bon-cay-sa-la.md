@@ -236,9 +236,9 @@ Lời cuối của Phật trước bát-niết-bàn là gì? Không phải *"Hã
 
 ## Liên Kết Nội Bộ
 
-- [Tứ Diệu Đế — Nền Tảng Đạo Phật](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)
-- [Ba Đặc Tướng — Đặc Điểm Cơ Bản Của Sự Tồn Tại](/blog/ba-dac-tuong-tilakkana)
-- [Bát Chánh Đạo — Con Đường Thoát Khỏi Khổ](/blog/bat-chanh-dao-dua-den-niem-tuc-va-giai-phong)
+- [Tứ Diệu Đế — Nền Tảng Đạo Phật](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)
+- [Ba Đặc Tướng — Đặc Điểm Cơ Bản Của Sự Tồn Tại](/blog/ba-dac-tuong-tilakkana/)
+- [Bát Chánh Đạo — Con Đường Thoát Khỏi Khổ](/blog/bat-chanh-dao-dua-den-niem-tuc-va-giai-phong/)
 
 ---
 

@@ -172,10 +172,10 @@ Câu hỏi cuối cùng: **Vậy hạnh phúc có phải là việc của may m�
 
 ## Liên Hệ Với Các Bài Viết Khác
 
-- **[Năm Giới — Nền Tảng Đạo Đức Căn Bản](/blog/ngu-gioi)**: cách thực hành Năm Giới để tạo những nhân tốt cho năm yếu tố hạnh phúc.
-- **[Duyên Khởi — Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi)**: cách hiểu sâu hơn về nhân quả và mối liên kết giữa hành động với kết quả.
-- **[Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam)**: cách phát triển tâm yêu thương để xây dựng gia đình và xã hội tốt hơn.
-- **[Thiền Định Là Gì — Con Đường Tĩnh Tâm](/blog/thien-dinh-la-gi)**: cách thực hành Chánh Niệm để đạt được tâm minh mẫn.
+- **[Năm Giới — Nền Tảng Đạo Đức Căn Bản](/blog/ngu-gioi/)**: cách thực hành Năm Giới để tạo những nhân tốt cho năm yếu tố hạnh phúc.
+- **[Duyên Khởi — Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi/)**: cách hiểu sâu hơn về nhân quả và mối liên kết giữa hành động với kết quả.
+- **[Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/)**: cách phát triển tâm yêu thương để xây dựng gia đình và xã hội tốt hơn.
+- **[Thiền Định Là Gì — Con Đường Tĩnh Tâm](/blog/thien-dinh-la-gi/)**: cách thực hành Chánh Niệm để đạt được tâm minh mẫn.
 
 ---
 

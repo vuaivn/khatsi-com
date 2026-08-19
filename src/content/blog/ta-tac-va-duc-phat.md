@@ -99,6 +99,6 @@ Kinh điển cảnh báo rằng siêu phép có thể bị lạm dụng hoặc l
 
 ## Liên Kết Nội Dung
 
-- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- [Duyên khởi là gì? Lý Duyên Sinh và 12 nhân duyên](/blog/duyen-khoi-la-gi)
-- [Tam Pháp Ấn — Vô thường, Khổ, Vô ngã](/blog/tam-phap-an)
+- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- [Duyên khởi là gì? Lý Duyên Sinh và 12 nhân duyên](/blog/duyen-khoi-la-gi/)
+- [Tam Pháp Ấn — Vô thường, Khổ, Vô ngã](/blog/tam-phap-an/)

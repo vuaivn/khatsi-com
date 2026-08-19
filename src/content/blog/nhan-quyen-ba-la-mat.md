@@ -130,5 +130,5 @@ Khi bạn tu Từ-Bi & Ba La Mật, bạn không chỉ tu hành cá nhân; bạn
 ---
 
 ## Liên Kết Nội Bộ
-- [Bồ-tát là gì? — Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi)
-- [Tứ vô lượng tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam)
+- [Bồ-tát là gì? — Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi/)
+- [Tứ vô lượng tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/)

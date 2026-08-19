@@ -111,7 +111,7 @@ Dù bạn là kẻ sát nhân hay con của thị nữ, dù bạn bị coi là "
 
 ## Liên Kết Nội Bộ & Đọc Thêm
 
-- [Năm Căn — Nền Tảng Trí Tuệ Trong Sám Tu](/blog/nam-can-phap-thap)
-- [Trung Đạo & Hai Cực Đoan — Sự Cân Bằng Trong Đạo Phật](/blog/trung-dao-hai-cuc-doan)
-- [Tứ Diệu Đế vs Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)
-- [Năm Uẩn (Pañcakkhandha) — Bản Chất Năm Tập Hợp Xây Dựng Cá Nhân](/blog/nam-uan-panchakkhandha)
+- [Năm Căn — Nền Tảng Trí Tuệ Trong Sám Tu](/blog/nam-can-phap-thap/)
+- [Trung Đạo & Hai Cực Đoan — Sự Cân Bằng Trong Đạo Phật](/blog/trung-dao-hai-cuc-doan/)
+- [Tứ Diệu Đế vs Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)
+- [Năm Uẩn (Pañcakkhandha) — Bản Chất Năm Tập Hợp Xây Dựng Cá Nhân](/blog/nam-uan-panchakkhandha/)

@@ -229,8 +229,8 @@ Hôm nay, khi gặp thử thách tiếp theo, hãy nhớ lại bài học này. 
 
 ## Tài Liệu Tham Khảo & Đọc Thêm
 
-- [Lục Độ Ba La Mật — Sáu Hạnh Bồ Tát](/blog/luc-do-ba-la-mat) · Toàn bộ sáu hạnh trong Bồ Tát đạo
-- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam) · Nền tảng tâm của hạnh kham nhẫn
-- [Nghiệp Và Tái Sinh — Luật Nhân Quả Trong Đạo Phật](/blog/nghiep-va-tai-sinh) · Tại sao quả báo lại ảnh hưởng tới ta
-- [Trung Đạo — Con Đường Tránh Hai Cực Đoan](/blog/trung-dao) · Sự cân bằng trong tu tập
-- [Thiền Định Là Gì? Con Đường Tĩnh Tâm Trong Đạo Phật](/blog/thien-dinh-la-gi) · Thiền định kết hợp với kham nhẫn
+- [Lục Độ Ba La Mật — Sáu Hạnh Bồ Tát](/blog/luc-do-ba-la-mat/) · Toàn bộ sáu hạnh trong Bồ Tát đạo
+- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/) · Nền tảng tâm của hạnh kham nhẫn
+- [Nghiệp Và Tái Sinh — Luật Nhân Quả Trong Đạo Phật](/blog/nghiep-va-tai-sinh/) · Tại sao quả báo lại ảnh hưởng tới ta
+- [Trung Đạo — Con Đường Tránh Hai Cực Đoan](/blog/trung-dao/) · Sự cân bằng trong tu tập
+- [Thiền Định Là Gì? Con Đường Tĩnh Tâm Trong Đạo Phật](/blog/thien-dinh-la-gi/) · Thiền định kết hợp với kham nhẫn

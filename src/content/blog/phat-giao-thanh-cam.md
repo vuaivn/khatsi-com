@@ -141,9 +141,9 @@ Khi bạn bắt đầu tu tập Bát Chánh Đạo một cách có ý thức, ni
 ---
 
 ## Liên kết nội bộ
-- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- [Ngũ Giới — Năm nguyên tắc đạo đức căn bản](/blog/ngu-gioi)
-- [Tam Quy Y — Nương tựa Phật, Pháp, Tăng](/blog/tam-quy-y)
+- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- [Ngũ Giới — Năm nguyên tắc đạo đức căn bản](/blog/ngu-gioi/)
+- [Tam Quy Y — Nương tựa Phật, Pháp, Tăng](/blog/tam-quy-y/)
  }
     $tagString = ($tags | ForEach-Object { ---
 title: "Phật Giáo Thành Cảm — Hiểu Đúng Niệm Tin Tưởng & Chứng Nghiệm"

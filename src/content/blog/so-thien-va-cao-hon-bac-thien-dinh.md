@@ -152,6 +152,6 @@ Từ đó, cuộc sống bạn hoàn toàn khác.
 
 ## Internal Links
 
-- [Bát Chánh Đạo — Con Đường Diệt Khổ Trong Phật Giáo](/blog/bat-chanh-dao)
-- [Trung Đạo & Hai Cực Đoan — Cân Bằng Trong Đạo Phật](/blog/trung-dao-hai-cuc-doan)
-- [Tứ Niệm Xứ (Satipatthāna) — Bốn Nền Tảng Của Chánh Niệm](/blog/tu-niem-xu-satipatthana)
+- [Bát Chánh Đạo — Con Đường Diệt Khổ Trong Phật Giáo](/blog/bat-chanh-dao/)
+- [Trung Đạo & Hai Cực Đoan — Cân Bằng Trong Đạo Phật](/blog/trung-dao-hai-cuc-doan/)
+- [Tứ Niệm Xứ (Satipatthāna) — Bốn Nền Tảng Của Chánh Niệm](/blog/tu-niem-xu-satipatthana/)

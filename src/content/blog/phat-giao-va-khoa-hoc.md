@@ -113,6 +113,6 @@ Phật pháp đã tồn tại hơn 2.500 năm trước khi khoa học hiện đ�
 
 ## Xem Thêm
 
-- [Tứ Diệu Đế — Bốn chân lý cơ sở của Phật pháp](/blog/tu-dieu-de-la-gi)
-- [Nghiệp và Tái sinh — Quy luật nhân quả trong đạo Phật](/blog/nghiep-va-tai-sinh)
-- [Thiền định là gì? Con đường tĩnh tâm trong đạo Phật](/blog/thien-dinh-la-gi)
+- [Tứ Diệu Đế — Bốn chân lý cơ sở của Phật pháp](/blog/tu-dieu-de-la-gi/)
+- [Nghiệp và Tái sinh — Quy luật nhân quả trong đạo Phật](/blog/nghiep-va-tai-sinh/)
+- [Thiền định là gì? Con đường tĩnh tâm trong đạo Phật](/blog/thien-dinh-la-gi/)

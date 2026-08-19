@@ -153,6 +153,6 @@ Hành giả thực hành tốt sẽ khám phá rằng **sự sống không chia 
 
 ## Liên Kết Nội Bộ
 
-- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi)
-- [Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu)
-- [Tam Tuệ — Văn, Tư, Tu ba bậc trí tuệ](/blog/tam-tue)
+- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi/)
+- [Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu/)
+- [Tam Tuệ — Văn, Tư, Tu ba bậc trí tuệ](/blog/tam-tue/)

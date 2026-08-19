@@ -108,9 +108,9 @@ Quy tắc vẫn đúng: **hành động tích cực → tâm trạng tốt → c
 
 ## Liên kết sâu hơn
 
-- Đọc thêm về [Duyên khởi (Lý Duyên Sinh)](/blog/duyen-khoi-la-gi) để hiểu nguyên lý: vì sao hành động tạo ra hậu quả.
-- Tìm hiểu [Tứ Diệu Đế – Bốn Chân Lý](/blog/dat-co-la-gi) để thấy karma là một phần của khung Phật pháp rộng lớn.
-- Khám phá [Hành Động & Trách Nhiệm](/blog/luon-ung-sa-mon) trong Tăng đoàn Phật giáo ngày nay.
+- Đọc thêm về [Duyên khởi (Lý Duyên Sinh)](/blog/duyen-khoi-la-gi/) để hiểu nguyên lý: vì sao hành động tạo ra hậu quả.
+- Tìm hiểu [Tứ Diệu Đế – Bốn Chân Lý](/blog/dat-co-la-gi/) để thấy karma là một phần của khung Phật pháp rộng lớn.
+- Khám phá [Hành Động & Trách Nhiệm](/blog/luon-ung-sa-mon/) trong Tăng đoàn Phật giáo ngày nay.
 
 ---
 

@@ -64,8 +64,8 @@ Tìm kiếm sự bình tĩnh bằng cách **không lo lắng quá mức tương 
 
 ## Liên Kết Bên Trong
 
-- [**Bát Chánh Đạo — Con đường 8 nhánh giải thoát**](/blog/bat-chanh-dao) — Chánh Niệm và Chánh Định là hai nhánh cuối cùng của Bát Chánh Đạo.
-- [**Tam Pháp Ấn — Vô thường, Khổ, Vô ngã**](/blog/tam-phap-an) — Ba đặc tượng Phật pháp giúp hiểu sâu tại sao tìm kiếm an chỉ trong thời gian là cần thiết.
+- [**Bát Chánh Đạo — Con đường 8 nhánh giải thoát**](/blog/bat-chanh-dao/) — Chánh Niệm và Chánh Định là hai nhánh cuối cùng của Bát Chánh Đạo.
+- [**Tam Pháp Ấn — Vô thường, Khổ, Vô ngã**](/blog/tam-phap-an/) — Ba đặc tượng Phật pháp giúp hiểu sâu tại sao tìm kiếm an chỉ trong thời gian là cần thiết.
 
 ---
 

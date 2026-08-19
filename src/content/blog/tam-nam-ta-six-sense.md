@@ -122,6 +122,6 @@ Sáu Thứ Nhập không phải lý thuyết trừu tượng. Nó là mô hình 
 
 ## Liên Kết Nội Bộ
 
-- [Duyên Khởi Mười Hai Nhánh](/blog/duyên-khởi-12-tính-liên-tiếp) – Chu trình vô minh toàn cảnh
-- [Năm Uẩn (Pañcakkhandha)](/blog/nam-uan-panchakkhandha) – Thành phần tạo nên "cá nhân"
-- [Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam) – Cách tu tập tâm một cách tích cực
+- [Duyên Khởi Mười Hai Nhánh](/blog/duyên-khởi-12-tính-liên-tiếp/) – Chu trình vô minh toàn cảnh
+- [Năm Uẩn (Pañcakkhandha)](/blog/nam-uan-panchakkhandha/) – Thành phần tạo nên "cá nhân"
+- [Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam/) – Cách tu tập tâm một cách tích cực

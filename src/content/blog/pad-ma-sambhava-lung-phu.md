@@ -223,10 +223,10 @@ Tương tự:
 
 ## Những Liên Kết Nội Tại (Đọc Tiếp)
 
-- [Duyên Khởi Là Gì? — Lý Duyên Sinh Và Mười Hai Nhân Duyên](/blog/duyen-khoi-la-gi) — hiểu nền tảng Phật pháp mà Padmasambhava truyền
-- [Bồ-Tát Tính Vắng — Tiến Độ Tâm Linh Qua Mười Địa](/blog/bo-tat-tinh-van-tien-du-the) — khái niệm Bodhisattva (như Padmasambhava)
-- [Nāgārjuna & Triết Lý Trung Quán — Cha Tổ Sư Phạm Của Tánh Không](/blog/nag-ar-jun-trung-quan) — hiểu Trung Quán (Madhyamaka), một truyền thống mà Padmasambhava cũng học
-- [Asoka — Người Hoàng Đế Độc Nhất Bảo Vệ & Lan Truyền Phật Giáo](/blog/asoka-vua-guom-phat-giao) — so sánh các hoằng pháp sư lớn lịch sử
+- [Duyên Khởi Là Gì? — Lý Duyên Sinh Và Mười Hai Nhân Duyên](/blog/duyen-khoi-la-gi/) — hiểu nền tảng Phật pháp mà Padmasambhava truyền
+- [Bồ-Tát Tính Vắng — Tiến Độ Tâm Linh Qua Mười Địa](/blog/bo-tat-tinh-van-tien-du-the/) — khái niệm Bodhisattva (như Padmasambhava)
+- [Nāgārjuna & Triết Lý Trung Quán — Cha Tổ Sư Phạm Của Tánh Không](/blog/nag-ar-jun-trung-quan/) — hiểu Trung Quán (Madhyamaka), một truyền thống mà Padmasambhava cũng học
+- [Asoka — Người Hoàng Đế Độc Nhất Bảo Vệ & Lan Truyền Phật Giáo](/blog/asoka-vua-guom-phat-giao/) — so sánh các hoằng pháp sư lớn lịch sử
 
 ---
 

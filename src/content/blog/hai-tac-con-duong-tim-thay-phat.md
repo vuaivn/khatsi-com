@@ -76,4 +76,4 @@ Không cần tu ở chùa xa xôi hay ngồi thiền cả năm. Chỉ cần **h�
 ---
 
 **Nguồn**: Phần II.2 (Bát Chánh Đạo — Giới), phat-hoc-qa.  
-**Liên kết nội bộ**: [Bát Chánh Đạo](/blog/bat-chanh-dao) · [Ngũ Giới](/blog/ngu-gioi) · [Nghiệp và Tái sinh](/blog/nghiep-va-tai-sinh)
+**Liên kết nội bộ**: [Bát Chánh Đạo](/blog/bat-chanh-dao/) · [Ngũ Giới](/blog/ngu-gioi/) · [Nghiệp và Tái sinh](/blog/nghiep-va-tai-sinh/)

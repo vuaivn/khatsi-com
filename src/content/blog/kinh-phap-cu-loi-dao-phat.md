@@ -158,8 +158,8 @@ Kinh Pháp Cú là **tài liệu tham khảo vĩnh viễn**. Mỗi lần đọc 
 
 ## Liên Kết Nội Bộ & Học Tiếp
 
-- **[Tứ Diệu Đế](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)** — Bốn chân lý nền tảng
-- **[Bát Chánh Đạo](/blog/bat-chanh-dao)** — Con đường tám nhánh
+- **[Tứ Diệu Đế](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)** — Bốn chân lý nền tảng
+- **[Bát Chánh Đạo](/blog/bat-chanh-dao/)** — Con đường tám nhánh
 - **[Kinh Pháp Cú – Full Text](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html)** — Bản kinh đầy đủ (tiếng Anh)
 
 ---

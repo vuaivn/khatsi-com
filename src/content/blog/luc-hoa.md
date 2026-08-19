@@ -139,6 +139,6 @@ Thực hành Lục Hòa đơn giản như: **lắng nghe người khác, nói l�
 
 ## Bài viết liên quan
 
-- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam)
-- [Ngũ Giới — Năm nguyên tắc đạo đức căn bản](/blog/ngu-gioi)
-- [37 Phẩm Trợ Đạo — Hệ thống tu tập toàn diện](/blog/37-pham-tro-dao)
+- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/)
+- [Ngũ Giới — Năm nguyên tắc đạo đức căn bản](/blog/ngu-gioi/)
+- [37 Phẩm Trợ Đạo — Hệ thống tu tập toàn diện](/blog/37-pham-tro-dao/)

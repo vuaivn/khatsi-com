@@ -146,8 +146,8 @@ Khi Bồ Tát tu Sáu Ba La Mật, khi Ngài giữ mười điều lành, khi Ng
 ---
 
 ## Liên Kết Nội Bộ
-- [Bồ Tát là gì? Lý tưởng Bồ Tát trong Đại thừa](/blog/bo-tat-la-gi)
-- [Lục Độ Ba La Mật — sáu hạnh Bồ Tát](/blog/luc-do-ba-la-mat)
-- [Quan Âm Bồ Tát — Lý tưởng từ bi cứu độ trong Đại Thừa](/blog/quan-am-bo-tat-tuong)
-- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam)
-- [Thập Thiện Nghiệp — mười điều lành](/blog/thap-thien-nghiep)
+- [Bồ Tát là gì? Lý tưởng Bồ Tát trong Đại thừa](/blog/bo-tat-la-gi/)
+- [Lục Độ Ba La Mật — sáu hạnh Bồ Tát](/blog/luc-do-ba-la-mat/)
+- [Quan Âm Bồ Tát — Lý tưởng từ bi cứu độ trong Đại Thừa](/blog/quan-am-bo-tat-tuong/)
+- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/)
+- [Thập Thiện Nghiệp — mười điều lành](/blog/thap-thien-nghiep/)

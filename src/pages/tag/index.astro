@@ -29,7 +29,7 @@ for (const post of posts) {
           <h3 style="color:var(--accent-deep)">{kind}</h3>
           <div class="tags">
             {Array.from(g.entries()).sort((a, b) => b[1].count - a[1].count).map(([slug, info]) => (
-              <a class="tag" href={`/tag/${slug}`} style="font-size:0.95rem; padding:5px 14px">{info.label} <span style="opacity:0.6">({info.count})</span></a>
+              <a class="tag" href={`/tag/${slug}/`} style="font-size:0.95rem; padding:5px 14px">{info.label} <span style="opacity:0.6">({info.count})</span></a>
             ))}
           </div>
         </div>

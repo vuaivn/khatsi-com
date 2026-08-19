@@ -289,8 +289,8 @@ _Với sự hiểu biết rõ ràng, mỗi khoảnh khắc sống — ăn, đi, 
 
 ## Các Bài Viết Liên Quan
 
-- [Tam Pháp Ấn — Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an)
-- [Ngũ Uẩn — Năm Nhóm Tâm Pháp Cấu Thành Con Người](/blog/ngu-uan-la-gi)
-- [Duyên Khởi — Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi)
-- [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao)
-- [Niết Bàn — Hiểu Đúng Về Sự Giải Thoát Tối Hậu](/blog/niet-ban-la-gi)
+- [Tam Pháp Ấn — Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an/)
+- [Ngũ Uẩn — Năm Nhóm Tâm Pháp Cấu Thành Con Người](/blog/ngu-uan-la-gi/)
+- [Duyên Khởi — Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi/)
+- [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/)
+- [Niết Bàn — Hiểu Đúng Về Sự Giải Thoát Tối Hậu](/blog/niet-ban-la-gi/)

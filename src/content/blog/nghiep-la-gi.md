@@ -21,7 +21,7 @@ faq:
 
 > **Tóm tắt nhanh:** **Nghiệp (Kamma/Karma)** nghĩa gốc là **"hành động có chủ ý"** — qua thân, khẩu, ý. Đây là **quy luật nhân quả đạo đức**: gieo nhân thiện gặt quả lành, gieo nhân ác gặt quả khổ. Nghiệp **không phải số phận định sẵn** hay sự trừng phạt, mà là dòng chảy ta liên tục tạo mới mỗi giây — nên hoàn toàn **có thể chuyển hoá**.
 
-Ít có khái niệm Phật học nào bị hiểu lầm nhiều như "nghiệp". Nhiều người nghĩ nghiệp là số phận an bài, là "trời phạt", hay một thứ nợ nần không lối thoát. Thực ra, đạo Phật dạy điều ngược lại: nghiệp chính là **sự tự do** — vì mỗi hành động hôm nay đang gieo trồng ngày mai. Hiểu nghiệp là hiểu một ứng dụng thực tiễn của [Duyên khởi](/blog/duyen-khoi-la-gi).
+Ít có khái niệm Phật học nào bị hiểu lầm nhiều như "nghiệp". Nhiều người nghĩ nghiệp là số phận an bài, là "trời phạt", hay một thứ nợ nần không lối thoát. Thực ra, đạo Phật dạy điều ngược lại: nghiệp chính là **sự tự do** — vì mỗi hành động hôm nay đang gieo trồng ngày mai. Hiểu nghiệp là hiểu một ứng dụng thực tiễn của [Duyên khởi](/blog/duyen-khoi-la-gi/).
 
 ## Nghiệp nghĩa là gì?
 
@@ -70,7 +70,7 @@ Chính vì nghiệp có thể thay đổi mà con đường tu tập mới có �
 
 Không thể "xoá" nghiệp đã gieo, nhưng có thể **chuyển hoá hướng đi**:
 
-1. **Dừng gieo nhân bất thiện** — giữ [giới](/blog/bat-chanh-dao), tránh hành động gây khổ cho mình và người.
+1. **Dừng gieo nhân bất thiện** — giữ [giới](/blog/bat-chanh-dao/), tránh hành động gây khổ cho mình và người.
 2. **Tích cực gieo nhân lành** — bố thí, ái ngữ, giúp đỡ, nuôi dưỡng tâm từ bi.
 3. **Tu tập chuyển hoá gốc rễ** — vì nghiệp bất thiện khởi từ tham-sân-si, tu giới-định-tuệ để chuyển hoá chính gốc ấy.
 
@@ -78,9 +78,9 @@ Không thể "xoá" nghiệp đã gieo, nhưng có thể **chuyển hoá hướn
 
 ## Nghiệp và luân hồi
 
-Nghiệp là **động lực** dẫn dắt vòng [luân hồi](/blog/vo-thuong-vo-nga) (saṃsāra). Năng lực của nghiệp chưa trổ quả tiếp nối dòng tâm thức, làm duyên cho sự tái sinh — không phải một "linh hồn" bất biến di chuyển, mà là dòng nhân quả tương tục.
+Nghiệp là **động lực** dẫn dắt vòng [luân hồi](/blog/vo-thuong-vo-nga/) (saṃsāra). Năng lực của nghiệp chưa trổ quả tiếp nối dòng tâm thức, làm duyên cho sự tái sinh — không phải một "linh hồn" bất biến di chuyển, mà là dòng nhân quả tương tục.
 
-Khi **tham-sân-si được đoạn tận**, không còn tạo nghiệp mới trói buộc, dòng luân hồi dừng lại. Đó chính là **Niết-bàn** — sự giải thoát mà [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi) chỉ ra.
+Khi **tham-sân-si được đoạn tận**, không còn tạo nghiệp mới trói buộc, dòng luân hồi dừng lại. Đó chính là **Niết-bàn** — sự giải thoát mà [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/) chỉ ra.
 
 ## Những điều cốt lõi
 
@@ -95,4 +95,4 @@ Khi **tham-sân-si được đoạn tận**, không còn tạo nghiệp mới tr
 
 Hiểu đúng về nghiệp là nhận ra một tin vui lớn: **ta không bị trói buộc bởi quá khứ**. Mỗi ý nghĩ, lời nói, hành động trong hiện tại là một hạt giống ta đang gieo. Nghiệp không phải xiềng xích của số phận, mà là **lời nhắc về sức mạnh của chính mình** — rằng ta luôn có thể bắt đầu gieo trồng khác đi, ngay từ khoảnh khắc này.
 
-Hiểu nghiệp rồi, hãy đọc tiếp [Duyên khởi là gì?](/blog/duyen-khoi-la-gi) để thấy nền tảng lý duyên sinh của nhân quả, và [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi) để hiểu con đường chuyển hoá khổ đau mà nghiệp lành mở ra.
+Hiểu nghiệp rồi, hãy đọc tiếp [Duyên khởi là gì?](/blog/duyen-khoi-la-gi/) để thấy nền tảng lý duyên sinh của nhân quả, và [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/) để hiểu con đường chuyển hoá khổ đau mà nghiệp lành mở ra.

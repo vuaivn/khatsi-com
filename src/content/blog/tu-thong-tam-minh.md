@@ -191,9 +191,9 @@ Không phải. Nó là **tự nhiên phát sinh** khi tu định sâu. Giống n
 
 ## Khám Phá Thêm
 
-- 👉 [37 Phẩm Trợ Đạo — Hệ Thống Tu Tập Toàn Diện](/blog/37-pham-tro-dao)
-- 👉 [Thiền Định Là Gì — Con Đường Tinh Tâm Trong Đạo Phật](/blog/thien-dinh-la-gi)
-- 👉 [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao)
+- 👉 [37 Phẩm Trợ Đạo — Hệ Thống Tu Tập Toàn Diện](/blog/37-pham-tro-dao/)
+- 👉 [Thiền Định Là Gì — Con Đường Tinh Tâm Trong Đạo Phật](/blog/thien-dinh-la-gi/)
+- 👉 [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/)
 
 ---
 

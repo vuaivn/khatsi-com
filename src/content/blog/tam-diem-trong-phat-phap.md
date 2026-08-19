@@ -135,6 +135,6 @@ Khi ba kính này gộp lại, con đường thoát khỏi khổ sáng tỏ. Đ�
 ---
 
 ## Bài Liên Quan
-- [Duyên Khởi là Gì? Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi)
-- [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao)
-- [Tam Pháp Ấn — Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an)
+- [Duyên Khởi là Gì? Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi/)
+- [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/)
+- [Tam Pháp Ấn — Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an/)

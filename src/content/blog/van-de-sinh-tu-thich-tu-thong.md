@@ -136,6 +136,6 @@ Bộ pháp âm 3 kỳ của HT. Thích Từ Thông là một **bước khởi đ
 ---
 
 **Xem thêm:**
-- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong)
-- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong)
-- [Tiểu sử HT. Thích Từ Thông](/blog/tieu-su-thich-tu-thong)
+- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong/)
+- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong/)
+- [Tiểu sử HT. Thích Từ Thông](/blog/tieu-su-thich-tu-thong/)

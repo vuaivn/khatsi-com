@@ -101,4 +101,4 @@ Những bản thảo Gāndhārī không chỉ là cổ vật, mà là **những 
 
 Hiểu được Gāndhārī, ta hiểu rằng **Phật pháp không phải là một khối bất biến lạc hậu từ ngàn năm, mà là một dòng sống** — thích ứng, truyền trao, được yêu thương và bảo vệ bởi những tâm linh sống thật ở các vùng khác nhau, cách đây hơn 2000 năm.
 
-Để tìm hiểu thêm về quá trình ghi chép Phật pháp, hãy xem [Bốn lần kết tập kinh điển](/blog/bon-lan-ket-tap) và [Tam Tạng Kinh Điển](/blog/tam-tang-kinh-dien).
+Để tìm hiểu thêm về quá trình ghi chép Phật pháp, hãy xem [Bốn lần kết tập kinh điển](/blog/bon-lan-ket-tap/) và [Tam Tạng Kinh Điển](/blog/tam-tang-kinh-dien/).

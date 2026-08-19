@@ -60,4 +60,4 @@ Tứ Diệu Đế không chỉ là triết lý. Mỗi khi khổ đau khởi lên
 
 Tứ Diệu Đế là tấm bản đồ toàn cảnh cho hành trình tu tập: biết mình đang ở đâu (khổ), vì sao (tập), có thể đi đến đâu (diệt), và đi bằng con đường nào (đạo). Hiểu bốn chân lý này, mọi lời dạy khác của đạo Phật đều trở nên sáng rõ.
 
-Đọc thêm: [Vô thường và vô ngã](/blog/vo-thuong-vo-nga) và [Kinh Pháp Cú](/blog/kinh-phap-cu-gioi-thieu).
+Đọc thêm: [Vô thường và vô ngã](/blog/vo-thuong-vo-nga/) và [Kinh Pháp Cú](/blog/kinh-phap-cu-gioi-thieu/).

@@ -86,5 +86,5 @@ Khi Phật dạy Tứ Diệu Đế, những lớp vỏ nhãn của họ rơi xu�
 ---
 
 **Tham khảo nội bộ:**
-- [Tứ Diệu Đế vs Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)
-- [Duyên Khởi Mười Hai Nhánh — Vòng Luân Hồi Và Sự Thoát Khỏi](/blog/duyên-khởi-12-tính-liên-tiếp)
+- [Tứ Diệu Đế vs Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)
+- [Duyên Khởi Mười Hai Nhánh — Vòng Luân Hồi Và Sự Thoát Khỏi](/blog/duyên-khởi-12-tính-liên-tiếp/)

@@ -124,7 +124,7 @@ Xem toàn bộ 4 kỳ dưới đây:
 
 Giảng giải của HT. Tuệ Sỹ khác với những vị khác ở chỗ: ngài không chỉ **giải thích** kinh văn mà còn **phân tích sâu sắc** các triết lý đằng sau, **liên kết với khoa học Tây phương** (ngài là người đầu tiên giới thiệu Foucault tại Việt Nam), giúp người nghe **nhìn sâu vào bản chất của kinh tứ từ nhiều chiều**.
 
-→ **Xem thêm:** [Tiểu sử HT. Thích Tuệ Sỹ — 80 năm tu học, nhà học giả, nhà thơ Phật giáo](/blog/tieu-su-thich-tue-sy)
+→ **Xem thêm:** [Tiểu sử HT. Thích Tuệ Sỹ — 80 năm tu học, nhà học giả, nhà thơ Phật giáo](/blog/tieu-su-thich-tue-sy/)
 
 ## Những Điều Cốt Lõi
 
@@ -145,6 +145,6 @@ Bộ pháp âm 4 kỳ của HT. Thích Tuệ Sỹ là một **cơ hội quý** �
 ---
 
 **Xem thêm:**
-- [Ngôn Tay Chỉ Trăng — 100 kỳ Phật pháp toàn diện](/blog/ngon-tay-chi-trang-thich-tu-thong)
-- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong)
-- [Tiểu sử HT. Thích Từ Thông](/blog/tieu-su-thich-tu-thong)
+- [Ngôn Tay Chỉ Trăng — 100 kỳ Phật pháp toàn diện](/blog/ngon-tay-chi-trang-thich-tu-thong/)
+- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong/)
+- [Tiểu sử HT. Thích Từ Thông](/blog/tieu-su-thich-tu-thong/)

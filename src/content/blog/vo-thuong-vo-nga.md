@@ -54,4 +54,4 @@ Bạn không cần tin ngay — chỉ cần **quan sát**: chú ý hơi thở đ
 
 Vô thường và vô ngã không phải để làm ta chán đời, mà để **giải phóng** ta khỏi gánh nặng nắm giữ và bảo vệ. Khi chấp nhận rằng mọi thứ đổi thay và không có gì để bám chặt, ta được tự do sống trọn vẹn từng khoảnh khắc.
 
-Đọc thêm: [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi) và [Thực hành chánh niệm mỗi ngày](/blog/thuc-hanh-chanh-niem).
+Đọc thêm: [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/) và [Thực hành chánh niệm mỗi ngày](/blog/thuc-hanh-chanh-niem/).

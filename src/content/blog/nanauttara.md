@@ -192,6 +192,6 @@ Nếu bạn đang trên con đường tu, hãy để Tứ Thiền trở thành *
 ---
 
 ## Nội bộ link liên quan
-- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- [Tứ Niệm Xứ — Nền tảng thiền quán chánh niệm](/blog/tu-niem-xu)
-- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam)
+- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- [Tứ Niệm Xứ — Nền tảng thiền quán chánh niệm](/blog/tu-niem-xu/)
+- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/)

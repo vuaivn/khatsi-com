@@ -106,9 +106,9 @@ Hiểu ba tầu năm năm giúp:
 
 ## Liên kết nội bộ
 
-- **[Lục Độ Ba La Mật – sáu hành Bồ-tát](/blog/luc-do-ba-la-mat)** — chi tiết từng Ba La Mật.
-- **[Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại Thừa](/blog/bo-tat-la-gi)** — nền tảng lý tưởng.
-- **[Bodhicitta – Tâm Bồ-tát Đạo – nền tảng Đại Thừa](/blog/bodhicitta-tam-bo-tat)** — tâm động lực tu hành.
+- **[Lục Độ Ba La Mật – sáu hành Bồ-tát](/blog/luc-do-ba-la-mat/)** — chi tiết từng Ba La Mật.
+- **[Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại Thừa](/blog/bo-tat-la-gi/)** — nền tảng lý tưởng.
+- **[Bodhicitta – Tâm Bồ-tát Đạo – nền tảng Đại Thừa](/blog/bodhicitta-tam-bo-tat/)** — tâm động lực tu hành.
 
 ---
 

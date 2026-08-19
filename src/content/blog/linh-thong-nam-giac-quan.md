@@ -169,8 +169,8 @@ Khi ta tu tập **chánh niệm** — quan sát sạch những cảm thụ từ 
 ---
 
 ## Tham khảo Nội Bộ
-- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi)
-- [Duyên khởi là gì? Lý Duyên Sinh và 12 nhân duyên](/blog/duyen-khoi-la-gi)
-- [Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu)
+- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi/)
+- [Duyên khởi là gì? Lý Duyên Sinh và 12 nhân duyên](/blog/duyen-khoi-la-gi/)
+- [Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu/)
 
 ---

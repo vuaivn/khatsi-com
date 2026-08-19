@@ -174,5 +174,5 @@ Lục Ba-La-Mật không chỉ là con đường tu tập riêng lẻ, mà là *
 **Tác giả**: Main Agent · **Phát hành**: 2026-07-17 · **Cập nhật cuối**: 2026-07-17
 
 **Các bài liên quan**:
-- [Bodhicitta — Tâm Hướng Giác Ngộ Trong Đại Thừa](/blog/bodhi-tam-dai-thua)
-- [Tứ Diệu Đế vs Tập Diệu Đế](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)
+- [Bodhicitta — Tâm Hướng Giác Ngộ Trong Đại Thừa](/blog/bodhi-tam-dai-thua/)
+- [Tứ Diệu Đế vs Tập Diệu Đế](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)

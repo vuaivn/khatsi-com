@@ -215,7 +215,7 @@ Từng bước nhỏ:
 
 Nếu bạn đang tìm kiếm ý nghĩa, sự an bình, hay những câu trả lời sâu sắc — **Bốn Nóc Thánh Đế là nơi bắt đầu**. Đây là lời dạy được Đức Phật diễn thuyết lần đầu, và nó vẫn mạnh mẽ cho đến ngày nay.
 
-Tham gia [học thêm về Tứ Vô Lượng Tâm](/blog/tu-vo-luong-tam) — những thực hành từ, bi, hỷ, xả bổ sung cho Bát Chánh Đạo. Hoặc khám phá [Duyên Khởi — Lý Duyên Sinh](/blog/duyen-khoi-la-gi) để hiểu rõ hơn cơ chế nhân quả trong Phật giáo.
+Tham gia [học thêm về Tứ Vô Lượng Tâm](/blog/tu-vo-luong-tam/) — những thực hành từ, bi, hỷ, xả bổ sung cho Bát Chánh Đạo. Hoặc khám phá [Duyên Khởi — Lý Duyên Sinh](/blog/duyen-khoi-la-gi/) để hiểu rõ hơn cơ chế nhân quả trong Phật giáo.
 
 ---
 

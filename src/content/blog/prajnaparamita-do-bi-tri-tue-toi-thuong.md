@@ -145,5 +145,5 @@ Vì Prajñāpāramitā vượt qua ngôn từ, lý luận, ý niệm — nên **
 Khi hiểu Prajñāpāramitā, chúng ta không phủ nhận thế gian — chúng ta vẫn ăn cơm, làm việc, yêu thương. Nhưng mọi hành động không còn bị cột buộc bởi "tôi muốn", "tôi sợ", "tôi đã mất mát". Đó là **tự do thực sự** mà Phật giáo nói đến.
 
 Để sâu hiểu hơn:
-- Xem lại [Không Tuyên (Śūnyatā) Là Gì? Chân Nghĩa Của Tánh Không](/blog/khong-tuyen-la-gi)
-- Khám phá [Trung Đạo & Hai Cực Đoan — Sự Cân Bằng Trong Đạo Phật](/blog/trung-dao-hai-cuc-doan)
+- Xem lại [Không Tuyên (Śūnyatā) Là Gì? Chân Nghĩa Của Tánh Không](/blog/khong-tuyen-la-gi/)
+- Khám phá [Trung Đạo & Hai Cực Đoan — Sự Cân Bằng Trong Đạo Phật](/blog/trung-dao-hai-cuc-doan/)

@@ -112,7 +112,7 @@ Chúng ta, những người học Phật ngày nay, cũng có thể học hỏi 
 
 ## Các bài liên quan
 
-- [Tứ Diệu Đế — Bốn Chân Lý Cao Quý](/blog/tu-dieu-de-la-gi) — Pháp được Đức Phật thuyết cho năm anh em lần đầu.
-- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao) — Con đường cụ thể mà năm vị này đã noi theo.
-- [Cuộc đời Đức Phật — Từ thái tử đến bậc Giác Ngộ](/blog/cuoc-doi-duc-phat) — Bối cảnh lịch sử đầy đủ hơn.
-- [Tam Quy Y — nương tựa Phật, Pháp, Tăng](/blog/tam-quy-y) — Tằng đoàn mà năm anh em này là những thành lập viên đầu tiên.
+- [Tứ Diệu Đế — Bốn Chân Lý Cao Quý](/blog/tu-dieu-de-la-gi/) — Pháp được Đức Phật thuyết cho năm anh em lần đầu.
+- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/) — Con đường cụ thể mà năm vị này đã noi theo.
+- [Cuộc đời Đức Phật — Từ thái tử đến bậc Giác Ngộ](/blog/cuoc-doi-duc-phat/) — Bối cảnh lịch sử đầy đủ hơn.
+- [Tam Quy Y — nương tựa Phật, Pháp, Tăng](/blog/tam-quy-y/) — Tằng đoàn mà năm anh em này là những thành lập viên đầu tiên.

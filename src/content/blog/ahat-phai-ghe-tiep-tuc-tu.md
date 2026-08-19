@@ -192,9 +192,9 @@ Trong Theravāda hiện đại, **thành A-la-hán được coi là hiếm có v
 
 ## Xem Thêm
 
-- [**Theravāda là gì? Truyền thống Phật giáo Nguyên thủy**](/blog/theravada-la-gi)
-- [**Bát Chánh Đạo — Tám nhánh con đường giải thoát**](/blog/bat-chanh-dao)
-- [**Dai-thua-mahayana — Đại thừa (Mahāyāna)**](/blog/dai-thua-mahayana)
-- [**Niết Bàn là gì? Hiểu đúng về sự giải thoát tối hậu**](/blog/niet-ban-la-gi)
+- [**Theravāda là gì? Truyền thống Phật giáo Nguyên thủy**](/blog/theravada-la-gi/)
+- [**Bát Chánh Đạo — Tám nhánh con đường giải thoát**](/blog/bat-chanh-dao/)
+- [**Dai-thua-mahayana — Đại thừa (Mahāyāna)**](/blog/dai-thua-mahayana/)
+- [**Niết Bàn là gì? Hiểu đúng về sự giải thoát tối hậu**](/blog/niet-ban-la-gi/)
 -gi)
 -ban-la-gi)

@@ -117,6 +117,6 @@ Bộ pháp âm 10 kỳ của HT. Thích Từ Thông là một **cơ hội để 
 ---
 
 **Xem thêm:**
-- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong)
-- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong)
-- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong)
+- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong/)
+- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong/)
+- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong/)

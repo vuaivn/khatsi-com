@@ -144,6 +144,6 @@ Trong tu hành Phật pháp, chúng ta cần cả hai: **kỷ luật của hình
 
 ### 📖 Bài viết liên quan
 
-- [Trung Đạo — con đường tránh hai cực đoan](/blog/trung-dao)
-- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam)
-- [Duyên khởi là gì? Lý Duyên Sinh và 12 nhân duyên](/blog/duyen-khoi-la-gi)
+- [Trung Đạo — con đường tránh hai cực đoan](/blog/trung-dao/)
+- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/)
+- [Duyên khởi là gì? Lý Duyên Sinh và 12 nhân duyên](/blog/duyen-khoi-la-gi/)

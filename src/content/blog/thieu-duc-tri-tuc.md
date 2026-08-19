@@ -67,4 +67,4 @@ Giữa thời đại quảng cáo và tiêu dùng, thiểu dục tri túc càng 
 
 Thiểu dục tri túc là bí quyết an vui mà người xưa đã khám phá và người nay càng cần: hạnh phúc không đến từ việc có thêm, mà từ việc **biết đủ**. Mỗi lựa chọn sống giản dị là một bước tới sự tự do và bình an — đúng tinh thần của người khất sĩ.
 
-Đọc thêm: [Thực hành chánh niệm mỗi ngày](/blog/thuc-hanh-chanh-niem) và [Vô thường và vô ngã](/blog/vo-thuong-vo-nga).
+Đọc thêm: [Thực hành chánh niệm mỗi ngày](/blog/thuc-hanh-chanh-niem/) và [Vô thường và vô ngã](/blog/vo-thuong-vo-nga/).

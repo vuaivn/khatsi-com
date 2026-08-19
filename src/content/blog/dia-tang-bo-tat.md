@@ -124,6 +124,6 @@ Một vị **cứu độ**, một vị **lắng nghe từ bi**, một vị **gi�
 ---
 
 **Xem thêm:**
-- [Quán Thế Âm Bồ Tát — Từ bi vô lượng](/blog/quan-the-am-bo-tat)
-- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong)
-- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong)
+- [Quán Thế Âm Bồ Tát — Từ bi vô lượng](/blog/quan-the-am-bo-tat/)
+- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong/)
+- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong/)

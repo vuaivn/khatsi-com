@@ -103,10 +103,10 @@ Ngũ Uẩn là năm tập hợp hình thành cá nhân — nó là khung phân l
 
 ## 📚 Tham Khảo & Liên Kết
 
-- [Ngũ Uẩn (Pañcakkhandha) — Năm Tập Hợp Xây Dựng Cá Nhân](/blog/nam-uan-panchakkhandha)
-- [Vô Thường (Anicca) — Bản Chất Biến Đổi Không Ngừng](/blog/vo-thuong-anicca)
-- [Thích-U (Jhāna) — Bốn Tầng Thiền Định Trong Phật Giáo](/blog/thien-dinh-co-ban-nang-cao) *(nếu có)*
-- [Nirvana Là Gì — Chấm Dứt Khổ Đau Hay Sự Tồn Tại Vô Ngã?](/blog/niet-ban-la-gi)
+- [Ngũ Uẩn (Pañcakkhandha) — Năm Tập Hợp Xây Dựng Cá Nhân](/blog/nam-uan-panchakkhandha/)
+- [Vô Thường (Anicca) — Bản Chất Biến Đổi Không Ngừng](/blog/vo-thuong-anicca/)
+- [Thích-U (Jhāna) — Bốn Tầng Thiền Định Trong Phật Giáo](/blog/thien-dinh-co-ban-nang-cao/) *(nếu có)*
+- [Nirvana Là Gì — Chấm Dứt Khổ Đau Hay Sự Tồn Tại Vô Ngã?](/blog/niet-ban-la-gi/)
 
 ---
 

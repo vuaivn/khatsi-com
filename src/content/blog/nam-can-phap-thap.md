@@ -88,8 +88,8 @@ Quá trình này được miêu tả trong **Duyên Khởi (Paṭiccasamuppāda)
 
 ## Liên Kết Nội Bộ
 
-← Quay lại: [Bát Chánh Đạo — Đường Đi Thoát Khổ](/blog/bat-chanh-dao)
-→ Đọc tiếp: [Duyên Khởi — Lý Luật Của Nhân & Quả](/blog/duyen-khoi-la-gi)
+← Quay lại: [Bát Chánh Đạo — Đường Đi Thoát Khổ](/blog/bat-chanh-dao/)
+→ Đọc tiếp: [Duyên Khởi — Lý Luật Của Nhân & Quả](/blog/duyen-khoi-la-gi/)
 
 ---
 

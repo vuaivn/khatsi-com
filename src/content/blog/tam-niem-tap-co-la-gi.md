@@ -166,7 +166,7 @@ Cho dù bạn là người mới tu tập hay đã có kinh nghiệm, Tam Niệm
 ---
 
 **Liên kết nội bộ:**
-- [Tứ Niệm Xứ – Nền Tảng Thiền Quán Chính Niệm](/blog/tu-niem-xu)
-- [37 Phẩm Trợ Đạo – Hệ Thống Tu Tập Toàn Diện](/blog/37-pham-tro-dao)
-- [Tứ Diệu Đế – Bốn Chân Lý Cao Quý Của Phật Pháp](/blog/tu-dieu-de-la-gi)
-- [Bát Chánh Đạo – Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao)
+- [Tứ Niệm Xứ – Nền Tảng Thiền Quán Chính Niệm](/blog/tu-niem-xu/)
+- [37 Phẩm Trợ Đạo – Hệ Thống Tu Tập Toàn Diện](/blog/37-pham-tro-dao/)
+- [Tứ Diệu Đế – Bốn Chân Lý Cao Quý Của Phật Pháp](/blog/tu-dieu-de-la-gi/)
+- [Bát Chánh Đạo – Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/)

@@ -153,6 +153,6 @@ Khi ba bậc học này được tu tập với chân thành và kiên trì, ch�
 ---
 
 **Để tìm hiểu thêm:**
-- [Bát Chánh Đạo – Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao)
-- [Ngũ Giới – Năm Nguyên Tắc Đạo Đức Cơ Bản](/blog/ngu-gioi)
-- [Thiền Định Là Gì? Con Đường Tinh Tâm Trong Đạo Phật](/blog/thien-dinh-la-gi)
+- [Bát Chánh Đạo – Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/)
+- [Ngũ Giới – Năm Nguyên Tắc Đạo Đức Cơ Bản](/blog/ngu-gioi/)
+- [Thiền Định Là Gì? Con Đường Tinh Tâm Trong Đạo Phật](/blog/thien-dinh-la-gi/)

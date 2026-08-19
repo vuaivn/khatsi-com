@@ -148,6 +148,6 @@ Hành trình ngàn dặm bắt đầu từ **một niệm duy nhất**—một n
 
 ## Liên Hệ & Tài Liệu Tham Khảo
 
-- **Đọc thêm**: [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- **Thực hành**: [Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu)
-- **Lý thuyết**: [Tam Vô Lậu Học — Giới, Định, Tuệ](/blog/tam-vo-lau-hoc)
+- **Đọc thêm**: [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- **Thực hành**: [Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu/)
+- **Lý thuyết**: [Tam Vô Lậu Học — Giới, Định, Tuệ](/blog/tam-vo-lau-hoc/)

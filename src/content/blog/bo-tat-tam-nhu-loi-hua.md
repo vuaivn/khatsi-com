@@ -114,5 +114,5 @@ Con đường Tâm Bồ Tát Đạo là con đường dài, nhưng nó là con �
 
 ## Để học sâu hơn
 
-- Xem về **[Lục Độ Ba La Mật — sáu hạnh Bồ Tát](/blog/luc-do-ba-la-mat)** để hiểu những công cụ tu tập cụ thể của Tâm Bồ Tát.
-- Tìm hiểu **[Quán Âm Bồ Tát — lý tưởng từ bi cứu độ](/blog/quan-am-bo-tat-tuong)** để thấy Bodhicitta sống động qua hình ảnh một bậc Bồ Tát vĩ đại.
+- Xem về **[Lục Độ Ba La Mật — sáu hạnh Bồ Tát](/blog/luc-do-ba-la-mat/)** để hiểu những công cụ tu tập cụ thể của Tâm Bồ Tát.
+- Tìm hiểu **[Quán Âm Bồ Tát — lý tưởng từ bi cứu độ](/blog/quan-am-bo-tat-tuong/)** để thấy Bodhicitta sống động qua hình ảnh một bậc Bồ Tát vĩ đại.

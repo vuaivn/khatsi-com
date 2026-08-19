@@ -10,7 +10,7 @@ const thumb = img && img.startsWith('/images/posts/')
   ? img.replace('/images/posts/', '/images/posts/thumbs/').replace(/\.(png|jpe?g)$/i, '.webp')
   : img;
 ---
-<a class="post-card" href={`/blog/${post.slug}`}>
+<a class="post-card" href={`/blog/${post.slug}/`}>
   {img && <img class="post-card-img" src={thumb} alt={alt} width="400" height="225" loading="lazy" decoding="async" />}
   <div class="post-card-body">
     <div class="meta">{categoryName(post.data.category)}</div>

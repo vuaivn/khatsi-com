@@ -110,5 +110,5 @@ Khi ta hiểu sâu Tập Diệu Đế, ta bắt đầu nhìn rõ: mỗi lần ta
 ---
 
 **Xem thêm**:
-- [Bát Chánh Đạo: Đường dẫn thoát khổ](/blog/bat-chanh-dao)
-- [Duyên Khởi: Lý duyên sinh của Phật giáo](/blog/duyen-khoi-la-gi)
+- [Bát Chánh Đạo: Đường dẫn thoát khổ](/blog/bat-chanh-dao/)
+- [Duyên Khởi: Lý duyên sinh của Phật giáo](/blog/duyen-khoi-la-gi/)

@@ -10,11 +10,11 @@ export async function GET() {
     urls.push({ loc: `${site.url}/${p}`, priority: p === '' ? '1.0' : '0.7', lastmod: new Date().toISOString() });
   }
   for (const c of categories) {
-    urls.push({ loc: `${site.url}/blog/category/${c.slug}`, priority: '0.6', lastmod: new Date().toISOString() });
+    urls.push({ loc: `${site.url}/blog/category/${c.slug}/`, priority: '0.6', lastmod: new Date().toISOString() });
   }
   for (const post of posts) {
     const lm = (post.data.updatedDate ?? post.data.pubDate);
-    urls.push({ loc: `${site.url}/blog/${post.slug}`, priority: '0.8', lastmod: new Date(lm).toISOString() });
+    urls.push({ loc: `${site.url}/blog/${post.slug}/`, priority: '0.8', lastmod: new Date(lm).toISOString() });
   }
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>

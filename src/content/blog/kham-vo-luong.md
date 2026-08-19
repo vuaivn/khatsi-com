@@ -106,11 +106,11 @@ Tâm từ bi không phát triển trong 1–2 tuần. Cần **kiên định hàn
 ## Liên Kết Đến Những Bài Học Khác
 
 Nếu muốn sâu hơn, bạn có thể tìm hiểu:
-- [Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi)
-- [Lục Độ Ba La Mật – sáu hành Bồ-tát](/blog/luc-do-ba-la-mat)
+- [Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi/)
+- [Lục Độ Ba La Mật – sáu hành Bồ-tát](/blog/luc-do-ba-la-mat/)
 
 Hoặc nếu quan tâm đến thiền quán nền tảng:
-- [Tứ Niệm Xứ – nền tảng thiền quán chính niệm](/blog/tu-niem-xu)
+- [Tứ Niệm Xứ – nền tảng thiền quán chính niệm](/blog/tu-niem-xu/)
 
 ---
 

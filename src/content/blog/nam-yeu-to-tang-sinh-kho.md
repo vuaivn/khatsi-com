@@ -128,6 +128,6 @@ Như vậy, **Tập Đế** không phải giáo điều vô vọng − nó là *
 ---
 
 ## Bài Liên Quan
-- [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi) — Khung lý thuyết toàn bộ.
-- [Duyên Khởi là gì?](/blog/duyen-khoi-la-gi) — 12 mắt xích chi tiết.
-- [Trung Đạo](/blog/trung-dao) — Cách sống để diệt khổ.
+- [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi/) — Khung lý thuyết toàn bộ.
+- [Duyên Khởi là gì?](/blog/duyen-khoi-la-gi/) — 12 mắt xích chi tiết.
+- [Trung Đạo](/blog/trung-dao/) — Cách sống để diệt khổ.

@@ -87,5 +87,5 @@ Bát Chánh Đạo bắt đầu bằng **Chánh Kiến**:
 **Tài liệu tham khảo:**
 - Samyutta Nikāya 12 (Nidāna Saṃyutta) — Pāli Canon
 - Mahānidānasutta (Dīgha Nikāya 15) — truyền thuyết duyên khởi chi tiết
-- [Tứ Diệu Đế vs Tập Diệu Đế](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet) — xem lại cách khổ sinh ra
-- [Nghiệp Báo](/blog/nghiep-bao-karma-vipaka) — hành động tạo quả báo như thế nào
+- [Tứ Diệu Đế vs Tập Diệu Đế](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/) — xem lại cách khổ sinh ra
+- [Nghiệp Báo](/blog/nghiep-bao-karma-vipaka/) — hành động tạo quả báo như thế nào

@@ -106,6 +106,6 @@ Bạn không cần là Phật để bắt đầu. Chỉ cần một Nguyện L�
 
 ## Liên Kết Nội Bộ & Tham Khảo Thêm
 
-- [Tứ Nhất Thiết Trí — Sự Toàn Tri Của Phật](/blog/tu-nhat-thiet-tri-buddha-wisdom)
-- [Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam)
-- [Ba Thân Phật (Trikāya)](/blog/ba-than-phat-trikaya)
+- [Tứ Nhất Thiết Trí — Sự Toàn Tri Của Phật](/blog/tu-nhat-thiet-tri-buddha-wisdom/)
+- [Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam/)
+- [Ba Thân Phật (Trikāya)](/blog/ba-than-phat-trikaya/)

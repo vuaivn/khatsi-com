@@ -158,8 +158,8 @@ Dù đi con đường nào, **bốn điều lành (Từ–Bi–Hỷ–Xả)** v�
 
 ## Nội Liên Kết
 
-- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- [Duyên Khởi là gì? Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi)
-- [Kinh Kim Cang — Trí Tuệ Bát Nhã Phá Chấp](/blog/kinh-kim-cang)
-- [Đại Thừa (Mahāyāna) — Tinh Thần Bồ Tát Đạo](/blog/dai-thua-mahayana)
-- [Bồ Tát là gì? Lý Tưởng Bồ Tát trong Đại Thừa](/blog/bo-tat-la-gi)
+- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- [Duyên Khởi là gì? Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi/)
+- [Kinh Kim Cang — Trí Tuệ Bát Nhã Phá Chấp](/blog/kinh-kim-cang/)
+- [Đại Thừa (Mahāyāna) — Tinh Thần Bồ Tát Đạo](/blog/dai-thua-mahayana/)
+- [Bồ Tát là gì? Lý Tưởng Bồ Tát trong Đại Thừa](/blog/bo-tat-la-gi/)

@@ -163,6 +163,6 @@ Hôm nay, hãy ghi nhận **một khổ**. Ngày mai, tìm **nguyên nhân** c�
 
 ## Bài Viết Liên Quan
 
-- [Duyên Khởi Là Gì?](/blog/duyen-khoi-la-gi) — Sâu hơn về lý duyên sinh và 12 nhân duyên.
-- [Bát Chánh Đạo – Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao) — Chi tiết từng nhánh của Bát Chánh Đạo.
-- [Niết Bàn Là Gì?](/blog/niet-ban-la-gi) — Khám phá trạng thái giải thoát cuối cùng.
+- [Duyên Khởi Là Gì?](/blog/duyen-khoi-la-gi/) — Sâu hơn về lý duyên sinh và 12 nhân duyên.
+- [Bát Chánh Đạo – Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/) — Chi tiết từng nhánh của Bát Chánh Đạo.
+- [Niết Bàn Là Gì?](/blog/niet-ban-la-gi/) — Khám phá trạng thái giải thoát cuối cùng.

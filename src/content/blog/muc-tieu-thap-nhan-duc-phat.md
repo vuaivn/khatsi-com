@@ -104,7 +104,7 @@ Hiểu về Thập Nhân Đức, chúng ta không chỉ biết thêm về Phật
 ---
 
 **Bài liên quan:**
-- [Phật tính và Cách Biến Độc Lập](/blog/phat-tinh-va-van-dap)
-- [Tam Thân Phật – Ba Thân Phật Trong Đại Thừa](/blog/duc-phat-tam-than)
-- [Bồ-tát Tâm – Như Lời Hứa của Giai Đoạn](/blog/bo-tat-tam-nhu-loi-hua)
+- [Phật tính và Cách Biến Độc Lập](/blog/phat-tinh-va-van-dap/)
+- [Tam Thân Phật – Ba Thân Phật Trong Đại Thừa](/blog/duc-phat-tam-than/)
+- [Bồ-tát Tâm – Như Lời Hứa của Giai Đoạn](/blog/bo-tat-tam-nhu-loi-hua/)
 

@@ -65,4 +65,4 @@ Chánh niệm không giới hạn trên tọa cụ:
 
 Chánh niệm là món quà bạn dành cho tâm mình giữa cuộc sống bận rộn. Hãy bắt đầu ngay hôm nay: ngồi xuống, nhắm mắt, và theo dõi ba hơi thở đầu tiên. Con đường an lạc bắt đầu từ một hơi thở tỉnh giác.
 
-Đọc thêm: [Thiểu dục tri túc — nghệ thuật sống đủ](/blog/thieu-duc-tri-tuc) và [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi).
+Đọc thêm: [Thiểu dục tri túc — nghệ thuật sống đủ](/blog/thieu-duc-tri-tuc/) và [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/).

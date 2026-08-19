@@ -172,7 +172,7 @@ Khám phá Ngũ Uẩn không chỉ là lý thuyết cổ xưa—nó là một c�
 
 ## Để Đọc Thêm
 
-- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi)
-- [Duyên Khởi – Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi)
-- [Vô Minh Là Gì? Gốc Rễ Của Khổ Đau và Luân Hồi](/blog/vo-minh-la-gi)
-- [Tam Pháp Ấn – Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an)
+- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi/)
+- [Duyên Khởi – Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi/)
+- [Vô Minh Là Gì? Gốc Rễ Của Khổ Đau và Luân Hồi](/blog/vo-minh-la-gi/)
+- [Tam Pháp Ấn – Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an/)

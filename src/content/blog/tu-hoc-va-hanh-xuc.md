@@ -169,6 +169,6 @@ Không cần chờ đạn, không cần đợi người khác. **Bây giờ** an
 
 ## Liên Kết Nội Bộ
 
-- Tìm hiểu thêm: [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- Nền tảng: [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi)
-- Thực hành: [Thiền định là gì? Con đường tĩnh tâm trong đạo Phật](/blog/thien-dinh-la-gi)
+- Tìm hiểu thêm: [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- Nền tảng: [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi/)
+- Thực hành: [Thiền định là gì? Con đường tĩnh tâm trong đạo Phật](/blog/thien-dinh-la-gi/)

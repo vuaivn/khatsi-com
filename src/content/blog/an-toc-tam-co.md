@@ -113,6 +113,6 @@ Ba điều an tốc này không yêu cầu bất kỳ khiếp sợ hay kỳ th�
 ---
 
 **Tham khảo nội bộ**:
-- [Quy Y Tam Bảo – Nền Tảng Đạo Phật](/blog/tam-quy-y)
-- [Tứ Diệu Đế – Bốn Chân Lý Cao Quý](/blog/tu-dieu-de-la-gi)
-- [Vô Thường, Khổ, Vô Ngã – Ba Pháp Ấn](/blog/tam-phap-an)
+- [Quy Y Tam Bảo – Nền Tảng Đạo Phật](/blog/tam-quy-y/)
+- [Tứ Diệu Đế – Bốn Chân Lý Cao Quý](/blog/tu-dieu-de-la-gi/)
+- [Vô Thường, Khổ, Vô Ngã – Ba Pháp Ấn](/blog/tam-phap-an/)

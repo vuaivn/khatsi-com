@@ -121,6 +121,6 @@ Bộ pháp âm 79 kỳ của HT. Thích Từ Thông là một **cơ hội hiếm
 ---
 
 **Xem thêm:**
-- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong)
-- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong)
-- [Tiểu sử HT. Thích Từ Thông](/blog/tieu-su-thich-tu-thong)
+- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong/)
+- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong/)
+- [Tiểu sử HT. Thích Từ Thông](/blog/tieu-su-thich-tu-thong/)

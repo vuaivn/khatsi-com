@@ -61,4 +61,4 @@ Khi thấy rõ mọi thứ — kể cả cái "tôi" — đều do duyên hợp,
 
 Bát Nhã Tâm Kinh mời gọi ta nhìn thực tại bằng con mắt trí tuệ: nhẹ nhàng hơn, ít bám víu hơn, tự do hơn. Không cần hiểu trọn vẹn ngay — chỉ cần bắt đầu quan sát sự vô thường và duyên khởi quanh mình, cửa Bát Nhã sẽ dần mở.
 
-Đọc thêm: [Kinh Pháp Cú — những lời dạy cốt lõi](/blog/kinh-phap-cu-gioi-thieu) và [Vô thường và vô ngã](/blog/vo-thuong-vo-nga).
+Đọc thêm: [Kinh Pháp Cú — những lời dạy cốt lõi](/blog/kinh-phap-cu-gioi-thieu/) và [Vô thường và vô ngã](/blog/vo-thuong-vo-nga/).

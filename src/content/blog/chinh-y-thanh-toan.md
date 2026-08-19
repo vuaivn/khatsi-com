@@ -161,5 +161,5 @@ Bất kỳ tu tập nào — dù là niệm Phật, thiền định, hay giữ g
 ---
 
 **Hướng dẫn tiếp theo trong hành trình tu tập:**
-- Nếu muốn tìm hiểu sâu hơn về **Bát Chánh Đạo toàn bộ**, bạn có thể đọc bài "[Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)".
-- Để **thực hành chánh niệm nhằm giám sát nước tâm**, xem bài "[Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu)".
+- Nếu muốn tìm hiểu sâu hơn về **Bát Chánh Đạo toàn bộ**, bạn có thể đọc bài "[Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)".
+- Để **thực hành chánh niệm nhằm giám sát nước tâm**, xem bài "[Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu/)".

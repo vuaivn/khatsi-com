@@ -117,9 +117,9 @@ Sau khi Ngài gặp Đức Phật và thực hành những lời dạy, ba ba-la
 
 ## Liên Kết Với Những Bài Khác
 
-- **[Lục Ba-la-mật (Sáu Độ)](/blog/sau-ba-la-mat-bo-tat)** — Mở rộng: cách ba ba-la-mật nằm trong và hỗ trợ lục ba-la-mật.
-- **[Bodhicitta — Tâm Hướng Giác Ngộ Trong Đại Thừa](/blog/bodhi-tam-dai-thua)** — Đi sâu vào "tâm chí" sinh Bồ-Tát.
-- **[Năm Căn — Nền Tảng Trí Tuệ Trong Sám Tu](/blog/nam-can-phap-thap)** — Cách năm căn (gồm Tinh Tấn) hỗ trợ tu tập.
+- **[Lục Ba-la-mật (Sáu Độ)](/blog/sau-ba-la-mat-bo-tat/)** — Mở rộng: cách ba ba-la-mật nằm trong và hỗ trợ lục ba-la-mật.
+- **[Bodhicitta — Tâm Hướng Giác Ngộ Trong Đại Thừa](/blog/bodhi-tam-dai-thua/)** — Đi sâu vào "tâm chí" sinh Bồ-Tát.
+- **[Năm Căn — Nền Tảng Trí Tuệ Trong Sám Tu](/blog/nam-can-phap-thap/)** — Cách năm căn (gồm Tinh Tấn) hỗ trợ tu tập.
 
 ---
 

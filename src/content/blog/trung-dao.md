@@ -8,7 +8,7 @@ heroImage: "/images/posts/hero-trung-dao.webp"
 heroAlt: "Con đường giữa lạc quan, thăng bằng giữa hai bên, biểu tượng Trung Đạo trong đạo Phật"
 faq:
   - q: "Trung Đạo là gì?"
-    a: "Trung Đạo (Pāli: Majjhimā Paṭipadā, Sanskrit: Madhyamā Pratipad) nghĩa gốc là 'con đường ở giữa'. Trong đạo Phật, đó là con đường tu tập tránh hai cực đoan: cực đoan của **hưởng lạc tham dục** (indulgence) và cực đoan của **khổ hạnh tự hủy hoại** (self-mortification). Đức Phật dạy rằng con đường giữa này mà Ngài chứng ngộ chính là dẫn tới tịch diệt, [Bát Chánh Đạo](/blog/bat-chanh-dao)."
+    a: "Trung Đạo (Pāli: Majjhimā Paṭipadā, Sanskrit: Madhyamā Pratipad) nghĩa gốc là 'con đường ở giữa'. Trong đạo Phật, đó là con đường tu tập tránh hai cực đoan: cực đoan của **hưởng lạc tham dục** (indulgence) và cực đoan của **khổ hạnh tự hủy hoại** (self-mortification). Đức Phật dạy rằng con đường giữa này mà Ngài chứng ngộ chính là dẫn tới tịch diệt, [Bát Chánh Đạo](/blog/bat-chanh-dao/)."
   - q: "Hai cực đoan là những gì cụ thể?"
     a: "Cực đoan hưởng lạc: đắm mình trong lạc thụ của các giác quan (ăn, uống, vui chơi, tình dục), cho rằng đó là cách sống hạnh phúc. Cực đoan khổ hạnh: tự hành hạ thân thể qua nhịn đói, cực khổ, tự đánh mình, đốt da, tin rằng khổ đau là con đường tới giải thoát. Đức Phật từng thử khổ hạnh 6 năm trước khi đạt Niết Bàn — chính vì để phát hiện rằng đó không phải con đường."
   - q: "Trung Đạo có ý chỉ mua quần giữa (trung bình hoá) không?"
@@ -16,10 +16,10 @@ faq:
   - q: "Trung Đạo liên quan thế nào đến Tứ Diệu Đế?"
     a: "Trong Bài giảng đầu tiên (Đệ Nhất Pháp Luân Chuyển), Đức Phật nói: 'Hai cực đoan này, hành giả nên tránh. Có một con đường ở giữa — chính là Bát Chánh Đạo — mở ra mắt, mở ra trí tuệ, dẫn tới an lạc, Niết Bàn.' Trung Đạo chính là Đạo đế — con đường diệt khổ mà Tứ Diệu Đế chỉ ra."
   - q: "Làm sao thực hành Trung Đạo trong cuộc sống hàng ngày?"
-    a: "Trung Đạo có nghĩa: thực hành [Bát Chánh Đạo](/blog/bat-chanh-dao) với **cân bằng**. Ví dụ: ăn đủ mà không tham ăn; nói gì cần thiết mà không lắp bắp hay im lặng tuyệt đối; làm việc thiết thực mà không kham khổ/lo âu; tu tập có kỷ luật mà không tự hành hạ hay lười biếng. Trung Đạo là **sự thức tỉnh liên tục**."
+    a: "Trung Đạo có nghĩa: thực hành [Bát Chánh Đạo](/blog/bat-chanh-dao/) với **cân bằng**. Ví dụ: ăn đủ mà không tham ăn; nói gì cần thiết mà không lắp bắp hay im lặng tuyệt đối; làm việc thiết thực mà không kham khổ/lo âu; tu tập có kỷ luật mà không tự hành hạ hay lười biếng. Trung Đạo là **sự thức tỉnh liên tục**."
 ---
 
-> **Tóm tắt nhanh:** **Trung Đạo (Majjhimā Paṭipadā)** là **con đường ở giữa** — tránh hai cực đoan **hưởng lạc tham dục** (ăn, uống, vui chơi quá độ) và **khổ hạnh tự hủy** (nhịn đói, tự hành hạ). Đây là con đường **cân bằng, tỉnh thức** mà Đức Phật dạy, chính là nội dung của [Bát Chánh Đạo](/blog/bat-chanh-dao) — dẫn tới giải thoát không phải qua khổ đau cũng không phải qua chìm đắm.
+> **Tóm tắt nhanh:** **Trung Đạo (Majjhimā Paṭipadā)** là **con đường ở giữa** — tránh hai cực đoan **hưởng lạc tham dục** (ăn, uống, vui chơi quá độ) và **khổ hạnh tự hủy** (nhịn đói, tự hành hạ). Đây là con đường **cân bằng, tỉnh thức** mà Đức Phật dạy, chính là nội dung của [Bát Chánh Đạo](/blog/bat-chanh-dao/) — dẫn tới giải thoát không phải qua khổ đau cũng không phải qua chìm đắm.
 
 Khi đọc về đạo Phật, nhiều người bị ấn tượng sai rằng "đạo Phật là cực khổ" — nhịn ăn, không được vui, phải đánh đập thân mình. Cực không! Đức Phật xác định rõ: đó là một **cực đoan mà Ngài đã từng thử rồi bác bỏ**. Trung Đạo lại chứng thực điều ngược lại: con đường tới hạnh phúc thật sự không qua khổ đau, mà qua **sự thức tỉnh, cân bằng, tự do trong mỗi hành động**.
 
@@ -53,7 +53,7 @@ Tự đánh mình, nhịn đói suốt ngày, kê gập lưng trên gai nhọn, 
 
 ![Người đi trên con đường cân bằng giữa hai bên, tâm thức tỉnh thức](/images/posts/trung-dao-02-duong-thua.webp)
 
-Trung Đạo **không phải "mua quần chân lý"** hay **"làm gì chứng bằng không"**. Nó là một con đường **tích cực, kỷ luật, rõ ràng** — chính là **[Bát Chánh Đạo](/blog/bat-chanh-dao)**.
+Trung Đạo **không phải "mua quần chân lý"** hay **"làm gì chứng bằng không"**. Nó là một con đường **tích cực, kỷ luật, rõ ràng** — chính là **[Bát Chánh Đạo](/blog/bat-chanh-dao/)**.
 
 Trung Đạo có nghĩa:
 
@@ -97,4 +97,4 @@ Trung Đạo dạy: **ăn uống khôn khéo, làm việc có ý nghĩa, vui ch�
 
 Trung Đạo là một bài học quý giá cho thời đại chúng ta — thời của cực đoan: cực lạc hay cực khổ, hoàn hảo hay bỏ cuộc, bách phách hay lãng xẹt. Đức Phật nói rằng hạnh phúc thật sự nằm ở giữa: sống với **thăng bằng, tỉnh thức, tự do**. 
 
-Để hiểu rõ hơn cách thực hành Trung Đạo, đọc [Bát Chánh Đạo](/blog/bat-chanh-dao) — tám nhánh con đường giữa. Và để hiểu nó dẫn tới đâu, đọc [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/) — bốn chân lý mà Trung Đạo là lối thoát.
+Để hiểu rõ hơn cách thực hành Trung Đạo, đọc [Bát Chánh Đạo](/blog/bat-chanh-dao/) — tám nhánh con đường giữa. Và để hiểu nó dẫn tới đâu, đọc [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/) — bốn chân lý mà Trung Đạo là lối thoát.

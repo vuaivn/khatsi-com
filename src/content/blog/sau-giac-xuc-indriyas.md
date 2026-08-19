@@ -130,9 +130,9 @@ Bước cuối cùng (và khó nhất) là **không hành động dựa trên ph
 ## Liên Kết Đến Các Bài Khác
 
 - [Tứ Niệm Xứ — Bốn Nền Tảng Của Chánh Niệm](/)
-- [Năm Căn — Nền Tảng Trí Tuệ Trong Sám Tu](/blog/nam-can-phap-thap)
-- [Tứ Diệu Đế Là Gì? Chân Lý Cơ Bản Của Khổ](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)
-- [Lý Duyên Sinh — Nguyên Lý Của Vòng Luân Hồi](/blog/duyen-khoi-la-gi)
+- [Năm Căn — Nền Tảng Trí Tuệ Trong Sám Tu](/blog/nam-can-phap-thap/)
+- [Tứ Diệu Đế Là Gì? Chân Lý Cơ Bản Của Khổ](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)
+- [Lý Duyên Sinh — Nguyên Lý Của Vòng Luân Hồi](/blog/duyen-khoi-la-gi/)
 
 ---
 

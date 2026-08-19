@@ -140,6 +140,6 @@ Dù cách diễn đạt khác, cốt lõi là: **ba thế một chỉ, một ch�
 
 ## Liên Kết Nội Bộ
 
-- Xem thêm: **[Duyên Khởi là Gì?](/blog/duyen-khoi-la-gi)** — ngõ luật Duyên Sinh chi tiết.
-- Xem thêm: **[Nghiệp và Tái Sinh](/blog/nghiep-va-tai-sinh)** — cơ chế nhân quả từng bước.
-- Xem thêm: **[Niết Bàn là Gì?](/blog/niet-ban-la-gi)** — cách vượt ra khỏi vòng ba thế.
+- Xem thêm: **[Duyên Khởi là Gì?](/blog/duyen-khoi-la-gi/)** — ngõ luật Duyên Sinh chi tiết.
+- Xem thêm: **[Nghiệp và Tái Sinh](/blog/nghiep-va-tai-sinh/)** — cơ chế nhân quả từng bước.
+- Xem thêm: **[Niết Bàn là Gì?](/blog/niet-ban-la-gi/)** — cách vượt ra khỏi vòng ba thế.

@@ -237,8 +237,8 @@ Khi hai cách này **hội tụ**, nó tạo ra một bức tranh **hoàn chỉn
 
 ## Liên Kết Nội Bộ
 
-- [Chánh Niệm Là Gì? Thực Hành Chân Chánh Niệm Trong Đạo Phật](/blog/thuc-hanh-niem-phat)
-- [Tứ Diệu Đế — Nền Tảng Của Mọi Lý Thuyết Phật Giáo](/blog/bat-chanh-dao)
-- [Duyên Khởi Là Gì? Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi)
-- [Ngũ Uẩn Là Gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi)
-- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam)
+- [Chánh Niệm Là Gì? Thực Hành Chân Chánh Niệm Trong Đạo Phật](/blog/thuc-hanh-niem-phat/)
+- [Tứ Diệu Đế — Nền Tảng Của Mọi Lý Thuyết Phật Giáo](/blog/bat-chanh-dao/)
+- [Duyên Khởi Là Gì? Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi/)
+- [Ngũ Uẩn Là Gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi/)
+- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/)

@@ -237,6 +237,6 @@ Vậy nên, lần tới khi bạn cảm thấy khốn đốn, hãy nhớ: không
 
 ## Bài Viết Liên Quan
 
-- [Bát Chánh Đạo – Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- [Duyên Khởi Là Gì – Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi)
-- [Tam Pháp Ấn – Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an)
+- [Bát Chánh Đạo – Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- [Duyên Khởi Là Gì – Lý Duyên Sinh và 12 Nhân Duyên](/blog/duyen-khoi-la-gi/)
+- [Tam Pháp Ấn – Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an/)

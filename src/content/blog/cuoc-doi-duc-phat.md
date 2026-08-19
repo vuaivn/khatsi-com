@@ -21,7 +21,7 @@ faq:
 
 > **Tóm tắt nhanh:** Đức Phật — tên thật **Siddhārtha Gautama (Tất-đạt-đa)** — là thái tử dòng **Thích-ca** ở vùng biên giới Ấn Độ – Nepal. Từ bỏ đời sống vương giả năm 29 tuổi, ngài tu tập 6 năm rồi **giác ngộ dưới cội bồ-đề** năm 35 tuổi, trở thành **Phật (bậc tỉnh thức)**. Suốt 45 năm sau đó ngài đi khắp nơi thuyết pháp, và nhập **niết-bàn** năm 80 tuổi tại Câu-thi-na. Cuộc đời ngài thường được kể qua **Bát tướng thành đạo** — tám mốc lớn.
 
-Đằng sau giáo lý đồ sộ của đạo Phật là một con người có thật trong lịch sử: một vị thái tử từ bỏ ngai vàng để đi tìm lời giải cho câu hỏi muôn thuở — **vì sao có khổ đau, và làm sao thoát khỏi nó?** Hiểu cuộc đời Đức Phật là hiểu bối cảnh sống động đã sinh ra [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi), [Bát Chánh Đạo](/blog/bat-chanh-dao) và toàn bộ con đường tu tập.
+Đằng sau giáo lý đồ sộ của đạo Phật là một con người có thật trong lịch sử: một vị thái tử từ bỏ ngai vàng để đi tìm lời giải cho câu hỏi muôn thuở — **vì sao có khổ đau, và làm sao thoát khỏi nó?** Hiểu cuộc đời Đức Phật là hiểu bối cảnh sống động đã sinh ra [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/), [Bát Chánh Đạo](/blog/bat-chanh-dao/) và toàn bộ con đường tu tập.
 
 ## Đức Phật là ai?
 
@@ -85,7 +85,7 @@ Năm **35 tuổi**, ngài ngồi thiền định dưới cội **cây bồ-đề
 
 ### 7. Chuyển Pháp luân lần đầu
 
-Đức Phật đến **vườn Lộc Uyển (Sārnāth)** thuyết bài pháp đầu tiên cho năm anh em Kiều-trần-như, giảng về **[Tứ Diệu Đế](/blog/tu-dieu-de-la-gi)** và **[Bát Chánh Đạo](/blog/bat-chanh-dao)**. Sự kiện này gọi là **Chuyển Pháp luân** — khởi đầu của Tăng đoàn và sự lan toả giáo pháp.
+Đức Phật đến **vườn Lộc Uyển (Sārnāth)** thuyết bài pháp đầu tiên cho năm anh em Kiều-trần-như, giảng về **[Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/)** và **[Bát Chánh Đạo](/blog/bat-chanh-dao/)**. Sự kiện này gọi là **Chuyển Pháp luân** — khởi đầu của Tăng đoàn và sự lan toả giáo pháp.
 
 ### 8. Nhập niết-bàn
 
@@ -116,10 +116,10 @@ Hiểu ngài đã **thấy khổ**, **tìm đường**, và **tìm ra** như th�
 - Ngài sống khoảng thế kỷ 5–6 TCN (niên đại còn tranh luận), thọ 80 tuổi.
 - **Bát tướng thành đạo**: đản sinh → đời vương giả → Tứ môn du quán → xuất gia → khổ hạnh → **thành đạo** → chuyển pháp luân → niết-bàn.
 - Ngài giác ngộ dưới **cội bồ-đề** năm 35 tuổi sau khi chọn **Trung đạo**.
-- Cuộc đời ngài là nền tảng cho [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi), [Bát Chánh Đạo](/blog/bat-chanh-dao) và [Duyên khởi](/blog/duyen-khoi-la-gi).
+- Cuộc đời ngài là nền tảng cho [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/), [Bát Chánh Đạo](/blog/bat-chanh-dao/) và [Duyên khởi](/blog/duyen-khoi-la-gi/).
 
 ## Kết luận
 
 Cuộc đời Đức Phật là câu chuyện về một con người dám nhìn thẳng vào khổ đau thay vì né tránh nó — và bằng nỗ lực tự thân, tìm ra con đường vượt thoát. Ngài không yêu cầu ai tin theo mù quáng, mà mời gọi mỗi người **tự mình thực chứng**: *"Hãy đến và thấy."*
 
-Từ nền tảng này, bạn có thể đọc tiếp [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi) để hiểu bài pháp đầu tiên ngài giảng, và [Đạo Phật là gì?](/blog/dao-phat-la-gi) để có cái nhìn tổng quan về giáo lý mà ngài để lại cho đời.
+Từ nền tảng này, bạn có thể đọc tiếp [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi/) để hiểu bài pháp đầu tiên ngài giảng, và [Đạo Phật là gì?](/blog/dao-phat-la-gi/) để có cái nhìn tổng quan về giáo lý mà ngài để lại cho đời.

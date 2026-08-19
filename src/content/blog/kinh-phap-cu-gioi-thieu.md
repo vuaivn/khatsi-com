@@ -69,4 +69,4 @@ Về sự chuyển hóa hận thù bằng tình thương:
 
 Kinh Pháp Cú là cánh cửa đầu tiên đẹp đẽ để bước vào giáo pháp: không cần nhiều chữ nghĩa, chỉ cần một câu kệ và một tâm hồn sẵn sàng lắng nghe. Hãy bắt đầu từ câu đầu tiên — "Ý dẫn đầu các pháp" — và để nó soi sáng một ngày của bạn.
 
-Đọc thêm: [Tứ Diệu Đế — bốn chân lý nền tảng](/blog/tu-dieu-de-la-gi) và [Thực hành chánh niệm mỗi ngày](/blog/thuc-hanh-chanh-niem).
+Đọc thêm: [Tứ Diệu Đế — bốn chân lý nền tảng](/blog/tu-dieu-de-la-gi/) và [Thực hành chánh niệm mỗi ngày](/blog/thuc-hanh-chanh-niem/).

@@ -55,4 +55,4 @@ Danh sách phát dưới đây gồm đầy đủ 47 kỳ giảng, phát tuần 
 
 Chứng Đạo Ca là lời mời gọi trở về ngôi nhà xưa của chính mình — nơi chân tâm vốn chưa từng rời xa. Qua bộ pháp âm của Hòa thượng Thích Từ Thông, nguyện mỗi người nghe đều gieo được hạt giống tỉnh thức và một ngày nhận ra ánh sáng giác ngộ vốn sẵn nơi mình.
 
-Đọc thêm: [Thực hành chánh niệm mỗi ngày](/blog/thuc-hanh-chanh-niem) và [Bát Nhã Tâm Kinh — ý nghĩa tánh Không](/blog/bat-nha-tam-kinh).
+Đọc thêm: [Thực hành chánh niệm mỗi ngày](/blog/thuc-hanh-chanh-niem/) và [Bát Nhã Tâm Kinh — ý nghĩa tánh Không](/blog/bat-nha-tam-kinh/).

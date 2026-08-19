@@ -213,6 +213,6 @@ Trong thời đại ngày nay, khi người ta hay **"biết nhiều mà làm í
 ---
 
 **Xem thêm:**
-- [Kinh Hoa Nghiêm — 4 kỳ giảng của HT. Thích Tuệ Sỹ](/blog/kinh-hoa-nghiem-thich-tue-sy)
-- [Tiểu sử HT. Thích Từ Thông — 70+ năm phục vụ Phật giáo](/blog/tieu-su-thich-tu-thong)
-- [Ngôn Tay Chỉ Trăng — 100 kỳ Phật pháp toàn diện](/blog/ngon-tay-chi-trang-thich-tu-thong)
+- [Kinh Hoa Nghiêm — 4 kỳ giảng của HT. Thích Tuệ Sỹ](/blog/kinh-hoa-nghiem-thich-tue-sy/)
+- [Tiểu sử HT. Thích Từ Thông — 70+ năm phục vụ Phật giáo](/blog/tieu-su-thich-tu-thong/)
+- [Ngôn Tay Chỉ Trăng — 100 kỳ Phật pháp toàn diện](/blog/ngon-tay-chi-trang-thich-tu-thong/)

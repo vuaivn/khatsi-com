@@ -91,4 +91,4 @@ Khi một cảm giác dễ chịu khởi lên, thay vì lập tức khao khát n
 
 Duyên khởi cho ta một cái nhìn vừa sâu sắc vừa thực tế: khổ đau không đến vô cớ, mà theo một chuỗi điều kiện có thể hiểu và có thể tháo gỡ. Không có định mệnh cứng nhắc, cũng không có sự ngẫu nhiên mù quáng — chỉ có dòng nhân duyên đang trôi, và khả năng tỉnh thức để chuyển hóa nó.
 
-Hiểu Duyên khởi rồi, hãy đọc tiếp [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi) để thấy con đường diệt khổ, và [Vô thường và vô ngã](/blog/vo-thuong-vo-nga) để hiểu sâu hơn hai đặc tính nền tảng mà Duyên khởi hé lộ.
+Hiểu Duyên khởi rồi, hãy đọc tiếp [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi/) để thấy con đường diệt khổ, và [Vô thường và vô ngã](/blog/vo-thuong-vo-nga/) để hiểu sâu hơn hai đặc tính nền tảng mà Duyên khởi hé lộ.

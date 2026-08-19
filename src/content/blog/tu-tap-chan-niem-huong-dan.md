@@ -186,9 +186,9 @@ Một khi bạn đã thành thạo Tứ Niệm Xứ trong ngồi thiền, hãy n
 ## Kết Nối Với Những Phương Pháp Khác
 
 Chân Niệm là **nền tảng** của:
-- **[Tứ Niệm Xứ – nền tảng thiền quán chính niệm](/blog/tu-dieu-de-hanh-huong)** — 4 vùng tu quán toàn diện
-- **[Thiền định là gì? Con đường tinh tâm trong đạo Phật](/blog/thien-dinh-la-gi)** — kết hợp Chân Niệm với tập trung sâu
-- **[Thực hành Niệm Phật – con đường Tịnh Độ học](/blog/thuc-hanh-niem-phat)** — Chân Niệm ứng dụng trong Tịnh Độ
+- **[Tứ Niệm Xứ – nền tảng thiền quán chính niệm](/blog/tu-dieu-de-hanh-huong/)** — 4 vùng tu quán toàn diện
+- **[Thiền định là gì? Con đường tinh tâm trong đạo Phật](/blog/thien-dinh-la-gi/)** — kết hợp Chân Niệm với tập trung sâu
+- **[Thực hành Niệm Phật – con đường Tịnh Độ học](/blog/thuc-hanh-niem-phat/)** — Chân Niệm ứng dụng trong Tịnh Độ
 
 ---
 

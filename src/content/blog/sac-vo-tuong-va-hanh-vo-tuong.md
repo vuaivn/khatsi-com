@@ -133,4 +133,4 @@ A: Vì chúng vẫn là **một phần của Ngũ Uẩn**, chỉ là những t�
 
 ---
 
-**Để hiểu sâu hơn về Ngũ Uẩn, hãy tham khảo bài "[Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi)" và "[Vô Ngã (Anattā) – Cách Hiểu Đúng Về Bản Thân](/blog/vo-nga-anatta)."**
+**Để hiểu sâu hơn về Ngũ Uẩn, hãy tham khảo bài "[Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi/)" và "[Vô Ngã (Anattā) – Cách Hiểu Đúng Về Bản Thân](/blog/vo-nga-anatta/)."**

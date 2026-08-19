@@ -130,6 +130,6 @@ Dù bạn có quy y Đại Thừa hay không, **Bodhicitta cốt nhân** là kh�
 
 ## Liên Kết & Đọc Thêm
 
-- [Tứ Diệu Đế vs Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)
-- [Phật Tính Đan — Bản Chất Phật Trong Tất Cả Chúng Sinh](/blog/phat-tinh-dan-1-dap-mo-nhi)
-- [Sáu Độ Ba-la-mật — Đường Đi Của Bồ-Tát](/blog/sau-ba-la-mat-thap)
+- [Tứ Diệu Đế vs Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)
+- [Phật Tính Đan — Bản Chất Phật Trong Tất Cả Chúng Sinh](/blog/phat-tinh-dan-1-dap-mo-nhi/)
+- [Sáu Độ Ba-la-mật — Đường Đi Của Bồ-Tát](/blog/sau-ba-la-mat-thap/)

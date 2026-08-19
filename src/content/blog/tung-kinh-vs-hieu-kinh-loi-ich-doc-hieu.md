@@ -120,5 +120,5 @@ Nếu ta là em bé mới sinh (tâm mới học), ta cần vừa sữa (tụng�
 
 ## Những Bài Liên Quan
 
-- [Năm Căn (Indriya) — Năng Lực Tâm Pháp Trong Tu Tập](/blog/ngoai-khoa-nam-can-va-ung-dung)
-- [Trung Đạo Trong Phật Giáo — Tránh Hai Cực Đoan](/blog/trung-dao-hai-cuc-doan)
+- [Năm Căn (Indriya) — Năng Lực Tâm Pháp Trong Tu Tập](/blog/ngoai-khoa-nam-can-va-ung-dung/)
+- [Trung Đạo Trong Phật Giáo — Tránh Hai Cực Đoan](/blog/trung-dao-hai-cuc-doan/)

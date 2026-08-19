@@ -144,6 +144,6 @@ Sau đó, anh ta học **Tinh Vi Tú Tập**: ngủ kỹ lưỡng 2–3 giờ, s
 ---
 
 ### Các bài liên quan
-- [Trung Đạo — con đường tránh hai cực đoan](/blog/trung-dao)
-- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- [Thực hành Chánh Niệm — nền tảng thiền quán](/blog/tu-dieu-de-tu-tap)
+- [Trung Đạo — con đường tránh hai cực đoan](/blog/trung-dao/)
+- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- [Thực hành Chánh Niệm — nền tảng thiền quán](/blog/tu-dieu-de-tu-tap/)

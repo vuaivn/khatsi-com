@@ -113,9 +113,9 @@ Kinh điển giảng dạy rằng Tịnh Độ là một thực tại—không p
 
 ## Liên Kết Nội Bộ
 
-- [Tam Ba La Mật — Ba ba la mật đầu tiên (Bố thí, Trì giới, Nhẫn nhục)](/blog/tam-ba-la-mat)
-- [Bodhicitta — Tâm Bồ Tát Đạo — nền tảng Đại Thừa](/blog/bodhicitta-tam-bo-tat)
-- [Đại Thừa (Mahāyāna) — tinh thần Bồ Tát đạo](/blog/dai-thua-mahayana)
+- [Tam Ba La Mật — Ba ba la mật đầu tiên (Bố thí, Trì giới, Nhẫn nhục)](/blog/tam-ba-la-mat/)
+- [Bodhicitta — Tâm Bồ Tát Đạo — nền tảng Đại Thừa](/blog/bodhicitta-tam-bo-tat/)
+- [Đại Thừa (Mahāyāna) — tinh thần Bồ Tát đạo](/blog/dai-thua-mahayana/)
 
 ---
 

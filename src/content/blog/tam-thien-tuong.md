@@ -111,9 +111,9 @@ faq:
 
 ### Liên Kết Nội Bộ
 
-- [Tứ Niệm Xứ — Nền tảng thiền quán chánh niệm](/blog/tu-niem-xu)
-- [Thiền Định là gì? Con đường tĩnh tâm trong đạo Phật](/blog/thien-dinh-la-gi)
-- [37 Phẩm Trợ Đạo — Hệ thống tu tập toàn diện](/blog/37-pham-tro-dao)
+- [Tứ Niệm Xứ — Nền tảng thiền quán chánh niệm](/blog/tu-niem-xu/)
+- [Thiền Định là gì? Con đường tĩnh tâm trong đạo Phật](/blog/thien-dinh-la-gi/)
+- [37 Phẩm Trợ Đạo — Hệ thống tu tập toàn diện](/blog/37-pham-tro-dao/)
 
 ---
 

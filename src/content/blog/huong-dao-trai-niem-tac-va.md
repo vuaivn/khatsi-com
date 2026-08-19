@@ -154,9 +154,9 @@ Sau bất cứ hành động tu nào (cầu nguyện, đọc kinh, thiền, hay 
 
 ## Liên Kết Nội Bộ
 
-- **[Trí Niệm Tác Và — Sức Mạnh Của Sự Chú Ý Sâu Sắc](/blog/tinh-tan-ba-la-mat)** — Nền tảng để Hướng Đạo có hiệu quả
-- **[Bồ-tát Đạo — Lý Tưởng Giác Ngộ Vì Tất Cả Chúng Sinh](/blog/bo-tat-la-gi)** — Bối cảnh lớn hơn của Hướng Đạo
-- **[Ba Ba La Mat — Sáu Hoặc Mười Phương Tiện Hoàn Hảo](/blog/luc-do-ba-la-mat)** — Ba Ba La Mat chính, mà Hướng Đạo là mở rộng
+- **[Trí Niệm Tác Và — Sức Mạnh Của Sự Chú Ý Sâu Sắc](/blog/tinh-tan-ba-la-mat/)** — Nền tảng để Hướng Đạo có hiệu quả
+- **[Bồ-tát Đạo — Lý Tưởng Giác Ngộ Vì Tất Cả Chúng Sinh](/blog/bo-tat-la-gi/)** — Bối cảnh lớn hơn của Hướng Đạo
+- **[Ba Ba La Mat — Sáu Hoặc Mười Phương Tiện Hoàn Hảo](/blog/luc-do-ba-la-mat/)** — Ba Ba La Mat chính, mà Hướng Đạo là mở rộng
 
 ---
 

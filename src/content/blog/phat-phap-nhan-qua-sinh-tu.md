@@ -168,7 +168,7 @@ Mỗi ngày, mỗi hành động, bạn đang **ghi chép lịch sử tâm hồn
 ---
 
 **Bài viết liên quan:**
-- [Duyên khởi là gì? Lý Duyên Sinh và 12 nhân duyên](/blog/duyen-khoi-la-gi)
-- [Bát Chánh Đạo – Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi)
-- [Niết Bàn là gì? Hiểu đúng về sự giải thoát tối hậu](/blog/niet-ban-la-gi)
+- [Duyên khởi là gì? Lý Duyên Sinh và 12 nhân duyên](/blog/duyen-khoi-la-gi/)
+- [Bát Chánh Đạo – Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi/)
+- [Niết Bàn là gì? Hiểu đúng về sự giải thoát tối hậu](/blog/niet-ban-la-gi/)

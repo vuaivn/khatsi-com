@@ -95,6 +95,6 @@ Tam Ba La Mật không phải là những nguyên tắc huyền bí hay những 
 ---
 
 **Xem thêm:**
-- [Lục Độ Ba La Mật — Sáu Hạnh Bồ Tát](/blog/luc-do-ba-la-mat)
-- [Trung Đạo — Con Đường Tránh Hai Cực Đoan](/blog/trung-dao)
-- [Tam Quy Y — Nương Tựa Phật, Pháp, Tăng](/blog/tam-quy-y)
+- [Lục Độ Ba La Mật — Sáu Hạnh Bồ Tát](/blog/luc-do-ba-la-mat/)
+- [Trung Đạo — Con Đường Tránh Hai Cực Đoan](/blog/trung-dao/)
+- [Tam Quy Y — Nương Tựa Phật, Pháp, Tăng](/blog/tam-quy-y/)

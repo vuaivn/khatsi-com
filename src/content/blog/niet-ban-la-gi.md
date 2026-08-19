@@ -19,7 +19,7 @@ faq:
     a: "Con đường đến Niết Bàn chính là Đạo đế — Bát Chánh Đạo, gồm ba nhóm tu tập Giới–Định–Tuệ. Bằng cách sống đạo đức (giới), an định tâm (định) và phát triển trí tuệ thấy rõ vô thường–vô ngã (tuệ), hành giả dần đoạn tận tham-sân-si và chứng ngộ giải thoát."
 ---
 
-> **Tóm tắt nhanh:** **Niết Bàn (Nibbāna/Nirvāṇa)** nghĩa gốc là **"thổi tắt"** — sự **dập tắt hoàn toàn ngọn lửa tham–sân–si**, chấm dứt khổ đau và vòng luân hồi. Đây **không phải** một cõi trời, cũng không phải hư vô đoạn diệt, mà là **an lạc tối thượng, sự tự do rốt ráo** của tâm — mục tiêu tối hậu mà [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi) chỉ ra.
+> **Tóm tắt nhanh:** **Niết Bàn (Nibbāna/Nirvāṇa)** nghĩa gốc là **"thổi tắt"** — sự **dập tắt hoàn toàn ngọn lửa tham–sân–si**, chấm dứt khổ đau và vòng luân hồi. Đây **không phải** một cõi trời, cũng không phải hư vô đoạn diệt, mà là **an lạc tối thượng, sự tự do rốt ráo** của tâm — mục tiêu tối hậu mà [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/) chỉ ra.
 
 Niết Bàn có lẽ là khái niệm bị hiểu lầm nhiều nhất trong đạo Phật. Người thì tưởng đó là một "thiên đường" ta lên sau khi chết; người lại nghĩ đó là sự hư vô, "chết là hết". Cả hai đều xa với lời Phật dạy. Niết Bàn không phải nơi chốn để đến, cũng không phải sự tiêu diệt — mà là **trạng thái giải thoát** khi tâm hết sạch phiền não. Hiểu đúng Niết Bàn là hiểu đích đến của toàn bộ con đường tu tập.
 
@@ -52,7 +52,7 @@ Ngài dạy con đường **Trung đạo**, tránh cả hai cực đoan:
 - **Thường kiến** — tin có một cái ngã/linh hồn tồn tại vĩnh cửu.
 - **Đoạn kiến** — tin chết là hết, hư vô hoàn toàn.
 
-Cái "tắt" trong Niết Bàn là **tắt ngọn lửa phiền não và ảo tưởng về cái tôi**, chứ không phải hủy diệt một "linh hồn" nào (vốn đạo Phật dạy [vô ngã](/blog/vo-thuong-vo-nga) — không hề có cái ngã bất biến để mà hủy diệt). Khi được hỏi bậc giác ngộ "còn hay mất" sau khi qua đời, Đức Phật xem đó là câu hỏi đặt sai — vì nó vẫn bám vào ý niệm về một cái ngã. Ngài mô tả Niết Bàn một cách khẳng định: **an lạc tối thượng, tịch tịnh, bất sinh bất diệt, vô vi**.
+Cái "tắt" trong Niết Bàn là **tắt ngọn lửa phiền não và ảo tưởng về cái tôi**, chứ không phải hủy diệt một "linh hồn" nào (vốn đạo Phật dạy [vô ngã](/blog/vo-thuong-vo-nga/) — không hề có cái ngã bất biến để mà hủy diệt). Khi được hỏi bậc giác ngộ "còn hay mất" sau khi qua đời, Đức Phật xem đó là câu hỏi đặt sai — vì nó vẫn bám vào ý niệm về một cái ngã. Ngài mô tả Niết Bàn một cách khẳng định: **an lạc tối thượng, tịch tịnh, bất sinh bất diệt, vô vi**.
 
 ![Ngọn lửa dầu vừa tắt lịm trên nền tĩnh lặng, biểu tượng dập tắt tham sân si mà không phải hư vô](/images/posts/niet-ban-01-ngon-lua-tat.webp)
 
@@ -67,13 +67,13 @@ Nói cách khác: giác ngộ dập tắt lửa phiền não trước (hữu dư
 
 ## Con đường đến Niết Bàn
 
-Niết Bàn không phải điều ta cầu xin mà được, mà là **quả của sự tu tập**. Trong [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi), Niết Bàn chính là **Diệt đế** (khổ có thể chấm dứt), và con đường dẫn tới nó là **Đạo đế** — chính là [Bát Chánh Đạo](/blog/bat-chanh-dao), gồm ba nhóm tu tập (**Tam vô lậu học**):
+Niết Bàn không phải điều ta cầu xin mà được, mà là **quả của sự tu tập**. Trong [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/), Niết Bàn chính là **Diệt đế** (khổ có thể chấm dứt), và con đường dẫn tới nó là **Đạo đế** — chính là [Bát Chánh Đạo](/blog/bat-chanh-dao/), gồm ba nhóm tu tập (**Tam vô lậu học**):
 
 1. **Giới (Sīla)** — sống đạo đức, không gây khổ cho mình và người: chánh ngữ, chánh nghiệp, chánh mạng.
 2. **Định (Samādhi)** — an định, thu nhiếp tâm: chánh tinh tấn, chánh niệm, chánh định.
-3. **Tuệ (Paññā)** — phát triển trí tuệ thấy rõ [vô thường, vô ngã](/blog/vo-thuong-vo-nga): chánh kiến, chánh tư duy.
+3. **Tuệ (Paññā)** — phát triển trí tuệ thấy rõ [vô thường, vô ngã](/blog/vo-thuong-vo-nga/): chánh kiến, chánh tư duy.
 
-Chính trí tuệ thấy rõ bản chất thật của mọi hiện tượng (qua lý [Duyên khởi](/blog/duyen-khoi-la-gi)) làm tan rã tham ái và vô minh — gốc rễ của khổ. Khi tham-sân-si tận diệt, Niết Bàn tự hiển lộ.
+Chính trí tuệ thấy rõ bản chất thật của mọi hiện tượng (qua lý [Duyên khởi](/blog/duyen-khoi-la-gi/)) làm tan rã tham ái và vô minh — gốc rễ của khổ. Khi tham-sân-si tận diệt, Niết Bàn tự hiển lộ.
 
 ## Những điều cốt lõi
 
@@ -88,4 +88,4 @@ Chính trí tuệ thấy rõ bản chất thật của mọi hiện tượng (qu
 
 Niết Bàn không phải một giấc mơ xa vời ở kiếp sau, cũng không phải sự tan biến đáng sợ vào hư vô. Đó là **sự tự do rốt ráo** — khi tâm không còn bị tham lam, sân hận và si mê thiêu đốt, thì ngay đó là an lạc, là tịch tịnh. Đức Phật gọi đó là **"hạnh phúc tối thượng"**.
 
-Điều đẹp nhất là: con đường ấy mở ra cho tất cả mọi người, ngay từ khoảnh khắc này. Để hiểu trọn bức tranh, hãy đọc [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi) — bốn chân lý mà Niết Bàn là đích đến, và [Bát Chánh Đạo](/blog/bat-chanh-dao) — tám nhánh con đường thực hành dẫn tới sự giải thoát ấy.
+Điều đẹp nhất là: con đường ấy mở ra cho tất cả mọi người, ngay từ khoảnh khắc này. Để hiểu trọn bức tranh, hãy đọc [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/) — bốn chân lý mà Niết Bàn là đích đến, và [Bát Chánh Đạo](/blog/bat-chanh-dao/) — tám nhánh con đường thực hành dẫn tới sự giải thoát ấy.

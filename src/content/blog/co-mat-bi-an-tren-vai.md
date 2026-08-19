@@ -85,9 +85,9 @@ Quán Âm không ở trên cao vô cùng, mà **ở trong lòng tốt của mỗ
 
 ## Tham khảo thêm
 
-- [Tam Quy Y – Nương Tựa Phật, Pháp, Tăng](/blog/tam-quy-y)
-- [Từ Ba La Mật – Sức Mạnh Của Lòng Từ Bi](/blog/tu-ba-la-mat)
-- [Bồ-tát là Gì – Lý Tưởng Bồ-tát Trong Đại Thừa](/blog/bo-tat-la-gi)
+- [Tam Quy Y – Nương Tựa Phật, Pháp, Tăng](/blog/tam-quy-y/)
+- [Từ Ba La Mật – Sức Mạnh Của Lòng Từ Bi](/blog/tu-ba-la-mat/)
+- [Bồ-tát là Gì – Lý Tưởng Bồ-tát Trong Đại Thừa](/blog/bo-tat-la-gi/)
 
 ---
 

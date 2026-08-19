@@ -136,5 +136,5 @@ Huyễn thân tứ đại đến hồi suy yếu, định luật vô thường k
 ---
 
 **Xem thêm:**
-- [Chứng Đạo Ca — 47 kỳ giảng của HT. Thích Từ Thông](/blog/chung-dao-ca-thich-tu-thong)
-- [Phật giáo Việt Nam — những nhân vật lịch sử](/tag/thich-tu-thong)
+- [Chứng Đạo Ca — 47 kỳ giảng của HT. Thích Từ Thông](/blog/chung-dao-ca-thich-tu-thong/)
+- [Phật giáo Việt Nam — những nhân vật lịch sử](/tag/thich-tu-thong/)

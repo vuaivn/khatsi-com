@@ -186,7 +186,7 @@ Hãy **bắt đầu hôm nay** với vài phút niệm "A-Di-Đà Phật", rồi
 
 ## Nội dung liên quan
 
-- [Kinh A-Di-Đà và pháp môn Tịnh Độ](/blog/kinh-a-di-da)
-- [Quán Âm Bồ Tát — Lý tưởng từ bi cứu độ](/blog/quan-am-bo-tat-tuong)
-- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam)
-- [Tam Pháp Ấn — Vô thường, Khổ, Vô ngã](/blog/tam-phap-an)
+- [Kinh A-Di-Đà và pháp môn Tịnh Độ](/blog/kinh-a-di-da/)
+- [Quán Âm Bồ Tát — Lý tưởng từ bi cứu độ](/blog/quan-am-bo-tat-tuong/)
+- [Tứ Vô Lượng Tâm — Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/)
+- [Tam Pháp Ấn — Vô thường, Khổ, Vô ngã](/blog/tam-phap-an/)

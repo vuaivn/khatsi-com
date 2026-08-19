@@ -148,6 +148,6 @@ Ba loại A-la-hán trong Theravāda — **Su Tôi, Duyên Giác, Phật** — k
 ---
 
 ## Liên kết nội bộ
-- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- [A-la-hán là gì? Hiểu về bậc hoàn toàn tỉnh thức](/blog/ahat-phai-ghe-tiep-tuc-tu)
-- [Theravāda là gì? Truyền thống Phật giáo Nguyên thủy](/blog/theravada-la-gi)
+- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- [A-la-hán là gì? Hiểu về bậc hoàn toàn tỉnh thức](/blog/ahat-phai-ghe-tiep-tuc-tu/)
+- [Theravāda là gì? Truyền thống Phật giáo Nguyên thủy](/blog/theravada-la-gi/)

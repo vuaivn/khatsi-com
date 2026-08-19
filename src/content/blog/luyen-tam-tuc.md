@@ -124,5 +124,5 @@ Khi tâm bị các tục này chi phối, Đức Phật dạy **năm cách rèn 
 **Luyện Tâm Túc** không phải là sự "tiêu diệt" hay "dân áp" tâm, mà là **dựng dậy sức mạnh tự nhiên của tâm** qua các phương pháp khoa học mà Đức Phật đã dạy hơn 2.500 năm trước. Năm cách rèn luyện là những công cụ; việc chọn công cụ nào phải dựa trên sự tự quan sát khôn ngoan.
 
 **Bài liên quan:**
-- [Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu)
-- [Tam Vô Lậu Học — Giới, Định, Tuệ](/blog/tam-vo-lau-hoc)
+- [Tứ Niệm Xứ — nền tảng thiền quán chánh niệm](/blog/tu-niem-xu/)
+- [Tam Vô Lậu Học — Giới, Định, Tuệ](/blog/tam-vo-lau-hoc/)

@@ -168,6 +168,6 @@ Mỗi khi thấy rõ ba đặc tướng — dù chỉ trong một khoảnh khắ
 ---
 
 ### Liên Kết Nội Bộ
-- [Duyên Khởi Mười Hai Nhánh](/blog/duyên-khởi-12-tính-liên-tiếp) — toàn bộ chuỗi nhân quả luân hồi
-- [Tứ Diệu Đế](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet) — chân lý của khổ và nguyên nhân
-- [Ba Đặc Tướng](/blog/tu-phap-an-phat-phap) — vô thường, khổ, vô ngã
+- [Duyên Khởi Mười Hai Nhánh](/blog/duyên-khởi-12-tính-liên-tiếp/) — toàn bộ chuỗi nhân quả luân hồi
+- [Tứ Diệu Đế](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/) — chân lý của khổ và nguyên nhân
+- [Ba Đặc Tướng](/blog/tu-phap-an-phat-phap/) — vô thường, khổ, vô ngã

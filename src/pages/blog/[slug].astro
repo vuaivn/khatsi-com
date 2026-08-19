@@ -67,7 +67,7 @@ if (data.faq.length > 0) {
 <BaseLayout title={data.title} description={data.description} image={cover} type="article" jsonld={jsonld}>
   <article class="article" data-pagefind-body>
     <div class="meta">
-      <a href={`/blog/category/${data.category}`} class="cat">{categoryName(data.category)}</a>
+      <a href={`/blog/category/${data.category}/`} class="cat">{categoryName(data.category)}</a>
       <span>{formatDate(data.pubDate)}</span>
       <span>· {mins} phút đọc</span>
     </div>
@@ -100,7 +100,7 @@ if (data.faq.length > 0) {
     {libTags.length > 0 && (
       <div class="lib-tags">
         {libTags.map((t) => (
-          <a class="lib-tag" href={`/tag/${slugify(t.label)}`}><span class="lib-tag-kind">{t.kind}</span>{t.label}</a>
+          <a class="lib-tag" href={`/tag/${slugify(t.label)}/`}><span class="lib-tag-kind">{t.kind}</span>{t.label}</a>
         ))}
       </div>
     )}
@@ -118,7 +118,7 @@ if (data.faq.length > 0) {
       <h2>Bài cùng chủ đề</h2>
       <div class="post-cards">
         {related.map((p) => (
-          <a class="post-card" href={`/blog/${p.slug}`}>
+          <a class="post-card" href={`/blog/${p.slug}/`}>
             {p.data.heroImage && <img class="post-card-img" src={p.data.heroImage.startsWith('/images/posts/') ? p.data.heroImage.replace('/images/posts/', '/images/posts/thumbs/').replace(/\.(png|jpe?g)$/i, '.webp') : p.data.heroImage} alt={p.data.title} width="400" height="225" loading="lazy" decoding="async" />}
             <div class="post-card-body">
               <div class="meta">{categoryName(p.data.category)}</div>

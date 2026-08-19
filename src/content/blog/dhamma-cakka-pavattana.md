@@ -129,9 +129,9 @@ Câu chuyện này chứng tỏ rằng **Tứ Diệu Đế không yêu cầu tà
 
 ## Liên Kết Nội Bộ
 
-- [Tứ Diệu Đế căn bản](/blog/tu-dieu-de-la-gi)
-- [Bát Chánh Đạo chi tiết](/blog/bat-chanh-dao)
-- [Niết Bàn là gì](/blog/niet-ban-la-gi)
+- [Tứ Diệu Đế căn bản](/blog/tu-dieu-de-la-gi/)
+- [Bát Chánh Đạo chi tiết](/blog/bat-chanh-dao/)
+- [Niết Bàn là gì](/blog/niet-ban-la-gi/)
 
 ---
 

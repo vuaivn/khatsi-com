@@ -114,8 +114,8 @@ Khi bạn ngồi thiền, ban đầu, bạn cảm thấy:
 
 ## Liên Kết Nội Bộ
 
-- **[Tứ Diệu Đế và Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)** — Làm thế nào mà Tứ Diệu Đế (bốn chân lý) giúp chúng ta hiểu khổ và con đường giải thoát.
-- **[Không Tuyên (Śūnyatā) Là Gì? Chân Nghĩa Của Tánh Không](/blog/khong-tuyen-la-gi)** — Khám phá thêm chi tiết về Thực Ta thông qua khái niệm tánh không.
+- **[Tứ Diệu Đế và Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)** — Làm thế nào mà Tứ Diệu Đế (bốn chân lý) giúp chúng ta hiểu khổ và con đường giải thoát.
+- **[Không Tuyên (Śūnyatā) Là Gì? Chân Nghĩa Của Tánh Không](/blog/khong-tuyen-la-gi/)** — Khám phá thêm chi tiết về Thực Ta thông qua khái niệm tánh không.
 
 ---
 

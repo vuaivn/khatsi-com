@@ -206,9 +206,9 @@ Cũng công nhân bốn dấu; thêm vào đó, dùng **hình ảnh hóa (visual
 ## Những Câu Hỏi Tiếp Theo
 
 Nếu muốn hiểu sâu hơn:
-- **[Tứ Diệu Đế và Bát Chánh Đạo — Con Đường Thực Tiễn](/blog/tu-dieu-de-va-tap-dieu-de-khac-biet)** → cách vận dụng bốn dấu vào tu tập.
-- **[Duyên Khởi (Lý Duyên Sinh) — Quy Luật Nhân Quả Toàn Vũ Trụ](/blog/duyen-khoi-la-gi)** → tại sao tâm lại bị kích thích; nguyên nhân của khổ.
-- **[Vô Ngã và Tự Kỷ Quyết Không Giống Nhau](/blog/vo-tuong-vo-nga-phap)** → phân biệt rõ hơn giữa vô tưởng và vô ngã.
+- **[Tứ Diệu Đế và Bát Chánh Đạo — Con Đường Thực Tiễn](/blog/tu-dieu-de-va-tap-dieu-de-khac-biet/)** → cách vận dụng bốn dấu vào tu tập.
+- **[Duyên Khởi (Lý Duyên Sinh) — Quy Luật Nhân Quả Toàn Vũ Trụ](/blog/duyen-khoi-la-gi/)** → tại sao tâm lại bị kích thích; nguyên nhân của khổ.
+- **[Vô Ngã và Tự Kỷ Quyết Không Giống Nhau](/blog/vo-tuong-vo-nga-phap/)** → phân biệt rõ hơn giữa vô tưởng và vô ngã.
 
 ---
 

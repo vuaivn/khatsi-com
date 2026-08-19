@@ -152,10 +152,10 @@ A: Nó yêu cầu **niệm Phật kết hợp thiền quán sâu**, nên cần *
 
 ## Liên kết với các bài khác
 
-- [Kinh A-Di-Đà và pháp môn Tịnh Độ](/blog/kinh-a-di-da)
-- [Thực hành Niệm Phật — Con đường Tịnh Độ học](/blog/thuc-hanh-niem-phat)
-- [Tuệ Ba La Mật — Ba cấp độ hiểu biết cao nhất](/blog/tri-tue-ba-la-mat-3-cap)
-- [Bồ Tát là gì? Lý tưởng Bồ Tát trong Đại thừa](/blog/bo-tat-la-gi)
+- [Kinh A-Di-Đà và pháp môn Tịnh Độ](/blog/kinh-a-di-da/)
+- [Thực hành Niệm Phật — Con đường Tịnh Độ học](/blog/thuc-hanh-niem-phat/)
+- [Tuệ Ba La Mật — Ba cấp độ hiểu biết cao nhất](/blog/tri-tue-ba-la-mat-3-cap/)
+- [Bồ Tát là gì? Lý tưởng Bồ Tát trong Đại thừa](/blog/bo-tat-la-gi/)
 
 ---
 

@@ -163,6 +163,6 @@ Dù ở kiếp nào, Bồ-tát nào, hay tông phái nào, lý thuyết này đ�
 ---
 
 **Đọc thêm:**
-- [Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi)
-- [Lục Độ Ba La Mật – sáu hành Bồ-tát](/blog/luc-do-ba-la-mat)
-- [Quán Âm Bồ-tát – Lý tưởng từ bi cứu độ trong Đại Thừa](/blog/quan-am-bo-tat-tuong)
+- [Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi/)
+- [Lục Độ Ba La Mật – sáu hành Bồ-tát](/blog/luc-do-ba-la-mat/)
+- [Quán Âm Bồ-tát – Lý tưởng từ bi cứu độ trong Đại Thừa](/blog/quan-am-bo-tat-tuong/)

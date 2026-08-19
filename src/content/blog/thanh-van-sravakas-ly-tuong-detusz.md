@@ -89,6 +89,6 @@ Cả hai đều tôn vinh con đường nghe Pháp → tin tưởng → tu tập
 ---
 
 ### Những bài liên quan
-- [Theravāda là gì? Truyền thống Phật giáo Nguyên thủy](/blog/theravada-la-gi)
-- [Đại thừa (Mahāyāna) — tinh thần Bồ Tát đạo](/blog/dai-thua-mahayana)
-- [A-la-hán — Những bậc vô học trong Phật giáo](/blog/ahat-ba-loai-tieu-thua)
+- [Theravāda là gì? Truyền thống Phật giáo Nguyên thủy](/blog/theravada-la-gi/)
+- [Đại thừa (Mahāyāna) — tinh thần Bồ Tát đạo](/blog/dai-thua-mahayana/)
+- [A-la-hán — Những bậc vô học trong Phật giáo](/blog/ahat-ba-loai-tieu-thua/)

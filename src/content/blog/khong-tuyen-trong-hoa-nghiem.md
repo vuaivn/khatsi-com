@@ -106,10 +106,10 @@ Trong **Thiền tông**, Không Tuyân được đẩy tới cực độ — **�
 
 ## Liên Kết Nội Bộ
 
-- [**Không Tuyân (Sunyata) — Bản Chất Rỗng Không**](/blog/khong-tuyen-la-gi) — tổng quan giáo lý Không Tuyân qua các truyền thống.
-- [**Duyên Khởi Là Gì? — Lý Duyên Sinh & 12 Nhân Duyên**](/blog/duyen-khoi-la-gi) — hiểu cơ chế "rỗng" thông qua sự phụ thuộc lẫn nhau.
-- [**Thế Tục & Thắng Nghĩa — Hai Chân Lý Trong Phật Giáo**](/blog/the-tuc-va-tham-gia-ly-su-that-phat) — cách Không Tuyân vận hành trên hai tầng chân lý.
-- [**Pháp Giới Tuy Tuyân — Các Chủ Đề Mở Rộng**](/blog/phat-quoc-la-gi) — cách Bồ Tát tu hành xây dựng "Phật quốc" từ Không Tuyân.
+- [**Không Tuyân (Sunyata) — Bản Chất Rỗng Không**](/blog/khong-tuyen-la-gi/) — tổng quan giáo lý Không Tuyân qua các truyền thống.
+- [**Duyên Khởi Là Gì? — Lý Duyên Sinh & 12 Nhân Duyên**](/blog/duyen-khoi-la-gi/) — hiểu cơ chế "rỗng" thông qua sự phụ thuộc lẫn nhau.
+- [**Thế Tục & Thắng Nghĩa — Hai Chân Lý Trong Phật Giáo**](/blog/the-tuc-va-tham-gia-ly-su-that-phat/) — cách Không Tuyân vận hành trên hai tầng chân lý.
+- [**Pháp Giới Tuy Tuyân — Các Chủ Đề Mở Rộng**](/blog/phat-quoc-la-gi/) — cách Bồ Tát tu hành xây dựng "Phật quốc" từ Không Tuyân.
 
 ---
 

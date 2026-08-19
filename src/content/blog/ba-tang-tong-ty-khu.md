@@ -177,9 +177,9 @@ Tương tự Sa-di nam, nhưng dành cho nữ tu sĩ. Cũng thực hành 10 gi�
 
 ## Liên Kết Nội Bộ
 
-- **[Tam Quy Y — Nương Tựa Phật, Pháp, Tăng](/blog/tam-quy-y)** — Hiểu sâu về sự nương tựa
-- **[Ngũ Giới — Năm Nguyên Tắc Đạo Đức Căn Bản](/blog/ngu-gioi)** — Chi tiết về những giới luật của cư-sĩ
-- **[Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao)** — Tu tập có cấu trúc cho Tăng Đoàn
+- **[Tam Quy Y — Nương Tựa Phật, Pháp, Tăng](/blog/tam-quy-y/)** — Hiểu sâu về sự nương tựa
+- **[Ngũ Giới — Năm Nguyên Tắc Đạo Đức Căn Bản](/blog/ngu-gioi/)** — Chi tiết về những giới luật của cư-sĩ
+- **[Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/)** — Tu tập có cấu trúc cho Tăng Đoàn
 
 ---
 

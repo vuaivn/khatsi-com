@@ -115,7 +115,7 @@ Bởi vì ba tôn giáo **đến cùng một lúc** (hoặc gần gũi nhau) và
 
 ## Liên Kết Nội Bộ
 
-- [Các Truyền Thống Phật Giáo Lớn](/blog/theravada-la-gi)
-- [Quan Âm Bồ Tát — Lý Tưởng Từ Bi Cứu Độ](/blog/quan-am-bo-tat-tuong)
-- [Luân Hồi và Nhân Quả — Quy Luật Đạo Đức](/blog/nghiep-va-tai-sinh)
-- [Tứ Vô Lượng Tâm — Tình Yêu Vô Điều Kiện trong Phật Pháp](/blog/tu-vo-luong-tam)
+- [Các Truyền Thống Phật Giáo Lớn](/blog/theravada-la-gi/)
+- [Quan Âm Bồ Tát — Lý Tưởng Từ Bi Cứu Độ](/blog/quan-am-bo-tat-tuong/)
+- [Luân Hồi và Nhân Quả — Quy Luật Đạo Đức](/blog/nghiep-va-tai-sinh/)
+- [Tứ Vô Lượng Tâm — Tình Yêu Vô Điều Kiện trong Phật Pháp](/blog/tu-vo-luong-tam/)

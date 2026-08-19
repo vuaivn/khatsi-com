@@ -175,6 +175,6 @@ Vasubandhu không chỉ nói lý thuyết. Ông dạy một **con đường th�
 ---
 
 **Những liên kết nội bộ:**
-- [Nāgārjuna & Triết Lý Trung Quán](/blog/nag-ar-jun-trung-quan) — trường phái cỡi cùng phục Vasubandhu
-- [Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam) — ứng dụng Duy Thức trong tu tập từ bi
-- [Năm Uẩn (Pañcakkhandha)](/blog/nam-uan-panchakkhandha) — bản chất năm tập hợp mà Vasubandhu phân tích
+- [Nāgārjuna & Triết Lý Trung Quán](/blog/nag-ar-jun-trung-quan/) — trường phái cỡi cùng phục Vasubandhu
+- [Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam/) — ứng dụng Duy Thức trong tu tập từ bi
+- [Năm Uẩn (Pañcakkhandha)](/blog/nam-uan-panchakkhandha/) — bản chất năm tập hợp mà Vasubandhu phân tích

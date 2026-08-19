@@ -174,6 +174,6 @@ Khi bạn nhìn thấy một từ Pāli hoặc Sanskrit, hãy nhớ: bạn đang
 
 ## Tham Khảo Nội Bộ
 
-- [Ba Thân Phật (Trikāya) — Ba Công Đức Vô Tận](/blog/ba-than-phat-trikaya)
-- [Kinh Pháp Cú & Những Lời Dạy Sâu Sắc Của Phật](/blog/kinh-phap-cu-loi-dao-phat)
-- [Nāgārjuna & Triết Lý Trung Quán — Cha Tổ Sư Phạm Của Tánh Không](/blog/nag-ar-jun-trung-quan)
+- [Ba Thân Phật (Trikāya) — Ba Công Đức Vô Tận](/blog/ba-than-phat-trikaya/)
+- [Kinh Pháp Cú & Những Lời Dạy Sâu Sắc Của Phật](/blog/kinh-phap-cu-loi-dao-phat/)
+- [Nāgārjuna & Triết Lý Trung Quán — Cha Tổ Sư Phạm Của Tánh Không](/blog/nag-ar-jun-trung-quan/)

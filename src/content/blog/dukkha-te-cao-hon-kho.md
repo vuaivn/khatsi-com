@@ -137,6 +137,6 @@ Hoặc nếu bạn sẵn sàng tìm **con đường giải thoát**, hãy khám 
 
 ## Liên Kết Nội Bộ
 
-- [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao)
-- [Duyên Khởi Là Gì? Lý Duyên Sinh Và 12 Nhân Duyên](/blog/duyen-khoi-la-gi)
-- [Niết Bàn Là Gì? Hiểu Đúng Về Sự Giải Thoát Tối Hậu](/blog/niet-ban-la-gi)
+- [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/)
+- [Duyên Khởi Là Gì? Lý Duyên Sinh Và 12 Nhân Duyên](/blog/duyen-khoi-la-gi/)
+- [Niết Bàn Là Gì? Hiểu Đúng Về Sự Giải Thoát Tối Hậu](/blog/niet-ban-la-gi/)

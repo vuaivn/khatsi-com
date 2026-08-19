@@ -151,6 +151,6 @@ Khi ta hiểu rõ Tứ Diệu Đế — rằng khát vọng không bền vững,
 ---
 
 ## Liên Kết Nội Bộ
-- [Tứ Diệu Đế — Bốn Chân Lý Cao Quý](/blog/tu-dieu-de-la-gi) — Tìm hiểu sâu 4 nền tảng giáo pháp.
-- [Duyên Khởi & 12 Nhân Duyên](/blog/duyen-khoi-la-gi) — Hiểu rõ quy luật sinh tử.
-- [Bát Chánh Đạo — Con Đường Giải Thoát](/blog/bat-chanh-dao) — Con đường từng bước dập tắt khát vọng.
+- [Tứ Diệu Đế — Bốn Chân Lý Cao Quý](/blog/tu-dieu-de-la-gi/) — Tìm hiểu sâu 4 nền tảng giáo pháp.
+- [Duyên Khởi & 12 Nhân Duyên](/blog/duyen-khoi-la-gi/) — Hiểu rõ quy luật sinh tử.
+- [Bát Chánh Đạo — Con Đường Giải Thoát](/blog/bat-chanh-dao/) — Con đường từng bước dập tắt khát vọng.

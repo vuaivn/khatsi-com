@@ -156,9 +156,9 @@ Hiểu rõ Luận Ứng Tứ Sa Môn giúp ta **tôn trọng vai trò từng cá
 ---
 
 **Bài viết liên quan:**
-- [Tam Quy Y — nương tựa Phật, Pháp, Tăng](/blog/tam-quy-y)
-- [Ngũ Giới — năm nguyên tắc đạo đức căn bản](/blog/ngu-gioi)
-- [37 Phẩm Trợ Đạo — hệ thống tu tập toàn diện](/blog/37-pham-tro-dao)
+- [Tam Quy Y — nương tựa Phật, Pháp, Tăng](/blog/tam-quy-y/)
+- [Ngũ Giới — năm nguyên tắc đạo đức căn bản](/blog/ngu-gioi/)
+- [37 Phẩm Trợ Đạo — hệ thống tu tập toàn diện](/blog/37-pham-tro-dao/)
 
 ---
 

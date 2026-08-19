@@ -92,6 +92,6 @@ Bộ pháp âm của HT. Thích Từ Thông là một **cơ hội quý** để *
 ---
 
 **Xem thêm:**
-- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong)
-- [Tiểu sử HT. Thích Từ Thông — Như Huyễn Thiền Sư](/blog/tieu-su-thich-tu-thong)
-- [Thiểu dục tri túc — Sống thanh tịnh, đơn giản](/blog/thieu-duc-tri-tuc)
+- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong/)
+- [Tiểu sử HT. Thích Từ Thông — Như Huyễn Thiền Sư](/blog/tieu-su-thich-tu-thong/)
+- [Thiểu dục tri túc — Sống thanh tịnh, đơn giản](/blog/thieu-duc-tri-tuc/)

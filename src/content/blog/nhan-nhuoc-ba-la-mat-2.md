@@ -114,7 +114,7 @@ Nhẫn Nhục Ba La Mật không phải là một lạc việc hay yêu cầu ph
 
 **Hôm nay, bạn có thể bắt đầu.** Từ một câu nói không vui tai, từ một lời chỉ trích không xứng. Dừng lại, nhìn rõ, và trả lời từ yên tĩnh. Từ từ, Nhẫn Nhục sẽ trở thành bản chất của ta.
 
-Xem thêm: [Lục Độ Ba La Mật — sáu hạnh Bồ Tát](/blog/luc-do-ba-la-mat) · [Trung Đạo — con đường tránh hai cực đoan](/blog/trung-dao)
+Xem thêm: [Lục Độ Ba La Mật — sáu hạnh Bồ Tát](/blog/luc-do-ba-la-mat/) · [Trung Đạo — con đường tránh hai cực đoan](/blog/trung-dao/)
 
 ---
 

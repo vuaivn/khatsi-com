@@ -150,7 +150,7 @@ Tuy nhiên, **qua sự hiểu biết đúng, suy gẫm sâu, và tu tập kiên 
 
 ## Tham Khảo & Liên Kết
 
-- [Duyên Khởi Là Gì? — Lý Duyên Sinh Và 12 Nhân Duyên](/blog/duyen-khoi-la-gi)
-- [Ngũ Uẩn Là Gì? — Sắc, Thọ, Tưởng, Hành, Thức](/blog/ngu-uan-la-gi)
-- [Vô Ngã — Hiểu Đúng Về Bản Tính Không Thực Tại](/blog/vo-nga-la-gi) *(nếu đã publish)*
-- [Tam Pháp Ấn — Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an)
+- [Duyên Khởi Là Gì? — Lý Duyên Sinh Và 12 Nhân Duyên](/blog/duyen-khoi-la-gi/)
+- [Ngũ Uẩn Là Gì? — Sắc, Thọ, Tưởng, Hành, Thức](/blog/ngu-uan-la-gi/)
+- [Vô Ngã — Hiểu Đúng Về Bản Tính Không Thực Tại](/blog/vo-nga-la-gi/) *(nếu đã publish)*
+- [Tam Pháp Ấn — Vô Thường, Khổ, Vô Ngã](/blog/tam-phap-an/)

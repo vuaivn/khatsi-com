@@ -160,6 +160,6 @@ Bộ pháp âm 19 kỳ của HT. Thích Từ Thông là một **lời mời gọ
 ---
 
 **Xem thêm:**
-- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong)
-- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong)
-- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong)
+- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong/)
+- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong/)
+- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong/)

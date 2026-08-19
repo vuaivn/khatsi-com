@@ -206,6 +206,6 @@ Nó là **ba cách hiểu cùng một thực tế**: Phật không bị giới h
 
 ## Tài Liệu Liên Quan
 
-- [Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi)
-- [Đại thừa (Mahayana) – tinh thần Bồ-tát đạo](/blog/dai-thua-mahayana)
-- [Kinh Pháp Hoa – Diệu Pháp Liên Hoa](/blog/kinh-phap-hoa)
+- [Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi/)
+- [Đại thừa (Mahayana) – tinh thần Bồ-tát đạo](/blog/dai-thua-mahayana/)
+- [Kinh Pháp Hoa – Diệu Pháp Liên Hoa](/blog/kinh-phap-hoa/)

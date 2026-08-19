@@ -74,5 +74,5 @@ Khi ta không còn chạy theo bất cứ điều gì, ta mới thực sự gặ
 ---
 
 **Đọc thêm:**
-- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
-- [Thiền định là gì? Con đường tĩnh tâm trong đạo Phật](/blog/thien-dinh-la-gi)
+- [Bát Chánh Đạo — Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)
+- [Thiền định là gì? Con đường tĩnh tâm trong đạo Phật](/blog/thien-dinh-la-gi/)

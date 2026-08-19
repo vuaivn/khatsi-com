@@ -270,8 +270,8 @@ Buông xả ảo tưởng ấy — và bạn sẽ thấy sự tự do thực s�
 
 ## Tham Khảo & Liên Kết Nội Bộ
 
-- [Vô Thường (Anicca) — Bí Mật Của Tất Cả Khổ](/blog/vo-thuong-anicca)
-- [Ba Pháp Ấn (Tilakkhaṇa) — Ba Đặc Tướng Của Thực Tại](/blog/tam-phap-an)
-- [Tứ Niệm Xứ — Bốn Cách Quán Sát Nền Tảng](/blog/tu-niem-xu) *(pending)*
-- [Bát-Nhã Ba-La-Mật — Trí Tuệ Vượt Bờ & Vô Tướng Hành](/blog/bat-nha-ba-la-mat)
-- [Năm Uẩn (Skandha) — Năm Yếu Tố Tạo Nên Con Người](/blog/ngu-uan-la-gi)
+- [Vô Thường (Anicca) — Bí Mật Của Tất Cả Khổ](/blog/vo-thuong-anicca/)
+- [Ba Pháp Ấn (Tilakkhaṇa) — Ba Đặc Tướng Của Thực Tại](/blog/tam-phap-an/)
+- [Tứ Niệm Xứ — Bốn Cách Quán Sát Nền Tảng](/blog/tu-niem-xu/) *(pending)*
+- [Bát-Nhã Ba-La-Mật — Trí Tuệ Vượt Bờ & Vô Tướng Hành](/blog/bat-nha-ba-la-mat/)
+- [Năm Uẩn (Skandha) — Năm Yếu Tố Tạo Nên Con Người](/blog/ngu-uan-la-gi/)

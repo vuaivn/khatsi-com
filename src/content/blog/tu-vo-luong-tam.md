@@ -53,7 +53,7 @@ Kẻ thù gần của Hỷ là niềm vui pha lẫn dính mắc; kẻ thù xa l�
 
 **Xả** là đỉnh cao và cũng là nền giữ thăng bằng cho ba tâm kia. Xả không phải dửng dưng, mà là sự **an nhiên sáng suốt** trước được–mất, khen–chê, thịnh–suy; là chấp nhận rằng mỗi chúng sinh có nghiệp riêng của mình.
 
-Thương người (Từ, Bi) mà thiếu Xả dễ thành lo âu; vui với người (Hỷ) mà thiếu Xả dễ lệch thành dính mắc. Xả giữ cho tình thương luôn đi cùng trí tuệ. Đây cũng là mối liên hệ mật thiết với [Trung Đạo](/blog/trung-dao) — con đường quân bình, tránh mọi cực đoan.
+Thương người (Từ, Bi) mà thiếu Xả dễ thành lo âu; vui với người (Hỷ) mà thiếu Xả dễ lệch thành dính mắc. Xả giữ cho tình thương luôn đi cùng trí tuệ. Đây cũng là mối liên hệ mật thiết với [Trung Đạo](/blog/trung-dao/) — con đường quân bình, tránh mọi cực đoan.
 
 ## Những điều cốt lõi
 
@@ -65,4 +65,4 @@ Thương người (Từ, Bi) mà thiếu Xả dễ thành lo âu; vui với ngư
 
 ## Kết
 
-Tứ Vô Lượng Tâm không phải lý thuyết cao siêu mà là bốn cách "mở lòng" ta có thể tập mỗi ngày: thương yêu, cảm thông, chung vui và giữ bình an. Chúng vừa chuyển hóa nội tâm, vừa làm đẹp mọi mối quan hệ. Muốn hiểu thêm nền tảng tu tập quân bình, mời đọc [Trung Đạo là gì](/blog/trung-dao) và [Bát Chánh Đạo](/blog/bat-chanh-dao).
+Tứ Vô Lượng Tâm không phải lý thuyết cao siêu mà là bốn cách "mở lòng" ta có thể tập mỗi ngày: thương yêu, cảm thông, chung vui và giữ bình an. Chúng vừa chuyển hóa nội tâm, vừa làm đẹp mọi mối quan hệ. Muốn hiểu thêm nền tảng tu tập quân bình, mời đọc [Trung Đạo là gì](/blog/trung-dao/) và [Bát Chánh Đạo](/blog/bat-chanh-dao/).

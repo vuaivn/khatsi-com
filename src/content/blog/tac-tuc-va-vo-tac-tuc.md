@@ -150,6 +150,6 @@ Hiểu rõ **tác túc và vô tác túc** không phải bài tập lý thuyết
 ---
 
 **📌 Bài viết liên quan:**
-- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi)
-- [Vô Thường (Anicca) – Sự Biến Đổi Liên Tục](/blog/vo-thuong-anicca)
-- [Duyên Khởi – Lý Duyên Sinh](/blog/duyen-khoi-la-gi)
+- [Ngũ Uẩn là gì? Sắc–Thọ–Tưởng–Hành–Thức](/blog/ngu-uan-la-gi/)
+- [Vô Thường (Anicca) – Sự Biến Đổi Liên Tục](/blog/vo-thuong-anicca/)
+- [Duyên Khởi – Lý Duyên Sinh](/blog/duyen-khoi-la-gi/)

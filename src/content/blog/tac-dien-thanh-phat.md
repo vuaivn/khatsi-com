@@ -246,10 +246,10 @@ Lý thuyết này đã làm cho **Phật giáo Đại Thừa, và đặc biệt 
 ---
 
 ## Các Liên Kết Nội Bộ
-- [Bồ Tát là gì? Lý tưởng Bồ Tát trong Đại Thừa](/blog/bo-tat-la-gi)
-- [Không Tuyên (Sunyata) — Bản chất Rỗng Không Trong Phật Học](/blog/khong-tuyen-la-gi)
-- [Đại Thừa (Mahāyāna) — tinh thần Bồ Tát đạo](/blog/dai-thua-mahayana)
-- [Lục Độ Ba La Mật — sáu hạnh Bồ Tát](/blog/luc-do-ba-la-mat)
+- [Bồ Tát là gì? Lý tưởng Bồ Tát trong Đại Thừa](/blog/bo-tat-la-gi/)
+- [Không Tuyên (Sunyata) — Bản chất Rỗng Không Trong Phật Học](/blog/khong-tuyen-la-gi/)
+- [Đại Thừa (Mahāyāna) — tinh thần Bồ Tát đạo](/blog/dai-thua-mahayana/)
+- [Lục Độ Ba La Mật — sáu hạnh Bồ Tát](/blog/luc-do-ba-la-mat/)
 
 ---
 

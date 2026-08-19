@@ -160,9 +160,9 @@ Những nguyên lý này, qua Huệ Khả và những vị tổ tiếp theo, đ�
 
 Để hiểu sâu hơn về các khía cạnh liên quan:
 
-- [Duyên Khởi Mười Hai Nhánh — Vòng Luân Hồi Và Sự Thoát Khỏi](/blog/duyenkhi-12-1) — Hiểu thêm cơ chế của luân hồi, điều Bodhidharma muốn chúng ta siêu việt.
-- [Trung Đạo & Hai Cực Đoan — Sự Cân Bằng Trong Đạo Phật](/blog/trung-dao-hai-cuc-doan) — Khám phá Trung Đạo mà Bodhidharma nhấn mạnh qua cách tiếp cận Thiền.
-- [Không Tuyên (Śūnyatā) Là Gì? Chân Nghĩa Của Tánh Không](/blog/khong-tuyen-la-gi) — Tánh Không (Śūnyatā) là trung tâm của triết lý Bodhidharma.
+- [Duyên Khởi Mười Hai Nhánh — Vòng Luân Hồi Và Sự Thoát Khỏi](/blog/duyenkhi-12-1/) — Hiểu thêm cơ chế của luân hồi, điều Bodhidharma muốn chúng ta siêu việt.
+- [Trung Đạo & Hai Cực Đoan — Sự Cân Bằng Trong Đạo Phật](/blog/trung-dao-hai-cuc-doan/) — Khám phá Trung Đạo mà Bodhidharma nhấn mạnh qua cách tiếp cận Thiền.
+- [Không Tuyên (Śūnyatā) Là Gì? Chân Nghĩa Của Tánh Không](/blog/khong-tuyen-la-gi/) — Tánh Không (Śūnyatā) là trung tâm của triết lý Bodhidharma.
 
 ---
 

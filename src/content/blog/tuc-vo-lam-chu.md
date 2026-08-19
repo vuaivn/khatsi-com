@@ -187,6 +187,6 @@ Thực hành Túc Vô Lâm Chủ giúp bạn:
 
 ## 📚 Tham Khảo Thêm
 - Phần II.3 trong **phat-hoc-qa/references/phat-hoc-tong-quan.md** — Tam Pháp Ấn.
-- [**Niết Bàn là gì?**](/blog/niet-ban-la-gi) — Quốc độ tối hậu của Túc Vô Lâm Chủ.
-- [**Duyên Khởi là gì?**](/blog/duyen-khoi-la-gi) — Nguyên tắc sinh khiến mà Túc Vô Lâm Chủ đứng vững.
-- [**Ngũ Uẩn là gì?**](/blog/ngu-uan-la-gi) — Các yếu tố hợp thành "tôi" không có chủ tể.
+- [**Niết Bàn là gì?**](/blog/niet-ban-la-gi/) — Quốc độ tối hậu của Túc Vô Lâm Chủ.
+- [**Duyên Khởi là gì?**](/blog/duyen-khoi-la-gi/) — Nguyên tắc sinh khiến mà Túc Vô Lâm Chủ đứng vững.
+- [**Ngũ Uẩn là gì?**](/blog/ngu-uan-la-gi/) — Các yếu tố hợp thành "tôi" không có chủ tể.

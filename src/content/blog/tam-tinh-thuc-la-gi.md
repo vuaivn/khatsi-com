@@ -151,7 +151,7 @@ A: Không. Tâm vị thức chỉ là **quy trình**, không phải một **vậ
 
 ## Liên Kết Nội Bộ
 
-- [Vô Ngã (Anattā) — Chân Lý Cốt Lõi Của Phật Học](/blog/vo-nga-la-gi)
-- [Duyên Khởi Mười Hai Nhánh](/blog/duyen-khoi-12-tinh-lien-tiec)
-- [Năm Uẩn — Bản Chất Năm Tập Hợp Xây Dựng Cá Nhân](/blog/nam-uan-panchakkhandha)
-- [Thiền Định & Tâm Sạch Trong Phật Giáo](/blog/tinh-tam-la-gi-mental-clarity)
+- [Vô Ngã (Anattā) — Chân Lý Cốt Lõi Của Phật Học](/blog/vo-nga-la-gi/)
+- [Duyên Khởi Mười Hai Nhánh](/blog/duyen-khoi-12-tinh-lien-tiec/)
+- [Năm Uẩn — Bản Chất Năm Tập Hợp Xây Dựng Cá Nhân](/blog/nam-uan-panchakkhandha/)
+- [Thiền Định & Tâm Sạch Trong Phật Giáo](/blog/tinh-tam-la-gi-mental-clarity/)

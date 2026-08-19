@@ -139,6 +139,6 @@ Dù tạm thời hay lâu dài, kín hay rõ, điều quan trọng nhất là **
 ---
 
 ### Liên Kết Nội Bộ
-- [Ngũ Giới — Năm Nguyên Tắc Đạo Đức Căn Bản](/blog/ngu-gioi)
-- [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao)
-- [Trung Đạo — Con Đường Tránh Hai Cực Đoan](/blog/trung-dao)
+- [Ngũ Giới — Năm Nguyên Tắc Đạo Đức Căn Bản](/blog/ngu-gioi/)
+- [Bát Chánh Đạo — Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/)
+- [Trung Đạo — Con Đường Tránh Hai Cực Đoan](/blog/trung-dao/)

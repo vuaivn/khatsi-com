@@ -244,6 +244,6 @@ Hôm nay, hãy ngồi yên 20 phút. Ngây ngô, để tâm có cơ hội **lặ
 ---
 
 ## Bài Viết Liên Quan
-- [Bát Chánh Đạo – Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao)
-- [Tứ Niệm Xứ – Nền Tảng Thiền Quán Chính Niệm](/blog/tu-niem-xu)
-- [Tứ Vô Lượng Tâm – Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam)
+- [Bát Chánh Đạo – Tám Nhánh Con Đường Giải Thoát](/blog/bat-chanh-dao/)
+- [Tứ Niệm Xứ – Nền Tảng Thiền Quán Chính Niệm](/blog/tu-niem-xu/)
+- [Tứ Vô Lượng Tâm – Từ, Bi, Hỷ, Xả](/blog/tu-vo-luong-tam/)

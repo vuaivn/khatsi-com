@@ -21,7 +21,7 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
     </div>
     <div class="filter">
       <a href="/blog">Tất cả</a>
-      {categories.map((c) => <a href={`/blog/category/${c.slug}`} class={c.slug === cat.slug ? 'active' : ''}>{c.name}</a>)}
+      {categories.map((c) => <a href={`/blog/category/${c.slug}/`} class={c.slug === cat.slug ? 'active' : ''}>{c.name}</a>)}
     </div>
     {posts.length > 0 ? (
       <div class="post-cards">{posts.map((post) => <PostCard post={post} />)}</div>

@@ -145,4 +145,4 @@ Từ đó, tâm niệm Phật trở nên**không phải để tìm một vị th
 
 **Nguồn:** Phật Giáo Đại Thừa (kinh Pháp Hoa, Hoa Nghiêm, Vô Lượng Thọ); Luận Yogācāra (Asaṅga, Vasubandhu); Kim Cương Thừa (Đại Nhật, Đại Hắc).
 
-**Liên kết nội bộ:** [Duyên Khởi là gì?](/blog/duyen-khoi-la-gi) · [Tánh Không (Śūnyatā)](/blog/khong-tuyen-la-gi) · [Lục Ba-La-Mật](/blog/sau-ba-la-mat-sieu-do)
+**Liên kết nội bộ:** [Duyên Khởi là gì?](/blog/duyen-khoi-la-gi/) · [Tánh Không (Śūnyatā)](/blog/khong-tuyen-la-gi/) · [Lục Ba-La-Mật](/blog/sau-ba-la-mat-sieu-do/)

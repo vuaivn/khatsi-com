@@ -49,13 +49,13 @@ Vì vậy nhiều người xem đạo Phật là một **con đường sống v�
 
 Nếu chọn một giáo lý duy nhất tóm gọn toàn bộ đạo Phật, đó là **Tứ Diệu Đế**: **Khổ** (đời có khổ), **Tập** (khổ do tham ái), **Diệt** (khổ có thể chấm dứt), **Đạo** (con đường diệt khổ). Đức Phật trình bày như một vị lương y: chẩn bệnh, tìm nguyên nhân, xác nhận chữa được, rồi kê đơn thuốc.
 
-> Tìm hiểu chi tiết: [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi)
+> Tìm hiểu chi tiết: [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi/)
 
 ### Vô Thường và Vô Ngã
 
 Đạo Phật chỉ ra hai đặc tính căn bản của mọi sự vật: **Vô thường** (mọi thứ luôn thay đổi, không gì tồn tại mãi) và **Vô ngã** (không có một "cái tôi" cố định, độc lập). Hiểu được hai điều này giúp ta **buông bám chấp** — gốc rễ của khổ đau.
 
-> Tìm hiểu thêm: [Vô thường và vô ngã](/blog/vo-thuong-vo-nga)
+> Tìm hiểu thêm: [Vô thường và vô ngã](/blog/vo-thuong-vo-nga/)
 
 ### Nhân Quả và Nghiệp
 
@@ -95,7 +95,7 @@ Không cần học thuộc nhiều kinh sách. Hãy bắt đầu đơn giản:
 - **Sống thiện lành**: giữ năm giới căn bản (không sát sinh, trộm cắp, tà dâm, nói dối, dùng chất say).
 - **Quán chiếu vào tâm mình** thay vì tìm cầu bên ngoài.
 
-> Gợi ý thực hành: [Thực hành chánh niệm](/blog/thuc-hanh-chanh-niem) và [Thiểu dục tri túc](/blog/thieu-duc-tri-tuc)
+> Gợi ý thực hành: [Thực hành chánh niệm](/blog/thuc-hanh-chanh-niem/) và [Thiểu dục tri túc](/blog/thieu-duc-tri-tuc/)
 
 ## Những điều cốt lõi
 
@@ -109,4 +109,4 @@ Không cần học thuộc nhiều kinh sách. Hãy bắt đầu đơn giản:
 
 Đạo Phật không đòi hỏi bạn phải tin điều gì một cách mù quáng. Ngược lại, nó mời gọi bạn **nhìn thẳng vào chính cuộc sống và tâm mình**, thấy rõ khổ đau đến từ đâu, và tự bước đi trên con đường giải thoát. Hơn 2.500 năm qua, con đường ấy vẫn còn nguyên giá trị — bởi vì khổ đau và khát vọng an lạc là điều muôn đời của con người.
 
-Nếu bạn mới bắt đầu, hãy đọc tiếp [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi) để hiểu nền tảng, rồi khám phá các bài pháp âm và kinh điển trên Khất Sĩ để đi sâu hơn vào từng chủ đề.
+Nếu bạn mới bắt đầu, hãy đọc tiếp [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/) để hiểu nền tảng, rồi khám phá các bài pháp âm và kinh điển trên Khất Sĩ để đi sâu hơn vào từng chủ đề.

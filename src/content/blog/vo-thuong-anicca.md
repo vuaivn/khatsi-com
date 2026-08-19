@@ -115,7 +115,7 @@ Thực hành thiền quán vô thường mỗi ngày, và bạn sẽ **trực ti
 
 ## Liên Quan
 
-- **[Ba Đặc Tướng (Tam Pháp Ấn)](/blog/tam-phap-an)** — toàn bộ ba đặc tính của hiện tượng
-- **[Khổ Đế — Hiểu Sâu Nỗi Đau và Bất Toại Nguyện](/blog/dukkha-te-cao-hon-kho)** — hệ quả thứ hai của vô thường
-- **[Vô Ngã (Anattā) — Tâm Thức Không Có Chủ Người](/blog/vo-nga-anatta)** — đặc tướng thứ ba
-- **[Duyên Khởi (Paṭiccasamuppāda)](/blog/duyen-khoi-la-gi)** — quy luật sinh diệt tất cả hiện tượng
+- **[Ba Đặc Tướng (Tam Pháp Ấn)](/blog/tam-phap-an/)** — toàn bộ ba đặc tính của hiện tượng
+- **[Khổ Đế — Hiểu Sâu Nỗi Đau và Bất Toại Nguyện](/blog/dukkha-te-cao-hon-kho/)** — hệ quả thứ hai của vô thường
+- **[Vô Ngã (Anattā) — Tâm Thức Không Có Chủ Người](/blog/vo-nga-anatta/)** — đặc tướng thứ ba
+- **[Duyên Khởi (Paṭiccasamuppāda)](/blog/duyen-khoi-la-gi/)** — quy luật sinh diệt tất cả hiện tượng

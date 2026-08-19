@@ -137,7 +137,7 @@ Nếu bạn muốn **một khóa học Phật pháp hoàn chỉnh**, đây là *
 ---
 
 **Xem thêm:**
-- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong)
-- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong)
-- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong)
-- [Tiểu sử HT. Thích Từ Thông](/blog/tieu-su-thich-tu-thong)
+- [Chứng Đạo Ca — Bài ca chứng ngộ](/blog/chung-dao-ca-thich-tu-thong/)
+- [Duy Thức Học — Triết lý cao về tâm](/blog/duy-thuc-hoc-thich-tu-thong/)
+- [Tứ Diệu Đế — Nền tảng giáo pháp](/blog/tu-dieu-de-thich-tu-thong/)
+- [Tiểu sử HT. Thích Từ Thông](/blog/tieu-su-thich-tu-thong/)

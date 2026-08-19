@@ -126,7 +126,7 @@ Vì vậy, không cần bỏ cảm dục để giác ngộ. Chỉ cần **hiểu
 
 ## Tài Liệu Tham Khảo Nội Bộ
 
-- [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi)
-- [Duyên khởi và Mười Hai Nhân Duyên](/blog/duyen-khoi-la-gi)
-- [Trung Đạo: Con Đường Tránh Hai Cực Đoan](/blog/trung-dao)
-- [Tứ Vô Lượng Tâm: Từ, Bi, Hỷ, Xả](/blog/tu-bi-tri-tue) *(nếu có)*
+- [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi/)
+- [Duyên khởi và Mười Hai Nhân Duyên](/blog/duyen-khoi-la-gi/)
+- [Trung Đạo: Con Đường Tránh Hai Cực Đoan](/blog/trung-dao/)
+- [Tứ Vô Lượng Tâm: Từ, Bi, Hỷ, Xả](/blog/tu-bi-tri-tue/) *(nếu có)*

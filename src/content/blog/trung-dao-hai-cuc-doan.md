@@ -146,6 +146,6 @@ Khi bạn chọn Trung Đạo, bạn không lựa chọn giữa hai cực đoan.
 ---
 
 **Đọc thêm:**
-- [Tứ Diệu Đế vs Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)
-- [Bát Chánh Đạo — Tám Phương Diện Chánh Của Đạo Phật](/blog/bat-chanh-dao-01-phap-luan)
-- [Vô Tướng & Vô Ngã — Huyền Bí Của Tánh Không](/blog/vo-tuong-vo-nga-phap)
+- [Tứ Diệu Đế vs Tập Diệu Đế: Điều Gì Khác Biệt?](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)
+- [Bát Chánh Đạo — Tám Phương Diện Chánh Của Đạo Phật](/blog/bat-chanh-dao-01-phap-luan/)
+- [Vô Tướng & Vô Ngã — Huyền Bí Của Tánh Không](/blog/vo-tuong-vo-nga-phap/)

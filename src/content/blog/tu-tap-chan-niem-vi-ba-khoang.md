@@ -248,6 +248,6 @@ Hãy bắt đầu hôm nay, từ 10 phút, từ hơi thở. Phần còn lại s�
 ---
 
 **Xem thêm:**
-- [Thực hành chân niệm hướng dẫn – Sơ cấp đến nâng cao từng bước](/blog/tu-tap-chan-niem-huong-dan)
-- [Tu tập thiền định – Từ cơ bản đến nâng cao](/blog/thien-dinh-co-ban-nang-cao)
-- [37 Phẩm Trợ Đạo – Hệ thống tu tập toàn diện](/blog/37-pham-tro-dao)
+- [Thực hành chân niệm hướng dẫn – Sơ cấp đến nâng cao từng bước](/blog/tu-tap-chan-niem-huong-dan/)
+- [Tu tập thiền định – Từ cơ bản đến nâng cao](/blog/thien-dinh-co-ban-nang-cao/)
+- [37 Phẩm Trợ Đạo – Hệ thống tu tập toàn diện](/blog/37-pham-tro-dao/)

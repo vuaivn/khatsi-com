@@ -159,9 +159,9 @@ Trung Đạo không phải là một công thức cô định. Nó là **một l
 
 ## Tham Khảo Thêm
 
-- [Tứ Diệu Đế: Nền Tảng Của Phật Giáo](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet)
-- [Bát Chánh Đạo: Con Đường Giải Thoát Khỏi Khổ](/blog/bat-chanh-dao) _(bài gợi ý)*
-- [Duyên Khởi: Lý Thuyết Nhân Quả Trong Phật Giáo](/blog/duyen-khoi) _(bài gợi ý)*
+- [Tứ Diệu Đế: Nền Tảng Của Phật Giáo](/blog/tam-dieu-de-va-tap-dieu-de-khac-biet/)
+- [Bát Chánh Đạo: Con Đường Giải Thoát Khỏi Khổ](/blog/bat-chanh-dao/) _(bài gợi ý)*
+- [Duyên Khởi: Lý Thuyết Nhân Quả Trong Phật Giáo](/blog/duyen-khoi/) _(bài gợi ý)*
 - **Kinh Pháp Luân Chuyển (Dhammacakkappavattana Sutta)** — Kinh căn bản, có bản dịch Việt
 
 ---

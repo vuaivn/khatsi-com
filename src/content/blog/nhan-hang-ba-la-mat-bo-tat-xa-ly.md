@@ -177,6 +177,6 @@ Có. Phật giáo Đại thừa dạy rằng **ai cũng có thể phát tâm B�
 
 ## Nội Dung Liên Quan
 
-- **[Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam)** — Bốn thái độ tâm của Bồ-tát
-- **[Bodhicitta — Tâm Hướng Giác Ngộ Trong Đại Thừa](/blog/bodhi-tam-dai-thua)** — Chi tiết sâu về Tâm xả ly
-- **[Lục Ba-La-Mật (Sáu Độ) — Đường Đi Của Bồ-Tát](/blog/sau-ba-la-mat)** — Một bài khác về sáu ba-la-mật
+- **[Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam/)** — Bốn thái độ tâm của Bồ-tát
+- **[Bodhicitta — Tâm Hướng Giác Ngộ Trong Đại Thừa](/blog/bodhi-tam-dai-thua/)** — Chi tiết sâu về Tâm xả ly
+- **[Lục Ba-La-Mật (Sáu Độ) — Đường Đi Của Bồ-Tát](/blog/sau-ba-la-mat/)** — Một bài khác về sáu ba-la-mật

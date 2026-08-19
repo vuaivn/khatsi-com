@@ -110,4 +110,4 @@ Phật giáo toàn thế giới không phải một khối đơn nhất. Từng 
 ---
 
 **Nguồn:** references/phat-hoc-tong-quan.md (Phần II–III–IV: Giáo pháp, Các truyền thống, Hệ thống kinh điển)
-**Tham khảo thêm:** [Bồ-tát Là Gì?](/blog/bo-tat-la-gi) · [Theravāda Là Gì?](/blog/theravada-la-gi) · [Đại Thừa (Mahāyāna)](/blog/dai-thua-mahayana)
+**Tham khảo thêm:** [Bồ-tát Là Gì?](/blog/bo-tat-la-gi/) · [Theravāda Là Gì?](/blog/theravada-la-gi/) · [Đại Thừa (Mahāyāna)](/blog/dai-thua-mahayana/)

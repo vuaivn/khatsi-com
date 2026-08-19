@@ -133,6 +133,6 @@ Cả hai đều là con đường thực sự của Phật giáo. Lựa chọn c
 ---
 
 **Tham khảo nội bộ:**
-- Xem thêm về [Lục Ba-la-mật (Sáu Độ) — Đường Đi Của Bồ-Tát](/blog/sau-ba-la-mat-bo-tat)
-- Xem thêm về [Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm — Tâm Từ Tưởng Của Bồ Tát](/blog/tu-bi-hyi-xa-tu-tu-tam)
-- Xem thêm về [Tứ Pháp Ấn — Bốn Dấu Của Thực Phật Pháp](/blog/tu-phap-an-phat-phap)
+- Xem thêm về [Lục Ba-la-mật (Sáu Độ) — Đường Đi Của Bồ-Tát](/blog/sau-ba-la-mat-bo-tat/)
+- Xem thêm về [Từ Bi Hỷ Xả & Tứ Vô Lượng Tâm — Tâm Từ Tưởng Của Bồ Tát](/blog/tu-bi-hyi-xa-tu-tu-tam/)
+- Xem thêm về [Tứ Pháp Ấn — Bốn Dấu Của Thực Phật Pháp](/blog/tu-phap-an-phat-phap/)

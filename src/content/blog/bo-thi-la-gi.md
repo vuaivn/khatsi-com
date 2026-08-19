@@ -110,4 +110,4 @@ Bố thí Ba La Mật không phải là bố thí vong thức (vô niệm), mà 
 
 ## Kết
 
-Bố thí là hạnh mà ai cũng có thể thực hành — không cần phải xuất gia, không cần phải có nhiều tài sản. Từng hành động nhỏ — trao lại một xu, dạy dỡ một đứa trẻ, gửi một nụ cười — đều là bố thí nếu ta **tu tập tâm thanh tịnh** theo đó. Kinh Pháp Cú dạy: *"Hạnh bố thí khó mà tìm được so sánh, nó là giống hạt thần kỳ, giống tiên dược — bố thí chuyển hóa người cho nhanh nhất."* Để hiểu thêm nền tảng nhân quả của bố thí, mời bạn đọc [Nghiệp và Tái sinh](/blog/nghiep-va-tai-sinh) và [Tam Quy Y — Nương tựa Phật Pháp Tăng](/blog/tam-quy-y).
+Bố thí là hạnh mà ai cũng có thể thực hành — không cần phải xuất gia, không cần phải có nhiều tài sản. Từng hành động nhỏ — trao lại một xu, dạy dỡ một đứa trẻ, gửi một nụ cười — đều là bố thí nếu ta **tu tập tâm thanh tịnh** theo đó. Kinh Pháp Cú dạy: *"Hạnh bố thí khó mà tìm được so sánh, nó là giống hạt thần kỳ, giống tiên dược — bố thí chuyển hóa người cho nhanh nhất."* Để hiểu thêm nền tảng nhân quả của bố thí, mời bạn đọc [Nghiệp và Tái sinh](/blog/nghiep-va-tai-sinh/) và [Tam Quy Y — Nương tựa Phật Pháp Tăng](/blog/tam-quy-y/).

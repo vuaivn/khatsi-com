@@ -230,7 +230,7 @@ Nếu bạn có tâm nguyện giúp đỡ tất cả chúng sinh mà không vì 
 
 ## Tham Khảo & Liên Kết Nội Bộ
 
-- [Lục Ba-La-Mật (Sáu Độ) — Đường Đi Của Bồ-Tát](/blog/sau-ba-la-mat)
-- [Tứ Vô Lượng Tâm — Nền Tảng Từ Bi Phật Giáo](/blog/tu-vo-luong-tam) *(pending)*
-- [Tâm Bồ-Tát & Thiện Tài 53 Vị Thiện Tri Thức](/blog/bo-tat-thien-tai) *(pending)*
-- [Tánh Không & Trí Tuệ Prajñāpāramitā — Trụ Cột Đại Thừa](/blog/tinh-khong-prajna) *(pending)*
+- [Lục Ba-La-Mật (Sáu Độ) — Đường Đi Của Bồ-Tát](/blog/sau-ba-la-mat/)
+- [Tứ Vô Lượng Tâm — Nền Tảng Từ Bi Phật Giáo](/blog/tu-vo-luong-tam/) *(pending)*
+- [Tâm Bồ-Tát & Thiện Tài 53 Vị Thiện Tri Thức](/blog/bo-tat-thien-tai/) *(pending)*
+- [Tánh Không & Trí Tuệ Prajñāpāramitā — Trụ Cột Đại Thừa](/blog/tinh-khong-prajna/) *(pending)*

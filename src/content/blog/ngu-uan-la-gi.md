@@ -21,7 +21,7 @@ faq:
 
 > **Tóm tắt nhanh:** **Ngũ uẩn (Pañcakkhandha)** là năm nhóm hợp thành cái ta gọi là "tôi": **Sắc – Thọ – Tưởng – Hành – Thức**. Đạo Phật phân tích con người thành năm uẩn để chỉ ra rằng: đằng sau chúng không có một "cái tôi" cố định, bất biến — đó là **vô ngã**. Khổ sinh khi ta **bám víu** năm uẩn như một tự ngã; buông chấp thủ thì năm uẩn vẫn vận hành mà tâm được tự do.
 
-Khi nói "tôi", ta thường hình dung một cái gì đó nguyên khối, bền vững, là chủ nhân của thân và tâm. Đạo Phật đưa ra một cách quán chiếu sắc bén để kiểm tra niềm tin ấy: **tháo "cái tôi" ra thành năm phần** và xem thử có tìm được một tự ngã cố định nào không. Năm phần đó gọi là **Ngũ uẩn**. Đây cũng là nền tảng để hiểu sâu giáo lý [Vô thường và Vô ngã](/blog/vo-thuong-vo-nga).
+Khi nói "tôi", ta thường hình dung một cái gì đó nguyên khối, bền vững, là chủ nhân của thân và tâm. Đạo Phật đưa ra một cách quán chiếu sắc bén để kiểm tra niềm tin ấy: **tháo "cái tôi" ra thành năm phần** và xem thử có tìm được một tự ngã cố định nào không. Năm phần đó gọi là **Ngũ uẩn**. Đây cũng là nền tảng để hiểu sâu giáo lý [Vô thường và Vô ngã](/blog/vo-thuong-vo-nga/).
 
 ## Ngũ uẩn nghĩa là gì?
 
@@ -71,7 +71,7 @@ Giống như chữ "xe" chỉ là tên gọi cho tập hợp bánh, khung, máy 
 
 ## "Ngũ thủ uẩn là khổ" — vấn đề nằm ở chấp thủ
 
-Trong [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi), Đức Phật tóm gọn khổ đế bằng câu: *"Tóm lại, năm thủ uẩn là khổ."* Cần hiểu chính xác:
+Trong [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi/), Đức Phật tóm gọn khổ đế bằng câu: *"Tóm lại, năm thủ uẩn là khổ."* Cần hiểu chính xác:
 
 - Không phải năm uẩn tự nó là khổ, mà là **năm uẩn bị chấp thủ** (thủ uẩn) — khi ta bám vào chúng như *"là tôi, của tôi, tự ngã của tôi"*.
 - Chính sự bám víu ấy sinh ra sợ hãi, mất mát, ganh đua, bảo vệ cái tôi — tức khổ.
@@ -83,7 +83,7 @@ Trong [Tứ Diệu Đế](/blog/tu-dieu-de-la-gi), Đức Phật tóm gọn kh�
 
 Ngũ uẩn không phải để học thuộc, mà để **quán chiếu**. Một ứng dụng thực tế: khi một cảm xúc mạnh khởi lên, thay vì đồng hoá "tôi đang giận", ta tập nhìn: *"có một cảm thọ khó chịu (thọ), một sự nhận diện (tưởng), một cơn giận đang khởi trong hành uẩn — tất cả đang sinh diệt."*
 
-Cách "tháo rời" này tạo một khoảng lặng quý giá: ta không còn **là** cơn giận, mà chỉ đang **quan sát** nó. Nhờ đó, chấp thủ lỏng dần — đúng tinh thần [thực hành chánh niệm](/blog/thuc-hanh-chanh-niem).
+Cách "tháo rời" này tạo một khoảng lặng quý giá: ta không còn **là** cơn giận, mà chỉ đang **quan sát** nó. Nhờ đó, chấp thủ lỏng dần — đúng tinh thần [thực hành chánh niệm](/blog/thuc-hanh-chanh-niem/).
 
 ## Những điều cốt lõi
 
@@ -97,4 +97,4 @@ Cách "tháo rời" này tạo một khoảng lặng quý giá: ta không còn *
 
 Ngũ uẩn là chiếc kính hiển vi mà Đức Phật trao cho ta để soi vào "cái tôi": nhìn kỹ, nó không phải một khối đặc cứng cần bảo vệ, mà là năm dòng chảy nương nhau, luôn đổi thay. Thấy được điều này, ta bớt gồng gánh, bớt sợ mất mình — vì vốn không có một "cái tôi" cố định nào để mất.
 
-Hiểu ngũ uẩn rồi, hãy đọc tiếp [Vô thường và Vô ngã](/blog/vo-thuong-vo-nga) để thấy trọn ba đặc tính nền tảng, và [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi) để hiểu con đường chuyển hoá khổ đau mà tuệ giác vô ngã mở ra.
+Hiểu ngũ uẩn rồi, hãy đọc tiếp [Vô thường và Vô ngã](/blog/vo-thuong-vo-nga/) để thấy trọn ba đặc tính nền tảng, và [Tứ Diệu Đế là gì?](/blog/tu-dieu-de-la-gi/) để hiểu con đường chuyển hoá khổ đau mà tuệ giác vô ngã mở ra.

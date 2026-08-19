@@ -112,6 +112,6 @@ Những câu chuyện của ba vị này gợi nhắc chúng ta rằng **Phật 
 ---
 
 ## Liên Kết Bên Trong
-- [Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi)
-- [Tam Quy Y – nương tựa Phật, Pháp, Tăng](/blog/tam-quy-y)
-- [Bát Chánh Đạo – Tám nhánh con đường giải thoát](/blog/bat-chanh-dao)
+- [Bồ-tát là gì? Lý tưởng Bồ-tát trong Đại thừa](/blog/bo-tat-la-gi/)
+- [Tam Quy Y – nương tựa Phật, Pháp, Tăng](/blog/tam-quy-y/)
+- [Bát Chánh Đạo – Tám nhánh con đường giải thoát](/blog/bat-chanh-dao/)

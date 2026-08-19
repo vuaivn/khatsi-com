@@ -119,6 +119,6 @@ Parinirvana chỉ là phần **sau cùng** của một hành trình bắt đầu
 
 ## Tham Khảo Nội Bộ
 
-- [Niết Bàn Là Gì?](/blog/niet-ban-la-gi) — sự giải thoát tối hậu.
-- [Bát Chánh Đạo](/blog/bat-chanh-dao) — con đường dẫn tới Nirvana.
-- [Tam Pháp Ấn](/blog/tam-phap-an) — vô thường, khổ, vô ngã.
+- [Niết Bàn Là Gì?](/blog/niet-ban-la-gi/) — sự giải thoát tối hậu.
+- [Bát Chánh Đạo](/blog/bat-chanh-dao/) — con đường dẫn tới Nirvana.
+- [Tam Pháp Ấn](/blog/tam-phap-an/) — vô thường, khổ, vô ngã.
