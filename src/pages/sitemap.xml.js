@@ -7,7 +7,7 @@ export async function GET() {
   const urls = [];
 
   for (const p of staticPaths) {
-    urls.push({ loc: `${site.url}/${p}`, priority: p === '' ? '1.0' : '0.7', lastmod: new Date().toISOString() });
+    urls.push({ loc: `${site.url}/${p}${p ? '/' : ''}`, priority: p === '' ? '1.0' : '0.7', lastmod: new Date().toISOString() });
   }
   for (const c of categories) {
     urls.push({ loc: `${site.url}/blog/category/${c.slug}/`, priority: '0.6', lastmod: new Date().toISOString() });
