@@ -63,7 +63,7 @@ Zazen không chỉ là thực hành trong phòng thiền (zendō), mà có thể
 - **Samu** (作務, lao động thiền): Làm việc nhà, nấu ăn, dọn dẹp với tâm thái zazen — chỉ làm, không nghĩ loạn.
 - **Ứng dụng vào cuộc sống**: Khi ăn, chỉ ăn; khi đi, chỉ đi. Mỗi hành động đều là zazen nếu ta hiện diện trọn vẹn.
 
-Thực hành zazen hàng ngày (dù chỉ 10-20 phút) giúp tâm trở nên ổn định hơn, ít bị cuốn theo cảm xúc và suy nghĩ loạn. Nó không phải "giải pháp nhanh", mà là con đường lâu dài nuôi dưỡng trí tuệ và từ bi.
+Thực hành zazen hàng ngày — dù chỉ 10-20 phút — giúp tâm ổn định hơn, ít bị cuốn theo cảm xúc loạn. Đây không phải giải pháp nhanh. Đây là con đường nuôi dưỡng trí tuệ lâu dài.
 
 ## Zazen Và Giác Ngộ Đốn Ngộ
 
