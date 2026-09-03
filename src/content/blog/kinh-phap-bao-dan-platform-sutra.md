@@ -20,7 +20,7 @@ faq:
     a: "Huệ Năng (638–713) là vị Tổ thứ sáu của Thiền tông Trung Hoa, người đã định hình nền tảng của Thiền tông. Ngài xuất thân nghèo khó, không biết chữ, nhưng nhờ trí tuệ bẩm sinh đã chứng ngộ và trở thành tổ sư vĩ đại nhất của Thiền tông."
   - q: "Đốn ngộ trong Kinh Pháp Bảo Đàn có nghĩa gì?"
     a: "Đốn ngộ là giác ngộ tức thời, trực tiếp nhận ra bản tâm thanh tịnh của mình mà không cần qua nhiều giai đoạn tu tập từng bước (tiệm tu). Huệ Năng dạy rằng tất cả chúng sinh đều có Phật tánh sẵn có, chỉ cần nhận ra nó qua kiến tánh."
-draft: true
+draft: false
 ---
 
 **Kinh Pháp Bảo Đàn (Platform Sutra / 六祖壇經, Liùzǔ Tánjīng) là kinh điển Thiền tông ghi lại lời dạy của Lục Tổ Huệ Năng (Huìnéng, 惠能, 638–713), nhấn mạnh kiến tánh thành Phật — con đường nhận ra bản tâm thanh tịnh sẵn có trong mọi chúng sinh. Đây là kinh Phật duy nhất do một tổ sư Trung Quốc nói ra, trở thành nền tảng triết lý của Thiền tông (Ch'an / Zen) và ảnh hưởng sâu rộng tới Phật giáo Đông Á.**
@@ -33,7 +33,7 @@ Kinh Pháp Bảo Đàn được biên soạn dựa trên các bài pháp thoại
 
 - Ban đầu, lời dạy của Huệ Năng được đệ tử **Pháp Hải (法海, Fǎhǎi)** ghi chép lại từ các buổi thuyết pháp trên pháp đàn (platform), nơi Ngài truyền thọ giới và giảng giải Phật pháp.
 - Văn bản sớm nhất được gọi là **bản Đôn Hoàng (Dunhuang manuscript)**, tìm thấy trong hang động Đôn Hoàng, có niên đại khoảng thế kỷ 8–9, gồm khoảng 12.000 chữ.
-- Các bản sau này được mở rộng thêm, đặc biệt là **bản Minh đại (明代)** do Tông Bảo (宗寶) hiệu đính vào năm 1291 (triều Nguyên), gồm 10 phẩm (chương), trở thành bản phổ biến nhất hiện nay với khoảng 20.000 chữ.
+- Các bản sau này được mở rộng thêm, đặc biệt là **bản Nguyên đại (元代)** do Tông Bảo (宗寶) hiệu đính vào năm 1291, gồm 10 phẩm (chương), trở thành bản phổ biến nhất hiện nay với khoảng 20.000 chữ.
 
 **Điểm đặc biệt:**
 
@@ -157,7 +157,7 @@ Kinh Pháp Bảo Đàn ảnh hưởng tới:
 
 ## Tại sao Kinh Pháp Bảo Đàn có giá trị đến ngày nay?
 
-Kinh Pháp Bảo Đàn vẫn là **kim chỉ nam tinh thần** cho người tu Thiền và người tìm hiểu Phật pháp, vì những lý do sau:
+Kinh Pháp Bảo Đàn vẫn là **kim chỉ nam tinh thần** cho người tu Thiền và người tìm hiểu Phật pháp. Vì sao?
 
 ### 1. Phá vỡ quan niệm giác ngộ xa vời
 
@@ -177,7 +177,7 @@ Thiền Zen phổ biến ở phương Tây từ thế kỷ 20 (D.T. Suzuki, Alan
 
 ## Làm thế nào để học và thực hành Kinh Pháp Bảo Đàn?
 
-Để tiếp cận Kinh Pháp Bảo Đàn một cách thực nghiệm:
+Muốn tiếp cận Kinh Pháp Bảo Đàn một cách thực nghiệm? Thử bắt đầu từ đây:
 
 ### 1. Đọc với tâm cởi mở
 
@@ -193,7 +193,7 @@ Thực hành **vô niệm** — để các suy nghĩ xuất hiện và tan biế
 
 ### 4. Sống tự nhiên
 
-Huệ Năng dạy rằng tu tập không phải là rời bỏ đời sống thường nhật mà là **sống chân thật** với bản tâm thanh tịnh của mình, ngay trong mọi hoàn cảnh.
+Huệ Năng dạy: tu tập không phải là rời bỏ đời sống thường nhật. Mà là **sống chân thật** với bản tâm thanh tịnh của mình — ngay trong mọi hoàn cảnh.
 
 ---
 
