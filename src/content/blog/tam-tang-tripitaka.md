@@ -4,7 +4,7 @@ description: "Tam Tạng là gì? Tìm hiểu ba phần kinh điển cốt lõi 
 pubDate: 2026-08-24T11:00:00Z
 category: "kinh-dien"
 tags: ["tam-tang", "tripitaka", "kinh-dien", "kinh-tang", "luat-tang", "luan-tang", "phat-hoc", "kinh-phat"]
-heroImage: "/images/posts/hero-tam-tang-tripitaka.webp"
+heroImage: "/images/posts/hero-tam-tang-tripitaka-v2.webp"
 heroAlt: "Ba giỏ tre chứa kinh sách cổ, biểu tượng Tam Tạng Phật giáo"
 faq:
   - q: "Tam Tạng là gì trong Phật giáo?"

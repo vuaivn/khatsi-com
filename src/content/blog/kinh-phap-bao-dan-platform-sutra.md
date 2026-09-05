@@ -11,7 +11,7 @@ tags:
   - kiến tánh
   - đốn ngộ
   - Trung Hoa
-heroImage: /images/posts/hero-kinh-phap-bao-dan-platform-sutra.webp
+heroImage: /images/posts/hero-kinh-phap-bao-dan-platform-sutra-v2.webp
 heroAlt: "Lục Tổ Huệ Năng thuyết pháp trên pháp đàn, bầu không khí trang nghiêm thiền định"
 faq:
   - q: "Kinh Pháp Bảo Đàn khác gì với các kinh Phật khác?"
