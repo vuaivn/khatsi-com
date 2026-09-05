@@ -4,7 +4,7 @@ description: "Zazen là phương pháp thiền định cốt lõi của Thiền 
 pubDate: 2026-07-28
 category: "tu-tap"
 tags: ["thiền định", "zazen", "thiền tông", "tu tập", "Nhật Bản"]
-heroImage: "/images/posts/hero-thien-toa-zazen-thien-tong-nhat-ban.webp"
+heroImage: "/images/posts/hero-thien-toa-zazen-thien-tong-nhat-ban-v2.webp"
 heroAlt: "Hành giả ngồi thiền zazen trong phòng thiền yên tĩnh"
 faq:
   - q: "Zazen khác gì so với các phương pháp thiền định khác?"

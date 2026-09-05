@@ -4,7 +4,7 @@ description: "Tam Quy (Tisaraṇa) là nghi thức quy y Phật, Pháp, Tăng �
 pubDate: 2026-09-01
 category: phat-hoc
 tags: [tam-quy, quy-y, tam-bao, phat-phap-tang, tu-tap-can-ban, tisarana, refuge]
-heroImage: /images/posts/hero-tam-quy-refuge-three-jewels.webp
+heroImage: /images/posts/hero-tam-quy-refuge-three-jewels-v2.webp
 heroAlt: "Biểu tượng Tam Bảo — bánh xe pháp, tháp xá-lợi và tăng đoàn trong khung cảnh chùa chiền Phật giáo"
 draft: false
 faq:

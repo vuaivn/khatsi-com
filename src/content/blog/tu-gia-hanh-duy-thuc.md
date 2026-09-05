@@ -4,7 +4,7 @@ description: "Tìm hiểu Tứ Gia Hạnh (Catuhprayoga) — bốn giai đoạn 
 pubDate: 2026-09-03
 category: "phat-hoc"
 tags: ["duy-thuc-hoc", "yogacara", "tu-tap", "kien-dao", "bo-tat-hanh"]
-heroImage: "/images/posts/hero-tu-gia-hanh-duy-thuc.webp"
+heroImage: "/images/posts/hero-tu-gia-hanh-duy-thuc-v2.webp"
 heroAlt: "Biểu tượng bốn giai đoạn tu tập chuẩn bị chứng đạo trong Phật giáo Duy Thức"
 draft: false
 faq:

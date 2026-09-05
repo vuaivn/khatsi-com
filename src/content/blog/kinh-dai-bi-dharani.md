@@ -4,7 +4,7 @@ description: "Tìm hiểu về Kinh Đại Bi (Mahākaruṇā Dhāraṇī Sūtra
 pubDate: 2026-09-01
 category: "kinh-dien"
 tags: ["Kinh Đại Bi", "Mahākaruṇā Dhāraṇī", "Quán Âm Bồ-Tát", "Avalokiteśvara", "Đại Thừa", "Chú Đại Bi", "dhāraṇī", "kinh điển Phật giáo"]
-heroImage: "/images/posts/hero-kinh-dai-bi-dharani.webp"
+heroImage: "/images/posts/hero-kinh-dai-bi-dharani-v2.webp"
 heroAlt: "Hình ảnh Quán Âm Bồ-Tát nghìn tay nghìn mắt trong ánh sáng từ bi, tượng trưng cho oai lực của Chú Đại Bi"
 faq:
   - q: "Kinh Đại Bi có bao nhiêu câu?"

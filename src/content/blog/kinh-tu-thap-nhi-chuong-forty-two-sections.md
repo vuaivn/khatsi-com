@@ -5,7 +5,7 @@ pubDate: 2026-08-31
 category: "kinh-dien"
 tags: ["kinh-dien", "phat-giao-trung-quoc", "lich-su-phat-giao", "kinh-han-dich", "tu-thap-nhi-chuong"]
 draft: false
-heroImage: "/images/posts/hero-kinh-tu-thap-nhi-chuong-forty-two-sections.webp"
+heroImage: "/images/posts/hero-kinh-tu-thap-nhi-chuong-forty-two-sections-v2.webp"
 heroAlt: "Cuộn kinh cổ Hán văn với ánh sáng dịu nhẹ, tượng trưng cho Kinh Tứ Thập Nhị Chương - bộ kinh Phật đầu tiên được dịch sang tiếng Hán"
 faq:
   - q: "Kinh Tứ Thập Nhị Chương là gì?"

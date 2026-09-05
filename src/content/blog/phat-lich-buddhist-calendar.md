@@ -4,7 +4,7 @@ description: "Tìm hiểu Phật lịch là gì, cách tính năm Phật lịch 
 pubDate: 2026-09-02
 category: "phat-hoc"
 tags: ["phat-lich", "lich-su-phat-giao", "truyen-thong", "van-hoa-phat-giao"]
-heroImage: "/images/posts/hero-phat-lich-buddhist-calendar.webp"
+heroImage: "/images/posts/hero-phat-lich-buddhist-calendar-v2.webp"
 heroAlt: "Biểu tượng Phật lịch với bánh xe pháp và các biểu tượng thời gian theo truyền thống Phật giáo"
 draft: false
 faq:

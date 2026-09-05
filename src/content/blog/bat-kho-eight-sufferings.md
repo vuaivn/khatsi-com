@@ -5,7 +5,7 @@ pubDate: 2026-09-04
 category: "phat-hoc"
 tags: ["bat-kho", "tu-thanh-de", "kho-dau", "giai-thoat", "phat-giao-nguyen-thuy"]
 draft: false
-heroImage: "/images/posts/hero-bat-kho-eight-sufferings.webp"
+heroImage: "/images/posts/hero-bat-kho-eight-sufferings-v2.webp"
 heroAlt: "Minh họa tám loại khổ đau trong Phật giáo: sinh, già, bệnh, chết, gặp ghét, xa thương, cầu không được, ngũ uẩn xí thạnh khổ"
 faq:
   - q: "Bát Khổ là gì trong Phật giáo?"

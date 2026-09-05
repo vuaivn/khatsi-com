@@ -4,7 +4,7 @@ description: "Khám phá Kinh Tăng Chi Bộ, bộ kinh sắp xếp theo pháp s
 pubDate: 2026-08-31
 category: "kinh-dien"
 tags: ["kinh-dien", "anguttara-nikaya", "tang-chi-bo", "pali-canon", "nikaya", "phat-hoc"]
-heroImage: "/images/posts/hero-kinh-tang-chi-bo-anguttara-nikaya.webp"
+heroImage: "/images/posts/hero-kinh-tang-chi-bo-anguttara-nikaya-v2.webp"
 heroAlt: "Thư viện Phật giáo cổ với các bản kinh Pāli được sắp xếp theo pháp số, ánh sáng vàng ấm chiếu qua cửa sổ"
 faq:
   - q: "Kinh Tăng Chi Bộ khác gì với các Nikāya khác?"

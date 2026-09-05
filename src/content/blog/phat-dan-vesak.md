@@ -4,7 +4,7 @@ description: "Tìm hiểu ý nghĩa, nguồn gốc và cách tổ chức lễ Ph
 pubDate: 2026-09-04
 category: "phat-hoc"
 tags: ["phật đản", "vesak", "lễ hội phật giáo", "đức phật", "phật giáo nguyên thủy"]
-heroImage: "/images/posts/hero-phat-dan-vesak.webp"
+heroImage: "/images/posts/hero-phat-dan-vesak-v2.webp"
 heroAlt: "Cảnh lễ Phật Đản với đèn hoa đăng rực rỡ dưới trăng tròn tháng tư Ấn lịch"
 faq:
   - q: "Phật Đản (Vesak) là gì?"

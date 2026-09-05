@@ -4,7 +4,7 @@ description: "Tìm hiểu về An Cư Kiết Hạ (Vassa) — truyền thống t
 pubDate: 2026-08-30
 category: "phat-hoc"
 tags: ["an-cư-kiết-hạ", "vassa", "tăng-đoàn", "tu-tập", "truyền-thống-phật-giáo", "mùa-mưa", "giới-luật"]
-heroImage: "/images/posts/hero-an-cu-kiet-ha-vassa-mua-an-cu.webp"
+heroImage: "/images/posts/hero-an-cu-kiet-ha-vassa-mua-an-cu-v2.webp"
 heroAlt: "Tăng đoàn Phật giáo trong mùa An Cư Kiết Hạ"
 draft: false
 faq:

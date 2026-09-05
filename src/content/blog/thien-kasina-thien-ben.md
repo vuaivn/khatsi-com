@@ -4,7 +4,7 @@ description: "Thiền Kasiṇa (Biến Xứ) là pháp thiền định sử dụ
 pubDate: 2026-09-03
 category: "tu-tap"
 tags: ["thiền định", "samatha", "kasina", "biến xứ", "thiền chỉ"]
-heroImage: "/images/posts/hero-thien-kasina-thien-ben.webp"
+heroImage: "/images/posts/hero-thien-kasina-thien-ben-v2.webp"
 heroAlt: "Thiền Kasiṇa với đối tượng nguyên tố trong Phật giáo"
 draft: false
 faq:

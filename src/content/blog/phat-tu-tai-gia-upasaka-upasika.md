@@ -4,7 +4,7 @@ description: "Phật tử tại gia là người thọ Tam Quy Ngũ Giới, số
 pubDate: 2026-08-30
 category: "phat-hoc"
 tags: ["upasaka", "upasika", "phat-tu-tai-gia", "tam-quy-ngu-gioi", "cu-si", "phat-giao-doi-thuong"]
-heroImage: "/images/posts/hero-phat-tu-tai-gia-upasaka-upasika.webp"
+heroImage: "/images/posts/hero-phat-tu-tai-gia-upasaka-upasika-v2.webp"
 heroAlt: "Phật tử tại gia đang thiền định tại nhà với không gian tịnh thất nhỏ"
 draft: false
 faq:

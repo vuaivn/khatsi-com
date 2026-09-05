@@ -4,7 +4,7 @@ description: "Khám phá Thập Bát Bất Cộng Pháp — mười tám đức 
 pubDate: 2026-09-04
 category: "phat-hoc"
 tags: ["thập bát bất cộng pháp", "đức phật", "phật học", "a-la-hán", "giáo lý phật giáo"]
-heroImage: "/images/posts/hero-thap-bat-bat-cong-phap-ashtadasavenika.webp"
+heroImage: "/images/posts/hero-thap-bat-bat-cong-phap-ashtadasavenika-v2.webp"
 heroAlt: "Biểu tượng mười tám pháp riêng của Phật trong ánh sáng linh thiêng"
 draft: false
 faq:

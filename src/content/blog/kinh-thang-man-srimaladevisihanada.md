@@ -10,7 +10,7 @@ tags:
   - nu-cu-si
   - phat-tinh
   - giac-ngo
-heroImage: /images/posts/hero-kinh-thang-man-srimaladevisihanada.webp
+heroImage: /images/posts/hero-kinh-thang-man-srimaladevisihanada-v2.webp
 heroAlt: "Thắng Man phu nhân thuyết pháp trước vua, hoàng hậu và chúng hội"
 faq:
   - q: "Kinh Thắng Man khác biệt gì so với các kinh Phật khác?"

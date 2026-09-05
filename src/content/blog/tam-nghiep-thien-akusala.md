@@ -4,7 +4,7 @@ description: "Tam Nghiệp Thiện là ba loại hành động thiện qua Thân
 pubDate: 2026-09-02T05:00:00Z
 category: "phat-hoc"
 tags: ["tam nghiệp", "thiện nghiệp", "thân khẩu ý", "giới luật", "nghiệp lực", "tu tập"]
-heroImage: "/images/posts/hero-tam-nghiep-thien-akusala.webp"
+heroImage: "/images/posts/hero-tam-nghiep-thien-akusala-v2.webp"
 heroAlt: "Biểu tượng hoa sen ba cánh tượng trưng cho Tam Nghiệp Thiện: Thân, Khẩu, Ý"
 faq:
   - q: "Tam Nghiệp Thiện là gì?"

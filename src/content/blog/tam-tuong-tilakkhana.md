@@ -4,7 +4,7 @@ description: "Tam Tướng (Tilakkhaṇa) là ba dấu ấn đặc trưng của 
 pubDate: 2026-09-04
 category: "phat-hoc"
 tags: ["tam-tuong", "tilakkhana", "vo-thuong", "anicca", "dukkha", "vo-nga", "anatta", "giao-ly-phat-giao", "giac-ngo"]
-heroImage: "/images/posts/hero-tam-tuong-tilakkhana.webp"
+heroImage: "/images/posts/hero-tam-tuong-tilakkhana-v2.webp"
 heroAlt: "Ba đặc tính của thực tại trong Phật giáo - Tam Tướng Tilakkhaṇa"
 draft: false
 faq:

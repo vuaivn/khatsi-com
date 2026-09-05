@@ -4,7 +4,7 @@ description: "Lục độ vạn hạnh là hệ thống tu tập Bồ-tát: từ
 pubDate: 2026-08-30
 category: "phat-hoc"
 tags: ["lục độ", "ba-la-mật", "vạn hạnh", "bồ-tát", "đại thừa", "tu tập", "giác ngộ"]
-heroImage: "/images/posts/hero-luc-do-van-hanh-paramitas.webp"
+heroImage: "/images/posts/hero-luc-do-van-hanh-paramitas-v2.webp"
 heroAlt: "Sáu cánh sen vàng xoay tròn trên mặt nước tĩnh lặng, mỗi cánh tượng trưng một ba-la-mật, phản chiếu vô số tia sáng nhỏ — hình ảnh hoá vạn hạnh"
 faq:
   - q: "Lục độ và vạn hạnh khác nhau thế nào?"

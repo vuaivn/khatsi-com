@@ -4,7 +4,7 @@ description: "Khám phá Kinh Chuyển Pháp Luân — bài pháp đầu tiên P
 pubDate: 2026-09-01
 category: "kinh-dien"
 tags: ["kinh-dien", "tu-thanh-de", "bat-chanh-dao", "phat-su", "nguyen-thuy"]
-heroImage: "/images/posts/hero-kinh-chuyen-phap-luan-dhammacakkappavattana-sutta.webp"
+heroImage: "/images/posts/hero-kinh-chuyen-phap-luan-dhammacakkappavattana-sutta-v2.webp"
 heroAlt: "Đức Phật thuyết pháp cho năm anh em Kiều-Trần-Như tại Vườn Lộc Uyển, bánh xe pháp bắt đầu xoay chuyển"
 draft: false
 faq:

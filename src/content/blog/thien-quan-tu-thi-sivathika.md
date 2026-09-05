@@ -4,7 +4,7 @@ description: "Sivathikā (Thiền Quán Tử Thi) là pháp thiền đặc biệ
 pubDate: 2026-09-01
 category: "tu-tap"
 tags: ["thien-dinh", "tu-tap", "vo-thuong", "bat-tinh"]
-heroImage: "/images/posts/hero-thien-quan-tu-thi-sivathika.webp"
+heroImage: "/images/posts/hero-thien-quan-tu-thi-sivathika-v2.webp"
 heroAlt: "Thiền Quán Tử Thi - pháp tu nhìn thấu vô thường"
 draft: false
 faq:

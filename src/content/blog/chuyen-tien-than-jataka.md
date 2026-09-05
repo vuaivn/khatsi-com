@@ -4,7 +4,7 @@ description: "Jātaka là bộ sưu tập 547 câu chuyện về các kiếp tr�
 pubDate: 2026-08-31
 category: "kinh-dien"
 tags: ["jataka", "chuyen-tien-than", "kinh-dien", "bo-tat", "dao-duc"]
-heroImage: "/images/posts/hero-chuyen-tien-than-jataka.webp"
+heroImage: "/images/posts/hero-chuyen-tien-than-jataka-v2.webp"
 heroAlt: "Cảnh minh họa một câu chuyện Jātaka với Bồ-tát đang tu tập các ba-la-mật trong kiếp trước"
 draft: false
 faq:
