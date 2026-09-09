@@ -15,7 +15,7 @@ faq:
   - q: "Làm thế nào để quy y?"
     a: "Quy y thường được thực hiện trong một buổi lễ do tăng ni chủ trì, nơi bạn tuyên nguyện ba lần trước Tam Bảo và thọ nhận Ngũ Giới (tùy nguyện)."
   - q: "Quy y mang lại lợi ích gì?"
-    a: "Quy y giúp xác định hướng đi tâm linh, tạo nghiệp lành, được hộ trì bởi chư Thiên, và chuẩn bị nền tảng vững chắc cho hành trình giác ngộ."
+    a: "Quy y giúp xác định hướng đi tâm linh, tạo nghiệp lành, và chuẩn bị nền tảng vững chắc cho hành trình giác ngộ. Theo Phật điển, người quy y còn được chư Thiên hộ pháp che chở."
 ---
 
 **Tam Quy (Tisaraṇa) — quy y Phật, Pháp, Tăng — đánh dấu cửa ngõ bước vào đạo Phật. Khi công khai nương tựa Tam Bảo, bạn trở thành Phật tử chính thức. Đây là sự chuyển hóa tâm thức: từ cuộc sống mê loạn sang hướng đi rõ ràng. Không chỉ nghi lễ hình thức — mà là cam kết theo đuổi giác ngộ.**
@@ -75,9 +75,7 @@ Nghi thức quy y thường diễn ra tại chùa, do một vị tăng ni chủ 
 
 ### Sự Khác Biệt Giữa Quy Y Hình Thức Và Quy Y Chân Thật
 
-Có người quy y vì gia đình bắt buộc, vì truyền thống văn hóa, hoặc chỉ để có danh nghĩa Phật tử. Nhưng quy y thực sự cần đến từ **nội tâm**. Đức Phật dạy:
-
-> "Ta không gọi người ta là Phật tử chỉ vì họ đọc kinh, mặc áo cà-sa, hay tụng niệm. Ta gọi người ta là Phật tử khi họ sống đúng Pháp."
+Có người quy y vì gia đình bắt buộc, vì truyền thống văn hóa, hoặc chỉ để có danh nghĩa Phật tử. Nhưng quy y thực sự cần đến từ **nội tâm**. Tinh thần này vang vọng trong lời Phật dạy về "vị tỳ-kheo chân thật" (Kinh Pháp Cú, phẩm 19): không phải cứ mặc áo cà-sa hay tụng niệm là thành người tu — mà là sống đúng Pháp.
 
 Quy y chân thật là khi bạn thực sự tin tưởng Tam Bảo, áp dụng giáo lý vào đời sống, và không ngừng tu tập để tiến bộ.
 
@@ -131,6 +129,6 @@ Nghi lễ chính thức hay thầm niệm trong tim — điều quan trọng là
 
 **Đọc thêm:**
 
-- [Tam Bảo — Phật, Pháp, Tăng: Nền Tảng Tư Thúc Của Đạo Phật](/blog/tam-bao-phat-phap-tang/) — Tìm hiểu sâu về ba viên ngọc quý mà Phật tử nương tựa.
+- [Tam Bảo — Phật, Pháp, Tăng: Nền Tảng Cốt Tủy Của Đạo Phật](/blog/tam-bao-phat-phap-tang/) — Tìm hiểu sâu về ba viên ngọc quý mà Phật tử nương tựa.
 - [Tứ Thánh Đế — Bốn Chân Lý Cao Quý Mở Đường Giải Thoát](/blog/tu-thanh-de-bon-chan-ly-cao-quy/) — Hiểu rõ giáo lý nền tảng mà người quy y cam kết theo đuổi.
-- [Ngũ Giới — Năm Giới Luật Cơ Bản Của Phật Tử Tại Gia](/blog/thap-thien-dasa-kusala/) — Giới luật đạo đức thường đi kèm với nghi thức quy y (bài này nói về Thập Thiện, bao gồm Ngũ Giới mở rộng).
+- [Ngũ Giới — Năm Nguyên Tắc Đạo Đức Căn Bản Của Người Phật Tử](/blog/ngu-gioi/) — Năm giới thường được thọ nhận ngay trong buổi lễ quy y.
