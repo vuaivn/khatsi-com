@@ -10,7 +10,7 @@ faq:
   - q: "Tam Tạng là gì trong Phật giáo?"
     a: "Tam Tạng (Tipiṭaka / Tripiṭaka) nghĩa đen là 'Ba Giỏ', chỉ ba bộ phận kinh điển căn bản của Phật giáo: Kinh Tạng (lời dạy của Phật), Luật Tạng (giới luật Tăng-già), và Luận Tạng (giải thích triết lý giáo pháp)."
   - q: "Tại sao gọi là Tam Tạng mà không phải Tam Kinh?"
-    a: "Từ 'Tạng' (piṭaka) có nghĩa là 'giỏ' hoặc 'kho', ám chỉ cách bảo quản kinh sách trên lá buông trong thời cổ đại. Ba giỏ này chứa toàn bộ di sản văn hóa Phật giáo được kết tập qua các đời."
+    a: "Từ 'Tạng' (piṭaka) có nghĩa là 'giỏ' hoặc 'kho', ám chỉ cách bảo quản kinh sách trên lá bối trong thời cổ đại. Ba giỏ này chứa toàn bộ di sản văn hóa Phật giáo được kết tập qua các đời."
   - q: "Kinh Tạng, Luật Tạng và Luận Tạng khác nhau thế nào?"
     a: "Kinh Tạng ghi lại lời Phật thuyết pháp trực tiếp; Luật Tạng quy định giới luật cho Tăng-già; Luận Tạng phân tích, hệ thống hóa và giải thích sâu về giáo lý Phật."
   - q: "Tam Tạng Pāli và Tam Tạng Hán có giống nhau không?"
