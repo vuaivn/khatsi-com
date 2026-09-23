@@ -97,7 +97,7 @@ Tứ Thánh Chủng liên kết chặt chẽ với nhiều giáo lý khác trong
 - **Đoạn trừ phiền não** là mục tiêu của [Tam Học (Giới-Định-Tuệ)](/blog/tam-hoc-gioi-dinh-tue/) — giới luật giúp hạn chế hành vi bất thiện, thiền định làm tâm tĩnh lặng, trí tuệ nhìn thấu thực tại.
 - **Ưa thích tu tập** liên kết với tinh thần của [Tứ Chánh Cần](/blog/tu-chanh-can-bon-no-luc-dung-muc/) — nỗ lực tinh tấn không ngừng nghỉ trong việc diệt ác, sinh thiện, và phát triển tâm linh.
 
-Tứ Thánh Chủng cũng thể hiện tinh thần của [Trung Đạo](/blog/trung-dao/) — không đắm chìm trong khoái lạc giác quan, nhưng cũng không hành xác khổ hạnh vô ích. Đây là con đường cân bằng: sống đơn giản nhưng không khắc khổ, tu tập chuyên cần nhưng không cực đoan.
+Tứ Thánh Chủng cũng thể hiện tinh thần [Trung Đạo](/blog/trung-dao/). Không đắm chìm trong khoái lạc giác quan, nhưng cũng không hành xác vô ích. Đơn giản mà không khắc khổ. Tu tập chuyên cần mà không cực đoan.
 
 ## Câu chuyện minh họa
 
@@ -111,7 +111,9 @@ Câu chuyện này nhắc nhở: Tứ Thánh Chủng không phải gánh nặng,
 
 ## Lời kết: Truyền thống của những người cao quý
 
-Tứ Thánh Chủng không phải luật lệ cứng nhắc. Không phải giáo điều máy móc. Đây là lời mời gọi: hãy sống đơn giản, hãy tri túc, hãy tìm niềm vui trong tu tập — thay vì chạy theo những thứ vô thường, hư ảo.
+Tứ Thánh Chủng không phải luật lệ cứng nhắc. Không phải giáo điều máy móc. 
+
+Đây là lời mời gọi: sống đơn giản, tri túc, tìm niềm vui trong tu tập. Thay vì chạy theo những thứ vô thường.
 
 Đức Phật dạy rằng Tứ Thánh Chủng là truyền thống cổ xưa, truyền thống của các bậc Thánh từ quá khứ xa xôi. Truyền thống này vẫn còn nguyên giá trị ngày nay. Trong thế giới vật chất tràn ngập, nơi con người luôn cảm thấy thiếu thốn dù đã có quá nhiều, Tứ Thánh Chủng là ánh sáng chỉ đường. 
 
