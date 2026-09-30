@@ -22,14 +22,14 @@ faq:
 
 ## Tứ Tùy Niệm Là Gì?
 
-Từ **Anussati** (Pāli) có nghĩa là "nhớ nghĩ liên tục" hoặc "tùy niệm" — một dạng thiền định trong đó tâm chú tâm vào một đối tượng đáng kính trọng và ghi nhớ các phẩm chất của nó. Kinh điển Phật giáo liệt kê nhiều pháp Anussati, nhưng bốn pháp niệm cốt lõi nhất là:
+Từ **Anussati** (Pāli) có nghĩa là "nhớ nghĩ liên tục" — một dạng thiền định trong đó tâm tập trung vào đối tượng đáng kính trọng và ghi nhớ các phẩm chất của nó. Kinh điển Phật giáo liệt kê nhiều pháp Anussati, nhưng bốn pháp niệm cốt lõi nhất là:
 
 1. **Niệm Phật** (Buddhānussati) — niệm về công đức của Đức Phật
 2. **Niệm Pháp** (Dhammānussati) — niệm về giáo pháp
 3. **Niệm Tăng** (Saṅghānussati) — niệm về Tăng đoàn bậc thánh
 4. **Niệm Giới** (Sīlānussati) — niệm về giới luật thanh tịnh
 
-Bốn pháp này không đơn thuần là suy nghĩ. Chúng là **quá trình quán tưởng có định hướng**, trong đó hành giả tập trung tâm vào các phẩm chất cao quý của Tam Bảo và giới luật, từ đó nuôi dưỡng đức tin, thanh lọc tâm, và chuẩn bị cho tuệ giác.
+Không phải suy nghĩ suông. Đây là quán tưởng có mục tiêu: tâm tập trung vào phẩm chất cao quý của Tam Bảo và giới luật, nuôi dưỡng đức tin, thanh lọc tâm, chuẩn bị cho tuệ giác.
 
 ## 1. Niệm Phật (Buddhānussati)
 
@@ -57,9 +57,9 @@ Niệm Phật là quán tưởng về các công đức và phẩm chất của 
 
 ### Cách thực hành
 
-Ngồi thiền, tâm nhớ nghĩ: "Đức Phật là bậc Toàn Giác, thanh tịnh, bi trí viên mãn. Ngài đã vượt qua mọi khổ đau, là tấm gương sáng cho con đường giải thoát."
+Ngồi thiền. Tâm nhớ nghĩ: "Đức Phật là bậc Toàn Giác, thanh tịnh, bi trí viên mãn. Ngài vượt qua mọi khổ đau, là tấm gương cho con đường giải thoát."
 
-Không cần hình dung hình ảnh; chỉ cần **ghi nhớ phẩm chất** và để tâm an trú trong đó.
+Không cần hình dung hình ảnh. Chỉ ghi nhớ phẩm chất, để tâm an trú trong đó.
 
 ## 2. Niệm Pháp (Dhammānussati)
 
@@ -150,7 +150,7 @@ Tứ Tùy Niệm là **pháp chuẩn bị** (parikamma-bhāvanā) cho các bậc
 | **Mục tiêu** | Thiền định, tuệ giác | Cầu sinh Tịnh Độ |
 | **Truyền thống** | Phật giáo Nguyên Thủy | Đại Thừa (Tịnh Độ Tông) |
 
-Cả hai đều quý, nhưng phương pháp và mục tiêu khác nhau.
+Cả hai đều có giá trị, nhưng đừng nhầm lẫn: một hướng về tuệ giác nội tâm, một hướng về Tịnh Độ bên ngoài. Chọn đúng pháp môn phù hợp với con đường bạn đi.
 
 ## Kinh Điển Liên Quan
 
@@ -169,19 +169,19 @@ Cả hai đều quý, nhưng phương pháp và mục tiêu khác nhau.
 
 ## Tại Sao Tứ Tùy Niệm Là "Cầu Nối"?
 
-Tứ Tùy Niệm không phải là đích cuối, mà là **cầu nối** giữa đức tin và trí tuệ:
+Tứ Tùy Niệm không phải đích cuối. Đây là cầu nối giữa đức tin và trí tuệ:
 
-- **Đức tin** (saddhā) là điểm khởi đầu — tin vào Tam Bảo.
-- **Tứ Tùy Niệm** nuôi dưỡng đức tin, đồng thời thanh lọc tâm và phát triển định.
-- **Trí tuệ** (paññā) nảy nở từ tâm thanh tịnh — dẫn đến giải thoát.
+- **Đức tin** (saddhā) — điểm khởi đầu, tin vào Tam Bảo.
+- **Tứ Tùy Niệm** nuôi dưỡng đức tin, thanh lọc tâm, phát triển định.
+- **Trí tuệ** (paññā) nảy nở từ tâm thanh tịnh, dẫn đến giải thoát.
 
-Không có đức tin, khó có động lực tu tập. Không có trí tuệ, đức tin là mù quáng. Tứ Tùy Niệm làm cầu nối giữa hai này.
+Không có đức tin thì khó có động lực. Không có trí tuệ thì đức tin là mù quáng. Tứ Tùy Niệm làm cầu nối.
 
 ## Kết Luận
 
-Tứ Tùy Niệm — Niệm Phật, Niệm Pháp, Niệm Tăng, Niệm Giới — là bốn pháp môn thiền định nền tảng trong Phật giáo Nguyên Thủy. Chúng không chỉ tăng cường đức tin, mà còn thanh lọc tâm, nuôi dưỡng định, và chuẩn bị cho tuệ giác.
+Tứ Tùy Niệm — Niệm Phật, Niệm Pháp, Niệm Tăng, Niệm Giới — là bốn pháp môn thiền định nền tảng trong Phật giáo Nguyên Thủy. Tăng cường đức tin. Thanh lọc tâm. Nuôi dưỡng định. Chuẩn bị cho tuệ giác.
 
-Thực hành hàng ngày, dù chỉ 5-10 phút, sẽ mang lại sự ổn định tâm linh vững chắc — nền tảng cho mọi pháp tu sâu xa hơn trên con đường giải thoát.
+Thực hành hàng ngày 5-10 phút. Tâm linh ổn định. Nền tảng vững chắc cho con đường giải thoát.
 
 **Đọc thêm:**
 

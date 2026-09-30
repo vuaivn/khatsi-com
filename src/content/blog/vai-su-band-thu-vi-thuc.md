@@ -6,6 +6,7 @@ category: "phat-hoc"
 tags: ["Vasubandhu", "Duy Thức học", "Yogācāra", "tâm chỉ", "Asaṅga", "Abhidharmakoṣa", "Luận sư Ấn Độ"]
 heroImage: /images/posts/hero-vai-su-band-thu-vi-thuc.webp
 heroAlt: "Vasubandhu & Duy Thức Học: Tâm là nền tảng của mọi trải nghiệm."
+draft: true
 faq:
   - q: "Vasubandhu là ai?"
     a: "Vasubandhu (c. 316–396 SCN, theo truyền thống Hán) là luận sư Phật giáo Ấn Độ lỗi lạc, em trai của Asaṅga. Ban đầu theo trường Sarvāstivāda (Nhất Thiết Hữu Bộ), sau được anh tuyên chuyển sang Đại Thừa, và cùng Asaṅga là nhà sáng lập chính của trường phái Yogācāra (Duy Thức Học)."
