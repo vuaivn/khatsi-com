@@ -18,11 +18,13 @@ faq:
     a: "Xả là yếu tố quan trọng dẫn tới giải thoát, nhưng không phải Niết-bàn. Nó là nền tảng cho trí tuệ (paññā) phát triển, giúp tâm không dao động để nhìn thấu thực tại như thật."
 ---
 
-**Thiền Xả (Upekkhā Bhāvanā) là pháp tu tập tâm xả thanh tịnh — không thiên vị, không dao động trước thuận nghịch, không dính mắc nhưng cũng không thờ ơ. Upekkhā là một trong Tứ Vô Lượng Tâm, một trong Thất Giác Chi giác ngộ, và là thiền chi của Tứ Thiền cao nhất. Khác với vô cảm hay thờ ơ, xả thanh tịnh là trạng thái cân bằng tuyệt đối với nền tảng từ bi và trí tuệ, mở đường cho sự giải thoát hoàn toàn.**
+**Thiền Xả (Upekkhā Bhāvanā) tu tập tâm xả thanh tịnh — không thiên vị, không dao động trước thuận nghịch. Không dính mắc nhưng cũng chẳng thờ ơ. Upekkhā vừa là một trong Tứ Vô Lượng Tâm, vừa thuộc Thất Giác Chi giác ngộ, lại còn là thiền chi của Tứ Thiền cao nhất. Xả thanh tịnh khác hẳn vô cảm: đây là trạng thái cân bằng tuyệt đối, nền tảng từ bi và trí tuệ hòa quyện, mở đường giải thoát hoàn toàn.**
 
 ## Upekkhā Là Gì? Bản Chất Của Tâm Xả
 
-Trong Pāli, **upekkhā** có nghĩa đen là "nhìn qua", "quan sát với tâm trung lập". Nhưng đây không phải sự thờ ơ hay lạnh lùng — đó là **tâm cân bằng sâu xa**, không nghiêng về tham ái hay sân hận, không dao động trước khen chê, được mất, thành bại.
+**Upekkhā** trong Pāli nghĩa đen là "nhìn qua", "quan sát với tâm trung lập". 
+
+Nhưng đây không phải thờ ơ hay lạnh lùng. Đó là tâm cân bằng sâu xa — không nghiêng về tham ái hay sân hận, không dao động trước khen chê, được mất, thành bại.
 
 Kinh điển định nghĩa upekkhā qua nhiều góc độ:
 
@@ -30,9 +32,9 @@ Kinh điển định nghĩa upekkhā qua nhiều góc độ:
 - **Thất Giác Chi**: Xả là yếu tố cân bằng các giác chi khác — không để tâm quá phấn chấn hay quá uể oải.
 - **Thiền Chi**: Xả là đặc tính của Tứ Thiền — tâm hoàn toàn an trú, không còn hỷ (pīti) hay lạc (sukha) thô, chỉ còn cân bằng thanh tịnh tuyệt đối.
 
-Upekkhā không phải là sự thờ ơ (aññāṇa-upekkhā). Thờ ơ xuất phát từ vô minh, không quan tâm đến đúng sai, khổ vui.
+Upekkhā khác thờ ơ (aññāṇa-upekkhā). Thờ ơ xuất phát từ vô minh. Không quan tâm đúng sai, khổ vui.
 
-Xả thanh tịnh xuất phát từ trí tuệ — hiểu rõ nhân duyên, vô thường, vô ngã, nên tâm không cuốn theo nhưng vẫn đầy từ bi.
+Xả thanh tịnh? Xuất phát từ trí tuệ. Hiểu rõ nhân duyên, vô thường, vô ngã — tâm không cuốn theo nhưng vẫn đầy từ bi.
 
 ## Ba Loại Xả Trong Phật Học
 
@@ -62,26 +64,34 @@ Khi sáu căn (mắt, tai, mũi, lưỡi, thân, ý) tiếp xúc với sáu tr�
 3. **Hỷ** (muditā) — vui mừng với hạnh phúc người khác
 4. **Xả** (upekkhā) — tâm cân bằng, không thiên vị
 
-Upekkhā là đỉnh cao của Tứ Vô Lượng Tâm. Không thay thế từ, bi, hỷ — nó bao trùm cả ba trong sự cân bằng hoàn hảo.
+Upekkhā là đỉnh cao của Tứ Vô Lượng Tâm. 
+
+Không thay thế từ, bi, hỷ. Bao trùm cả ba trong cân bằng hoàn hảo.
 
 ### Từ Bi Hỷ Dẫn Đến Xả
 
-Từ có thể biến thành tham ái nếu dính mắc với người thân. Bi có thể biến thành ưu sầu nếu quá đắm chìm vào khổ đau người khác. Hỷ có thể biến thành phấn khích thiếu cân bằng.
+Từ có thể biến thành tham ái nếu dính mắc người thân. 
 
-Upekkhā chỉnh hòa ba tâm này — giúp chúng không biến chất. Tu tập [Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam/) đầy đủ là tu tập cân bằng giữa yêu thương, thương xót, vui mừng và xả.
+Bi có thể biến thành ưu sầu nếu quá đắm chìm khổ đau người khác. 
+
+Hỷ? Biến thành phấn khích thiếu cân bằng.
+
+Upekkhā chỉnh hòa ba tâm này, giúp chúng không biến chất. Tu tập [Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam/) đầy đủ chính là tu tập cân bằng — yêu thương, thương xót, vui mừng, rồi xả.
 
 ### Xả Không Phải Là Bỏ Mặc
 
-Nhiều người hiểu lầm: "Xả là không quan tâm đến khổ đau người khác." Sai! Xả thanh tịnh **vẫn thương yêu, vẫn giúp đỡ**, nhưng:
+Nhiều người hiểu lầm: "Xả là không quan tâm khổ đau người khác." 
+
+Sai. Xả thanh tịnh vẫn thương yêu, vẫn giúp đỡ. Nhưng:
 
 - Không mong đợi kết quả cụ thể
 - Không dính mắc vào thành bại
 - Không thiên vị người này hơn người kia
 - Không dao động khi người khác không nghe lời
 
-Bồ-tát thực hành xả là cứu độ không mỏi mệt nhưng không bị tổn thương bởi sự vô ơn hay thất bại.
+Bồ-tát thực hành xả cứu độ không mỏi mệt, không bị tổn thương bởi vô ơn hay thất bại.
 
-Đó là từ bi bền vững — không cạn kiệt vì cuốn theo cảm xúc.
+Từ bi bền vững. Không cạn kiệt vì cuốn theo cảm xúc.
 
 ## Xả Trong Thất Giác Chi (Bojjhaṅga)
 
@@ -95,14 +105,14 @@ Upekkhā là một trong **Thất Giác Chi** (Satta Bojjhaṅga) — bảy yế
 6. Định (samādhi)
 7. **Xả (upekkhā)**
 
-Vai trò của upekkhā ở đây là **cân bằng năng lượng tâm**:
+Vai trò của upekkhā? Cân bằng năng lượng tâm.
 
-- Khi tâm **quá phấn chấn** (do pīti, vīriya, dhammavicaya mạnh) → tăng xả để bình ổn
-- Khi tâm **quá trầm uể** → giảm xả, tăng tinh tấn và trạch pháp
+- Tâm quá phấn chấn (do pīti, vīriya, dhammavicaya mạnh) → tăng xả để bình ổn.
+- Tâm quá trầm uể → giảm xả, tăng tinh tấn và trạch pháp.
 
-Xả giống người điều khiển dàn nhạc — đảm bảo mọi nhạc cụ hòa âm, không phần nào át phần khác.
+Xả giống người điều khiển dàn nhạc. Đảm bảo mọi nhạc cụ hòa âm, không phần nào át phần khác.
 
-Không có xả, tu tập mất cân bằng. Hoặc quá căng thẳng, hoặc quá thụ động.
+Không có xả, tu tập mất cân bằng. Hoặc quá căng thẳng. Hoặc quá thụ động.
 
 ## Xả Trong Thiền Định (Jhāna)
 
