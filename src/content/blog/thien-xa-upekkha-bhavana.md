@@ -18,7 +18,7 @@ faq:
     a: "Xả là yếu tố quan trọng dẫn tới giải thoát, nhưng không phải Niết-bàn. Nó là nền tảng cho trí tuệ (paññā) phát triển, giúp tâm không dao động để nhìn thấu thực tại như thật."
 ---
 
-**Thiền Xả (Upekkhā Bhāvanā) tu tập tâm xả thanh tịnh — không thiên vị, không dao động trước thuận nghịch. Không dính mắc nhưng cũng chẳng thờ ơ. Upekkhā vừa là một trong Tứ Vô Lượng Tâm, vừa thuộc Thất Giác Chi giác ngộ, lại còn là thiền chi của Tứ Thiền cao nhất. Xả thanh tịnh khác hẳn vô cảm: đây là trạng thái cân bằng tuyệt đối, nền tảng từ bi và trí tuệ hòa quyện, mở đường giải thoát hoàn toàn.**
+**Thiền Xả (Upekkhā Bhāvanā) tu tập tâm xả thanh tịnh — không thiên vị, không dao động trước thuận nghịch. Không dính mắc. Cũng chẳng thờ ơ. Upekkhā vừa là một trong Tứ Vô Lượng Tâm, vừa thuộc Thất Giác Chi giác ngộ, lại còn là thiền chi của Tứ Thiền cao nhất. Xả thanh tịnh khác hẳn vô cảm — đây là cân bằng tuyệt đối khi từ bi và trí tuệ hòa quyện, mở đường giải thoát hoàn toàn.**
 
 ## Upekkhā Là Gì? Bản Chất Của Tâm Xả
 
@@ -64,34 +64,32 @@ Khi sáu căn (mắt, tai, mũi, lưỡi, thân, ý) tiếp xúc với sáu tr�
 3. **Hỷ** (muditā) — vui mừng với hạnh phúc người khác
 4. **Xả** (upekkhā) — tâm cân bằng, không thiên vị
 
-Upekkhā là đỉnh cao của Tứ Vô Lượng Tâm. 
+Upekkhā là đỉnh cao của Tứ Vô Lượng Tâm.
 
 Không thay thế từ, bi, hỷ. Bao trùm cả ba trong cân bằng hoàn hảo.
 
 ### Từ Bi Hỷ Dẫn Đến Xả
 
-Từ có thể biến thành tham ái nếu dính mắc người thân. 
+Từ có thể biến thành tham ái nếu dính mắc người thân. Bi biến thành ưu sầu nếu quá đắm chìm khổ đau người khác. Hỷ? Biến thành phấn khích thiếu cân bằng.
 
-Bi có thể biến thành ưu sầu nếu quá đắm chìm khổ đau người khác. 
+Upekkhā chỉnh hòa ba tâm này, giúp chúng không biến chất.
 
-Hỷ? Biến thành phấn khích thiếu cân bằng.
-
-Upekkhā chỉnh hòa ba tâm này, giúp chúng không biến chất. Tu tập [Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam/) đầy đủ chính là tu tập cân bằng — yêu thương, thương xót, vui mừng, rồi xả.
+Tu tập [Tứ Vô Lượng Tâm](/blog/tu-bi-hyi-xa-tu-tu-tam/) đầy đủ chính là tu tập cân bằng — yêu thương, thương xót, vui mừng, rồi xả.
 
 ### Xả Không Phải Là Bỏ Mặc
 
-Nhiều người hiểu lầm: "Xả là không quan tâm khổ đau người khác." 
+Nhiều người hiểu lầm: "Xả là không quan tâm khổ đau người khác."
 
-Sai. Xả thanh tịnh vẫn thương yêu, vẫn giúp đỡ. Nhưng:
+Sai.
+
+Xả thanh tịnh vẫn thương yêu, vẫn giúp đỡ. Nhưng:
 
 - Không mong đợi kết quả cụ thể
 - Không dính mắc vào thành bại
 - Không thiên vị người này hơn người kia
 - Không dao động khi người khác không nghe lời
 
-Bồ-tát thực hành xả cứu độ không mỏi mệt, không bị tổn thương bởi vô ơn hay thất bại.
-
-Từ bi bền vững. Không cạn kiệt vì cuốn theo cảm xúc.
+Bồ-tát thực hành xả cứu độ không mỏi mệt, không bị tổn thương bởi vô ơn hay thất bại. Từ bi bền vững. Không cạn kiệt vì cuốn theo cảm xúc.
 
 ## Xả Trong Thất Giác Chi (Bojjhaṅga)
 
@@ -133,7 +131,9 @@ Bởi vì ngay cả sukha vẫn là cảm thọ (vedanā), vẫn thuộc thọ u
 
 Để đạt định sâu nhất — nền tảng của trí tuệ giải thoát — tâm cần vượt qua cả lạc thọ, chỉ còn xả hoàn toàn.
 
-Từ Tứ Thiền, thiền giả có thể tiến vào **bốn vô sắc định** (arūpa-jhāna) cao hơn. Upekkhā là nền móng của tất cả các tầng này. [Thiền định jhāna](/blog/so-thien-va-cao-hon-bac-thien-dinh/) là hành trình buông xả từng tầng để đạt cân bằng tuyệt đối.
+Từ Tứ Thiền, thiền giả tiến vào **bốn vô sắc định** (arūpa-jhāna) cao hơn.
+
+Upekkhā là nền móng của tất cả các tầng này. [Thiền định jhāna](/blog/so-thien-va-cao-hon-bac-thien-dinh/) là hành trình buông xả từng tầng để đạt cân bằng tuyệt đối.
 
 ## Cách Phát Triển Thiền Xả
 
