@@ -64,7 +64,7 @@ Nhưng đừng lầm: từ bi không phải thụ động. Bảo vệ chính ngh
 
 **Đối lập:** Tư duy hại, bạo lực (vihiṃsā-saṅkappa).
 
-Tư duy không hại là ý định không gây tổn thương, không bạo lực — không chỉ về thân (sát sinh, đánh đập), mà cả lời nói (vu khống, chửi mắng) và tâm niệm (mong người khác khổ).
+Tư duy không hại là ý định không gây tổn thương, không bạo lực. Về thân: không sát sinh, không đánh đập. Về lời nói: không vu khống, không chửi mắng. Về tâm niệm: không mong người khác khổ.
 
 Đây là nền tảng của **giới không sát sinh** (paṇātipāta veramaṇī) và **đạo đức Phật giáo về từ bi với mọi sinh linh**. Tư duy không hại mở rộng tâm từ bi không chỉ đến con người, mà đến tất cả chúng sinh — động vật, côn trùng, thậm chí thực vật (tuy Phật giáo không coi thực vật có thức).
 
@@ -72,7 +72,9 @@ Tư duy không hại là ý định không gây tổn thương, không bạo l�
 - Khi thấy con muỗi, tư duy không hại nhắc: "Đánh chết nó dễ, nhưng đó là mạng sống. Có cách nào xa lìa mà không cần giết không?"
 - Khi nói chuyện, tư duy không hại nhắc: "Lời này có làm tổn thương ai không? Dù đúng sự thật, có cách nào nói mà không làm người nghe đau khổ không cần thiết không?"
 
-Tư duy không hại cũng bao gồm **không tự hại chính mình** — tránh khổ hạnh cực đoan, giữ thân tâm khỏe mạnh để tu tập. Đức Phật từ bỏ khổ hạnh 6 năm, chọn Trung Đạo, chính là dạy về không hại chính mình.
+Không hại cũng bao gồm **không tự hại chính mình**.
+
+Tránh khổ hạnh cực đoan, giữ thân tâm khỏe mạnh để tu tập. Đức Phật từ bỏ khổ hạnh 6 năm, chọn Trung Đạo — chính là dạy về không hại chính mình.
 
 ## Tại sao Chánh Tư Duy quan trọng?
 
@@ -183,11 +185,15 @@ Sân hận thường khởi rất nhanh, kéo theo lời nói và hành động 
 
 ## Kết luận: Nghĩ đúng, rồi mới làm đúng
 
-Chánh Tư Duy: từ lý thuyết vào thực hành, từ hiểu biết vào hành động. Không phải điều đọc xong rồi quên — mà là điều **tu tập mỗi ngày**, trong từng suy nghĩ, từng quyết định.
+Chánh Tư Duy: từ lý thuyết vào thực hành, từ hiểu biết vào hành động. 
 
-Khi tham ái khởi lên, nhắc nhở xuất ly. Khi sân hận khởi, nhắc nhở từ bi. Khi ý định hại khởi, nhắc nhở không hại. Dần dần, tâm quen với chiều hướng thiện, và con đường giải thoát không còn là lý thuyết xa vời, mà là bước chân hôm nay.
+Không phải điều đọc xong rồi quên. Mà là điều **tu tập mỗi ngày**, trong từng suy nghĩ, từng quyết định.
 
-Đó là Chánh Tư Duy. Đó là bước thứ hai trên Bát Chánh Đạo. Thiếu nó, con đường không đi được. Có nó, mọi bước sau trở nên dễ dàng hơn.
+Khi tham ái khởi lên, nhắc nhở xuất ly. Khi sân hận khởi, nhắc nhở từ bi. Khi ý định hại khởi, nhắc nhở không hại. 
+
+Dần dần, tâm quen với chiều hướng thiện. Con đường giải thoát không còn là lý thuyết xa vời. Mà là bước chân hôm nay.
+
+Bước thứ hai trên Bát Chánh Đạo. Thiếu nó, con đường không đi được. Có nó, mọi bước sau trở nên dễ dàng hơn.
 
 ---
 
