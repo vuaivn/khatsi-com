@@ -4,7 +4,7 @@ description: "Khám phá Kinh Tăng Chi Bộ, bộ kinh sắp xếp theo pháp s
 pubDate: 2026-08-31
 category: "kinh-dien"
 tags: ["kinh-dien", "anguttara-nikaya", "tang-chi-bo", "pali-canon", "nikaya", "phat-hoc"]
-heroImage: "/images/posts/hero-kinh-tang-chi-bo-anguttara-nikaya-v2.webp"
+heroImage: "/images/posts/hero-kinh-tang-chi-bo-anguttara-nikaya.webp"
 heroAlt: "Thư viện Phật giáo cổ với các bản kinh Pāli được sắp xếp theo pháp số, ánh sáng vàng ấm chiếu qua cửa sổ"
 faq:
   - q: "Kinh Tăng Chi Bộ khác gì với các Nikāya khác?"
@@ -22,9 +22,9 @@ draft: false
 
 Tên gọi "Aṅguttara" (Pāli) có nghĩa đen là "thêm một chi tiết" hay "tăng thêm một yếu tố" (*aṅga* = chi, *uttara* = thêm, cao hơn). Nikāya nghĩa là "tập hợp" hay "bộ sưu tập". 
 
-Trong truyền thống Hán truyền, bộ kinh này được dịch là **Tăng Nhất A-Hàm** (增一阿含, Zēng yī Āhán) — "A-Hàm tăng thêm một" — cùng một ý nghĩa. Tên gọi phản ánh cấu trúc độc đáo: mỗi chương tiếp theo thêm một yếu tố vào danh sách pháp số.
+Trong truyền thống Hán truyền, bộ kinh này được dịch là **Tăng Nhất A-Hàm** (增一阿含, Zēng yī Āhán) — "A-Hàm tăng thêm một". Cùng một ý nghĩa.
 
-Không giống [Kinh Trung Bộ (Majjhima Nikāya)](/blog/kinh-trung-bo-majjhima-nikaya/) được sắp theo độ dài trung bình, hay Saṃyutta Nikāya theo chủ đề liên kết, Aṅguttara chọn phương pháp **sắp xếp theo con số** — một kỹ thuật ghi nhớ cổ xưa giúp truyền thống khẩu truyền lưu giữ giáo lý chính xác qua nhiều thế hệ.
+Tên gọi phản ánh cấu trúc độc đáo: mỗi chương tiếp theo thêm một yếu tố vào danh sách pháp số. Không giống [Kinh Trung Bộ (Majjhima Nikāya)](/blog/kinh-trung-bo-majjhima-nikaya/) được sắp theo độ dài trung bình, hay Saṃyutta Nikāya theo chủ đề liên kết, Aṅguttara chọn phương pháp **sắp xếp theo con số**. Một kỹ thuật ghi nhớ cổ xưa giúp truyền thống khẩu truyền lưu giữ giáo lý chính xác qua nhiều thế hệ.
 
 ## Cấu trúc 11 Nipāta: từ một đến mười một
 
