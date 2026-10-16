@@ -6,7 +6,7 @@ category: 'kinh-dien'
 tags: ['thiền tông', 'lục tổ huệ năng', 'kinh điển', 'trực chỉ tâm tánh', 'bản tâm', 'đốn ngộ']
 heroImage: '/images/posts/hero-kinh-phap-bao-dan-platform-sutra.webp'
 heroAlt: 'Kinh Pháp Bảo Đàn - Platform Sutra'
-draft: true
+draft: false
 faq:
   - q: 'Kinh Pháp Bảo Đàn là gì?'
     a: 'Kinh Pháp Bảo Đàn (六祖壇經, Platform Sutra) là kinh điển ghi lại lời dạy của Lục Tổ Huệ Năng, tổ thứ sáu của Thiền Tông Trung Hoa. Đây là kinh điển duy nhất không do Phật thuyết mà vẫn được gọi là "Kinh", thể hiện tầm quan trọng đặc biệt của nó trong truyền thống Thiền Tông.'
@@ -58,7 +58,7 @@ Giáo lý trung tâm của Kinh Pháp Bảo Đàn là **bản tâm vốn thanh t
 > "Bồ-đề tự tánh, vốn lai thanh tịnh.  
 > Chỉ dùng tâm này, trực liền thành Phật."
 
-Không giống như quan điểm cho rằng phiền não che lấp bản tánh cần phải dần dần gột rửa, Huệ Năng khẳng định rằng bản tâm không bao giờ bị ô nhiễm. Phiền não và bồ-đề không phải hai thứ đối lập, mà là cùng một bản thể.
+Quan điểm truyền thống: phiền não che lấp bản tánh, cần dần dần gột rửa. Huệ Năng? Ngược hẳn. Bản tâm chưa bao giờ bị ô nhiễm. Phiền não và bồ-đề chỉ là hai mặt của cùng một đồng xu.
 
 Bài kệ nổi tiếng của ông trước Ngũ Tổ Hoằng Nhẫn thể hiện điều này:
 
@@ -67,13 +67,13 @@ Bài kệ nổi tiếng của ông trước Ngũ Tổ Hoằng Nhẫn thể hiệ
 > Vốn không một vật gì,  
 > Chỗ nào có trần ai?"
 
-Khác với bài kệ của Thần Tú ("Thân là cây bồ-đề, tâm như gương sáng đài..."), Huệ Năng phủ nhận luôn cả sự tồn tại của trần cấu cần phải lau chùi.
+Thần Tú nói: "Thân là cây bồ-đề, tâm như gương sáng đài..." - cần cần chùi. Huệ Năng? Phủ nhận luôn. Trần cấu đâu có tồn tại mà phải lau?
 
 ### 2. Đốn Ngộ (頓悟)
 
 [Thiền Tông](/blog/thien-tong-zen-chan-phat-hoc/) theo Huệ Năng nhấn mạnh **đốn ngộ** - giác ngộ đột ngột, tức khắc, thay vì tiệm ngộ (giác ngộ từ từ qua nhiều giai đoạn).
 
-Đốn ngộ không có nghĩa là không cần tu tập, mà là nhận ra bản tánh thanh tịnh vốn có trong một khoảnh khắc. Một khi đã "kiến tánh" (thấy bản tánh), người tu liền là Phật, không cần trải qua vô số kiếp.
+Đốn ngộ không nghĩa là "thôi không tu nữa". Nó là nhận ra bản tánh trong một khoảnh khắc. Kiến tánh rồi? Bạn là Phật. Không cần vô số kiếp, không cần chờ đợi.
 
 Huệ Năng phân biệt rõ:
 - **Pháp không đốn tiệm, nhưng người có lợi độn**: Chân lý tự thân không chia thành đốn hay tiệm, nhưng người có căn cơ nhanh chậm khác nhau.
@@ -120,7 +120,7 @@ Huệ Năng dạy:
 > Tự tánh không chứa thiện ác.  
 > Tự tánh tự độ, gọi là chân độ."
 
-Phật không phải là một đấng cao xa ngoài kia, mà chính là bản tánh thanh tịnh ngay trong tâm mỗi người. Tu hành không phải để trở thành cái gì khác, mà là nhận ra cái vốn có.
+Phật đâu xa. Ngay trong tâm bạn. Tu không phải để "trở thành", mà để "nhận ra" cái vốn đã có từ đầu.
 
 ## Những Đoạn Kinh Nổi Tiếng
 
@@ -242,7 +242,7 @@ Trong đời sống hàng ngày:
 
 Kinh Pháp Bảo Đàn là một trong những kinh điển cách mạng nhất trong lịch sử Phật giáo. Bằng cách đưa ra giáo lý về bản tâm thanh tịnh và đốn ngộ, Huệ Năng đã mở ra một con đường tu tập trực tiếp, không rườm rà, phù hợp với tinh thần Trung Hoa và sau này lan rộng ra khắp Đông Á.
 
-Lời dạy của kinh không phải là lý thuyết cao siêu xa vời, mà là sự chỉ thẳng vào kinh nghiệm trực tiếp: nhận ra rằng ngay bây giờ, ngay nơi đây, tâm thức của ta vốn thanh tịnh, vốn là Phật. Không cần tìm kiếm ở đâu xa, không cần trải qua vô số kiếp - chỉ cần một niệm quay về, liền thấy bản lai diện mục.
+Lời dạy của kinh không xa vời. Nó chỉ thẳng: ngay bây giờ, tâm bạn vốn thanh tịnh. Vốn là Phật. Đừng tìm ở đâu xa. Đừng nghĩ phải tu vô số kiếp. Một niệm quay về. Thấy ngay.
 
 **Đọc thêm:**
 
